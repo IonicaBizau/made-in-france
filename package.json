@@ -61,7 +61,8 @@
           "[Lua](#lua)",
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
-          "[Perl](#perl)"
+          "[Perl](#perl)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -8844,6 +8845,1437 @@
               "[@Ovid](https://github.com/Ovid)/[**Test-JSON**](https://github.com/Ovid/Test-JSON)",
               "Perl support for testing JSON",
               "[:arrow_upper_right:](http://search.cpan.org/dist/Test-JSON/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "8941",
+              "[@fzaninotto](https://github.com/fzaninotto)/[**Faker**](https://github.com/fzaninotto/Faker)",
+              "Faker is a PHP library that generates fake data for you",
+              ""
+            ],
+            [
+              "1489",
+              "[@maximebf](https://github.com/maximebf)/[**php-debugbar**](https://github.com/maximebf/php-debugbar)",
+              "Debug bar for PHP",
+              "[:arrow_upper_right:](phpdebugbar.com)"
+            ],
+            [
+              "885",
+              "[@Herzult](https://github.com/Herzult)/[**SimplePHPEasyPlus**](https://github.com/Herzult/SimplePHPEasyPlus)",
+              "A simple, pragmatic numeric operation api written in PHP. It does addition.",
+              ""
+            ],
+            [
+              "671",
+              "[@willdurand](https://github.com/willdurand)/[**Hateoas**](https://github.com/willdurand/Hateoas)",
+              "A PHP library to support implementing representations for HATEOAS REST web services.",
+              "[:arrow_upper_right:](http://hateoas-php.org/)"
+            ],
+            [
+              "589",
+              "[@Anahkiasen](https://github.com/Anahkiasen)/[**underscore-php**](https://github.com/Anahkiasen/underscore-php)",
+              "A redacted PHP port of Underscore.js with additional functions and goodies – Available for Composer and Laravel",
+              "[:arrow_upper_right:](http://anahkiasen.github.com/underscore-php/)"
+            ],
+            [
+              "404",
+              "[@ronanguilloux](https://github.com/ronanguilloux)/[**IsoCodes**](https://github.com/ronanguilloux/IsoCodes)",
+              "PHP library - Validators for standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries",
+              ""
+            ],
+            [
+              "398",
+              "[@willdurand](https://github.com/willdurand)/[**EmailReplyParser**](https://github.com/willdurand/EmailReplyParser)",
+              "PHP library for parsing plain text email content, based on GitHub's email_reply_parser library.",
+              ""
+            ],
+            [
+              "342",
+              "[@ornicar](https://github.com/ornicar)/[**php-github-api**](https://github.com/ornicar/php-github-api)",
+              "NOT MAINTAINED - Development moved to github.com/KnpLabs/php-github-api",
+              "[:arrow_upper_right:](github.com/KnpLabs/php-github-api)"
+            ],
+            [
+              "325",
+              "[@willdurand](https://github.com/willdurand)/[**Negotiation**](https://github.com/willdurand/Negotiation)",
+              "Content Negotiation tools for PHP.",
+              "[:arrow_upper_right:](http://williamdurand.fr/Negotiation/)"
+            ],
+            [
+              "297",
+              "[@Anahkiasen](https://github.com/Anahkiasen)/[**flatten**](https://github.com/Anahkiasen/flatten)",
+              "A package to flatten any website to plain HTML",
+              ""
+            ],
+            [
+              "293",
+              "[@mnapoli](https://github.com/mnapoli)/[**silly**](https://github.com/mnapoli/silly)",
+              "Silly CLI micro-framework based on Symfony Console",
+              "[:arrow_upper_right:](http://mnapoli.fr/silly/)"
+            ],
+            [
+              "266",
+              "[@ornicar](https://github.com/ornicar)/[**lichess-old**](https://github.com/ornicar/lichess-old)",
+              "NOT MAINTAINED - see http://github.com/ornicar/lila",
+              "[:arrow_upper_right:](http://lichess.org)"
+            ],
+            [
+              "249",
+              "[@willdurand](https://github.com/willdurand)/[**BazingaFakerBundle**](https://github.com/willdurand/BazingaFakerBundle)",
+              "Put the awesome Faker library into the Symfony2 DIC and populate your database with fake data.",
+              ""
+            ],
+            [
+              "232",
+              "[@Herzult](https://github.com/Herzult)/[**php-ssh**](https://github.com/Herzult/php-ssh)",
+              "An experimental object oriented SSH api in PHP",
+              ""
+            ],
+            [
+              "181",
+              "[@fzaninotto](https://github.com/fzaninotto)/[**Streamer**](https://github.com/fzaninotto/Streamer)",
+              "Object-Oriented API for PHP streams",
+              ""
+            ],
+            [
+              "170",
+              "[@ornicar](https://github.com/ornicar)/[**php-git-repo**](https://github.com/ornicar/php-git-repo)",
+              "NOT MAINTAINED - Provide an object oriented wrapper to run any Git command. For PHP 5.2 and 5.3.",
+              ""
+            ],
+            [
+              "170",
+              "[@willdurand](https://github.com/willdurand)/[**BazingaHateoasBundle**](https://github.com/willdurand/BazingaHateoasBundle)",
+              "Integration of the Hateoas library into Symfony2.",
+              ""
+            ],
+            [
+              "169",
+              "[@dunglas](https://github.com/dunglas)/[**DunglasActionBundle**](https://github.com/dunglas/DunglasActionBundle)",
+              "Symfony controllers, redesigned",
+              "[:arrow_upper_right:](https://dunglas.fr/2016/01/dunglasactionbundle-symfony-controllers-redesigned/)"
+            ],
+            [
+              "156",
+              "[@chanmix51](https://github.com/chanmix51)/[**Pomm**](https://github.com/chanmix51/Pomm)",
+              "PHP Object Model Manager for Postgresql",
+              ""
+            ],
+            [
+              "155",
+              "[@dunglas](https://github.com/dunglas)/[**phpdoc-to-typehint**](https://github.com/dunglas/phpdoc-to-typehint)",
+              "Add scalar type hints and return types to existing PHP projects using PHPDoc annotations",
+              "[:arrow_upper_right:](https://dunglas.fr/2015/11/introducing-the-phpdoc-to-typehint-converter-add-scalar-type-hints-and-return-type-declarations-to-your-projects/)"
+            ],
+            [
+              "154",
+              "[@mnapoli](https://github.com/mnapoli)/[**IsItMaintained**](https://github.com/mnapoli/IsItMaintained)",
+              "Monitor open source projects activity",
+              "[:arrow_upper_right:](http://isitmaintained.com)"
+            ],
+            [
+              "142",
+              "[@willdurand](https://github.com/willdurand)/[**Propilex**](https://github.com/willdurand/Propilex)",
+              "Silex, Propel, Backbone, Stack, Hateoas, Negotiation, and so on!",
+              "[:arrow_upper_right:](http://propilex.herokuapp.com/)"
+            ],
+            [
+              "137",
+              "[@jreinke](https://github.com/jreinke)/[**magento-elasticsearc…**](https://github.com/jreinke/magento-elasticsearch)",
+              "Elasticsearch module for Magento 1.7+",
+              ""
+            ],
+            [
+              "134",
+              "[@ornicar](https://github.com/ornicar)/[**php-user-agent**](https://github.com/ornicar/php-user-agent)",
+              "NOT MAINTAINED - Browser detection in PHP5. Uses a simple and fast algorithm to recognize major browsers.",
+              ""
+            ],
+            [
+              "130",
+              "[@Anahkiasen](https://github.com/Anahkiasen)/[**polyglot**](https://github.com/Anahkiasen/polyglot)",
+              "Laravel localization and translation helper",
+              ""
+            ],
+            [
+              "110",
+              "[@maximebf](https://github.com/maximebf)/[**ConsoleKit**](https://github.com/maximebf/ConsoleKit)",
+              "PHP 5.3 library to create command line utilities",
+              "[:arrow_upper_right:](http://maximebf.github.com/ConsoleKit)"
+            ],
+            [
+              "100",
+              "[@Herzult](https://github.com/Herzult)/[**HerzultForumBundle**](https://github.com/Herzult/HerzultForumBundle)",
+              "A simple Symfony forum bundle.",
+              ""
+            ],
+            [
+              "100",
+              "[@dunglas](https://github.com/dunglas)/[**doctrine-json-odm**](https://github.com/dunglas/doctrine-json-odm)",
+              "An object document mapper for Doctrine ORM using JSON types of modern RDBMS.",
+              "[:arrow_upper_right:](https://dunglas.fr)"
+            ],
+            [
+              "99",
+              "[@mnapoli](https://github.com/mnapoli)/[**phpBeanstalkdAdmin**](https://github.com/mnapoli/phpBeanstalkdAdmin)",
+              "Beanstalkd admin interface",
+              "[:arrow_upper_right:](http://mnapoli.github.com/phpBeanstalkdAdmin/)"
+            ],
+            [
+              "98",
+              "[@ornicar](https://github.com/ornicar)/[**ApcBundle**](https://github.com/ornicar/ApcBundle)",
+              "UNMAINTAINED - Use https://github.com/Smart-Core/Accelerato… instead",
+              ""
+            ],
+            [
+              "97",
+              "[@dunglas](https://github.com/dunglas)/[**DunglasAngularCsrfBu…**](https://github.com/dunglas/DunglasAngularCsrfBundle)",
+              "Automatic CSRF protection for Symfony apps using AngularJS or AJAX",
+              "[:arrow_upper_right:](http://api-platform.com)"
+            ],
+            [
+              "90",
+              "[@willdurand](https://github.com/willdurand)/[**BazingaRestExtraBund…**](https://github.com/willdurand/BazingaRestExtraBundle)",
+              "Provides extra features for your REST APIs built using Symfony.",
+              ""
+            ],
+            [
+              "89",
+              "[@eko](https://github.com/eko)/[**FeedBundle**](https://github.com/eko/FeedBundle)",
+              "A Symfony bundle to build RSS feeds from your entities",
+              "[:arrow_upper_right:](http://vincent.composieux.fr)"
+            ],
+            [
+              "88",
+              "[@jubianchi](https://github.com/jubianchi)/[**phpswitch**](https://github.com/jubianchi/phpswitch)",
+              "A CLI utility to help you build and test PHP versions",
+              "[:arrow_upper_right:](http://jubianchi.github.io/phpswitch/)"
+            ],
+            [
+              "87",
+              "[@fabpot](https://github.com/fabpot)/[**twittee**](https://github.com/fabpot/twittee)",
+              "A Dependency Injection Container that fits in a tweet",
+              "[:arrow_upper_right:](http://www.twittee.org/)"
+            ],
+            [
+              "85",
+              "[@alexandresalome](https://github.com/alexandresalome)/[**mailcatcher**](https://github.com/alexandresalome/mailcatcher)",
+              "A library to manipulate Mailcatcher API",
+              ""
+            ],
+            [
+              "83",
+              "[@fzaninotto](https://github.com/fzaninotto)/[**Doctrine2ActiveRecor…**](https://github.com/fzaninotto/Doctrine2ActiveRecord)",
+              "Experimental ActiveRecord layer on top of Doctrine2 using the Twig templating engine",
+              ""
+            ],
+            [
+              "83",
+              "[@mnapoli](https://github.com/mnapoli)/[**FrontYAML**](https://github.com/mnapoli/FrontYAML)",
+              "YAML Front matter parser",
+              ""
+            ],
+            [
+              "80",
+              "[@dunglas](https://github.com/dunglas)/[**DunglasTodoMVCBundle**](https://github.com/dunglas/DunglasTodoMVCBundle)",
+              "A TodoMVC implementation wrote with Symfony, Chaplin.js and Backbone.js",
+              "[:arrow_upper_right:](https://dunglas.fr/2013/02/symfony-2-todomvc-backbone-chaplin/)"
+            ],
+            [
+              "79",
+              "[@Anahkiasen](https://github.com/Anahkiasen)/[**html-object**](https://github.com/Anahkiasen/html-object)",
+              "A set of classes to create and manipulate HTML objects abstractions",
+              ""
+            ],
+            [
+              "79",
+              "[@jreinke](https://github.com/jreinke)/[**magento-improve-api**](https://github.com/jreinke/magento-improve-api)",
+              "Magento extension to improve some missing features of API.",
+              ""
+            ],
+            [
+              "77",
+              "[@dunglas](https://github.com/dunglas)/[**php-socialshare**](https://github.com/dunglas/php-socialshare)",
+              "Server-side social networks share counts and share links retriever",
+              "[:arrow_upper_right:](https://dunglas.fr/2014/01/introducing-the-socialshare-php-library/)"
+            ],
+            [
+              "76",
+              "[@ubermuda](https://github.com/ubermuda)/[**sflive-docker**](https://github.com/ubermuda/sflive-docker)",
+              "Sources for my Docker talk at Symfony Live Paris 2014",
+              ""
+            ],
+            [
+              "72",
+              "[@alexandresalome](https://github.com/alexandresalome)/[**behat-launcher**](https://github.com/alexandresalome/behat-launcher)",
+              "Launch Behat tests from your browser",
+              ""
+            ],
+            [
+              "62",
+              "[@alexandresalome](https://github.com/alexandresalome)/[**multisite-bundle**](https://github.com/alexandresalome/multisite-bundle)",
+              "A bundle to manage multiple brandings and locales",
+              ""
+            ],
+            [
+              "59",
+              "[@vjousse](https://github.com/vjousse)/[**symfony-1.4**](https://github.com/vjousse/symfony-1.4)",
+              "Copy of the 1.4 branch of the symfony svn. It's here to be used as a git submodule. It will be synchronized every day with the symfony svn.",
+              "[:arrow_upper_right:](http://svn.symfony-project.com/branches/1.4)"
+            ],
+            [
+              "56",
+              "[@jreinke](https://github.com/jreinke)/[**magento-stock-moveme…**](https://github.com/jreinke/magento-stock-movements)",
+              "Magento extension to save products stock movements.",
+              "[:arrow_upper_right:](http://www.bubblecode.net/en/2012/02/07/magento-save-product-stock-moves/)"
+            ],
+            [
+              "53",
+              "[@willdurand](https://github.com/willdurand)/[**nmap**](https://github.com/willdurand/nmap)",
+              "nmap is a PHP wrapper for Nmap.",
+              ""
+            ],
+            [
+              "50",
+              "[@fzaninotto](https://github.com/fzaninotto)/[**CompanyNameGenerator**](https://github.com/fzaninotto/CompanyNameGenerator)",
+              "Generate names for English tech companies with class",
+              ""
+            ],
+            [
+              "46",
+              "[@maximebf](https://github.com/maximebf)/[**atomik**](https://github.com/maximebf/atomik)",
+              "Micro framework for PHP 5.3+",
+              "[:arrow_upper_right:](http://atomikframework.com)"
+            ],
+            [
+              "46",
+              "[@jreinke](https://github.com/jreinke)/[**magento-mink**](https://github.com/jreinke/magento-mink)",
+              "Test your Magento website with Behat Mink.",
+              ""
+            ],
+            [
+              "46",
+              "[@Anahkiasen](https://github.com/Anahkiasen)/[**flickering**](https://github.com/Anahkiasen/flickering)",
+              "A modern PHP interface for the Flickr API",
+              ""
+            ],
+            [
+              "43",
+              "[@maximebf](https://github.com/maximebf)/[**CacheCache**](https://github.com/maximebf/CacheCache)",
+              "Caching library for PHP 5.3+",
+              ""
+            ],
+            [
+              "43",
+              "[@dunglas](https://github.com/dunglas)/[**php-torcontrol**](https://github.com/dunglas/php-torcontrol)",
+              "PHP TorControl, a library to control TOR",
+              "[:arrow_upper_right:](http://dunglas.fr/2013/02/php-torcontrol-a-library-to-control-tor/)"
+            ],
+            [
+              "41",
+              "[@jreinke](https://github.com/jreinke)/[**magento-suffix-stati…**](https://github.com/jreinke/magento-suffix-static-files)",
+              "Add a query parameter to js and css files to force refresh in browser.",
+              ""
+            ],
+            [
+              "40",
+              "[@xavierlacot](https://github.com/xavierlacot)/[**sfDoctrineRestGenera…**](https://github.com/xavierlacot/sfDoctrineRestGeneratorPlugin)",
+              "This symfony plugin permits to generate REST modules bound to Doctrine models. It allows to easily create REST webservices, and provides an extensible framework for data exchange. This git repository is the official git mirror of the SVN repository.",
+              "[:arrow_upper_right:](http://www.symfony-project.org/plugins/sfDoctrineRestGeneratorPlugin)"
+            ],
+            [
+              "39",
+              "[@Darklg](https://github.com/Darklg)/[**CSSLisible**](https://github.com/Darklg/CSSLisible)",
+              "Reformatage et réorganisation de CSS",
+              "[:arrow_upper_right:](http://www.csslisible.com)"
+            ],
+            [
+              "37",
+              "[@willdurand](https://github.com/willdurand)/[**JsonpCallbackValidat…**](https://github.com/willdurand/JsonpCallbackValidator)",
+              "JSONP callback validator.",
+              ""
+            ],
+            [
+              "37",
+              "[@jreinke](https://github.com/jreinke)/[**magento-require-logi…**](https://github.com/jreinke/magento-require-login)",
+              "Magento extension to force customer authentication in frontend.",
+              ""
+            ],
+            [
+              "37",
+              "[@willdurand](https://github.com/willdurand)/[**StateMachineBehavior**](https://github.com/willdurand/StateMachineBehavior)",
+              "This behavior adds a finite state machine to your model.",
+              "[:arrow_upper_right:](http://williamdurand.fr/StateMachineBehavior)"
+            ],
+            [
+              "36",
+              "[@Hounddog](https://github.com/Hounddog)/[**DoctrineDataFixtureM…**](https://github.com/Hounddog/DoctrineDataFixtureModule)",
+              "Doctrine Data Fixture Module for Zf2 with cli integration",
+              ""
+            ],
+            [
+              "35",
+              "[@alexandresalome](https://github.com/alexandresalome)/[**doctrine-extra-bundl…**](https://github.com/alexandresalome/doctrine-extra-bundle)",
+              "Graph features for Doctrine",
+              ""
+            ],
+            [
+              "34",
+              "[@jreinke](https://github.com/jreinke)/[**magento-admin-launch…**](https://github.com/jreinke/magento-admin-launcher)",
+              "An intuitive and powerful launcher for Magento admin panel",
+              ""
+            ],
+            [
+              "34",
+              "[@alexandresalome](https://github.com/alexandresalome)/[**PHP-Selenium**](https://github.com/alexandresalome/PHP-Selenium)",
+              "PHP Selenium library",
+              ""
+            ],
+            [
+              "34",
+              "[@rande](https://github.com/rande)/[**sfSolrPlugin**](https://github.com/rande/sfSolrPlugin)",
+              "this plugin integrates Solr search engine into a symfony application",
+              ""
+            ],
+            [
+              "33",
+              "[@ubermuda](https://github.com/ubermuda)/[**PHPInteractiveShell**](https://github.com/ubermuda/PHPInteractiveShell)",
+              "An interactive shell for PHP, but the cool guys use https://github.com/d11wtq/boris nowadays",
+              ""
+            ],
+            [
+              "33",
+              "[@rande](https://github.com/rande)/[**swCombinePlugin**](https://github.com/rande/swCombinePlugin)",
+              "Combine stylesheets and javascripts files, with no computation at runtime",
+              ""
+            ],
+            [
+              "32",
+              "[@chanmix51](https://github.com/chanmix51)/[**PommBundle**](https://github.com/chanmix51/PommBundle)",
+              "The Symfony2 bundle for Postgresql Object Model Manager",
+              ""
+            ],
+            [
+              "32",
+              "[@Darklg](https://github.com/Darklg)/[**WPUtilities**](https://github.com/Darklg/WPUtilities)",
+              "WordPress skeleton theme and essentials plugins.",
+              ""
+            ],
+            [
+              "32",
+              "[@jreinke](https://github.com/jreinke)/[**magento-import-categ…**](https://github.com/jreinke/magento-import-categories)",
+              "Import Magento categories from cli.",
+              ""
+            ],
+            [
+              "32",
+              "[@alexandresalome](https://github.com/alexandresalome)/[**graphviz**](https://github.com/alexandresalome/graphviz)",
+              "graphviz",
+              ""
+            ],
+            [
+              "31",
+              "[@willdurand](https://github.com/willdurand)/[**BazingaOAuthServerBu…**](https://github.com/willdurand/BazingaOAuthServerBundle)",
+              "[Symfony2] A server side implementation of the OAuth 1.0 protocol based on RFC 5849.",
+              ""
+            ],
+            [
+              "30",
+              "[@ornicar](https://github.com/ornicar)/[**OrnicarAkismetBundle**](https://github.com/ornicar/OrnicarAkismetBundle)",
+              "Akismet.com integration for your Symfony2 application",
+              ""
+            ],
+            [
+              "28",
+              "[@Alex-D](https://github.com/Alex-D)/[**HomeWAMP**](https://github.com/Alex-D/HomeWAMP)",
+              "A new style for the homepage of WAMP",
+              "[:arrow_upper_right:](http://alex-d.fr/)"
+            ],
+            [
+              "27",
+              "[@willdurand](https://github.com/willdurand)/[**StackNegotiation**](https://github.com/willdurand/StackNegotiation)",
+              "Stack middleware for content negotiation.",
+              ""
+            ],
+            [
+              "26",
+              "[@dunglas](https://github.com/dunglas)/[**php-property-info**](https://github.com/dunglas/php-property-info)",
+              "Retrieve type and description of PHP properties using various sources ",
+              "[:arrow_upper_right:](https://dunglas.fr/2015/02/introducing-propertyinfo-a-php-component-to-find-types-and-doc-of-properties/)"
+            ],
+            [
+              "26",
+              "[@eko](https://github.com/eko)/[**GoogleTranslateBundl…**](https://github.com/eko/GoogleTranslateBundle)",
+              "A Symfony bundle to deals with Google Translate API",
+              ""
+            ],
+            [
+              "26",
+              "[@Anahkiasen](https://github.com/Anahkiasen)/[**fakable**](https://github.com/Anahkiasen/fakable)",
+              "Allows the creation and seeding of fake Eloquent models",
+              ""
+            ],
+            [
+              "25",
+              "[@mnapoli](https://github.com/mnapoli)/[**externals**](https://github.com/mnapoli/externals)",
+              "Opening PHP's #internals to the outside",
+              "[:arrow_upper_right:](http://externals.io)"
+            ],
+            [
+              "21",
+              "[@alexandresalome](https://github.com/alexandresalome)/[**assetic-extra-bundle**](https://github.com/alexandresalome/assetic-extra-bundle)",
+              "Asset Directory filter for Assetic",
+              ""
+            ],
+            [
+              "20",
+              "[@corsonr](https://github.com/corsonr)/[**woocommerce-snippets…**](https://github.com/corsonr/woocommerce-snippets-library)",
+              "WooCommerce Snippets Library",
+              ""
+            ],
+            [
+              "20",
+              "[@ornicar](https://github.com/ornicar)/[**FOQTyperBundle**](https://github.com/ornicar/FOQTyperBundle)",
+              "Generate PHP classes from YAML templates",
+              ""
+            ],
+            [
+              "20",
+              "[@dunglas](https://github.com/dunglas)/[**blog-api**](https://github.com/dunglas/blog-api)",
+              "A demonstration blog API for the API Platform framework",
+              ""
+            ],
+            [
+              "20",
+              "[@Anahkiasen](https://github.com/Anahkiasen)/[**arrounded**](https://github.com/Anahkiasen/arrounded)",
+              "A set of self-aware Laravel abstracts that know their way around",
+              ""
+            ],
+            [
+              "19",
+              "[@ornicar](https://github.com/ornicar)/[**php-html-writer**](https://github.com/ornicar/php-html-writer)",
+              "Write HTML tags with CSS expressions",
+              ""
+            ],
+            [
+              "19",
+              "[@mnapoli](https://github.com/mnapoli)/[**phpunit-easymock**](https://github.com/mnapoli/phpunit-easymock)",
+              "Build PHPUnit mocks easily",
+              ""
+            ],
+            [
+              "18",
+              "[@alexandresalome](https://github.com/alexandresalome)/[**php-webdriver**](https://github.com/alexandresalome/php-webdriver)",
+              "PHP WebDriver client and Behat extension",
+              ""
+            ],
+            [
+              "18",
+              "[@jreinke](https://github.com/jreinke)/[**magento-amqp**](https://github.com/jreinke/magento-amqp)",
+              "Magento extension for sending messages through AMQP protocol (RabbitMQ, ActiveMQ, ...)",
+              ""
+            ],
+            [
+              "18",
+              "[@jreinke](https://github.com/jreinke)/[**magento-hide-default…**](https://github.com/jreinke/magento-hide-default-store-code)",
+              "Hide default store code from URLs",
+              ""
+            ],
+            [
+              "18",
+              "[@dunglas](https://github.com/dunglas)/[**kdDoctrineGuardFaceb…**](https://github.com/dunglas/kdDoctrineGuardFacebookConnectPlugin)",
+              "Facebook Connect symfony plugin (extends sfGuardPlugin)",
+              "[:arrow_upper_right:](http://dunglas.fr)"
+            ],
+            [
+              "18",
+              "[@nicolas-grekas](https://github.com/nicolas-grekas)/[**Patchwork**](https://github.com/nicolas-grekas/Patchwork)",
+              "PHP research framework",
+              "[:arrow_upper_right:](http://pa.tchwork.com/)"
+            ],
+            [
+              "18",
+              "[@Anahkiasen](https://github.com/Anahkiasen)/[**illuminage**](https://github.com/Anahkiasen/illuminage)",
+              "Wrapper for the Imagine library that manages caching of images",
+              ""
+            ],
+            [
+              "17",
+              "[@alexandresalome](https://github.com/alexandresalome)/[**website**](https://github.com/alexandresalome/website)",
+              "Sourecode of http://alexandre-salome.fr",
+              ""
+            ],
+            [
+              "17",
+              "[@maximebf](https://github.com/maximebf)/[**parsec**](https://github.com/maximebf/parsec)",
+              "Contextual text parser for PHP 5.3",
+              ""
+            ],
+            [
+              "17",
+              "[@willdurand](https://github.com/willdurand)/[**TypehintableBehavior**](https://github.com/willdurand/TypehintableBehavior)",
+              "Insane Propel behavior that helps you to be compliant with third-party interfaces by adding type hint to generated methods.",
+              ""
+            ],
+            [
+              "17",
+              "[@willdurand](https://github.com/willdurand)/[**EventDispatcherBehav…**](https://github.com/willdurand/EventDispatcherBehavior)",
+              "Integrates the Symfony2 EventDispatcher component in your Model classes.",
+              ""
+            ],
+            [
+              "17",
+              "[@fzaninotto](https://github.com/fzaninotto)/[**PHPClassNameGenerato…**](https://github.com/fzaninotto/PHPClassNameGenerator)",
+              "Generate PSR-0 compliant class names with ease. ",
+              ""
+            ],
+            [
+              "17",
+              "[@jubianchi](https://github.com/jubianchi)/[**async-generator**](https://github.com/jubianchi/async-generator)",
+              "Non-blocking tasks with only PHP and generators",
+              "[:arrow_upper_right:](http://jubianchi.github.io/async-generator/)"
+            ],
+            [
+              "17",
+              "[@rande](https://github.com/rande)/[**mgI18nPlugin**](https://github.com/rande/mgI18nPlugin)",
+              "Add a popup to translate any i18n messages used by a symfony project",
+              ""
+            ],
+            [
+              "17",
+              "[@ubermuda](https://github.com/ubermuda)/[**SilexBundle**](https://github.com/ubermuda/SilexBundle)",
+              "A Symfony2 Bundle to include Silex apps in your Symfony2 project",
+              ""
+            ],
+            [
+              "17",
+              "[@Hounddog](https://github.com/Hounddog)/[**AlbumRest**](https://github.com/Hounddog/AlbumRest)",
+              "Sample rest implemention of album for Zend Framework 2",
+              ""
+            ],
+            [
+              "17",
+              "[@ronanguilloux](https://github.com/ronanguilloux)/[**temperature-pi**](https://github.com/ronanguilloux/temperature-pi)",
+              "Raspberry Pi based temperature logger using a DS18B20 1-Wire digital temperature sensor",
+              ""
+            ],
+            [
+              "16",
+              "[@Synchro](https://github.com/Synchro)/[**UASparser**](https://github.com/Synchro/UASparser)",
+              "User Agent String parser for PHP from user-agent-string.info",
+              ""
+            ],
+            [
+              "16",
+              "[@maximebf](https://github.com/maximebf)/[**events**](https://github.com/maximebf/events)",
+              "Events library for PHP 5.3+",
+              "[:arrow_upper_right:](http://maximebf.github.com/events)"
+            ],
+            [
+              "16",
+              "[@ornicar](https://github.com/ornicar)/[**ltc**](https://github.com/ornicar/ltc)",
+              "French website built on Symfony2",
+              ""
+            ],
+            [
+              "16",
+              "[@jreinke](https://github.com/jreinke)/[**magento-config-nav**](https://github.com/jreinke/magento-config-nav)",
+              "Include configuration tabs into admin nav for fast access",
+              ""
+            ],
+            [
+              "15",
+              "[@Anahkiasen](https://github.com/Anahkiasen)/[**registry**](https://github.com/Anahkiasen/registry)",
+              "The Laravel Packages Registry",
+              "[:arrow_upper_right:](http://registry.autopergamene.eu/)"
+            ],
+            [
+              "15",
+              "[@ronanguilloux](https://github.com/ronanguilloux)/[**SilexMarkdown**](https://github.com/ronanguilloux/SilexMarkdown)",
+              "Markdown-generated dynamic website, using damn simple markdown files & Silex micro-framework",
+              ""
+            ],
+            [
+              "15",
+              "[@rande](https://github.com/rande)/[**sfFormBundle**](https://github.com/rande/sfFormBundle)",
+              "sfForm port for Symfony 2",
+              ""
+            ],
+            [
+              "15",
+              "[@ornicar](https://github.com/ornicar)/[**diem-project**](https://github.com/ornicar/diem-project)",
+              "Diem Project official website",
+              "[:arrow_upper_right:](http://diem-project.org/)"
+            ],
+            [
+              "14",
+              "[@mnapoli](https://github.com/mnapoli)/[**BlackBox**](https://github.com/mnapoli/BlackBox)",
+              "[Experimental] Versatile storage library",
+              "[:arrow_upper_right:](http://mnapoli.fr/BlackBox/)"
+            ],
+            [
+              "14",
+              "[@Anahkiasen](https://github.com/Anahkiasen)/[**janitor**](https://github.com/Anahkiasen/janitor)",
+              "Dust off your Laravel applications",
+              ""
+            ],
+            [
+              "14",
+              "[@xavierlacot](https://github.com/xavierlacot)/[**symfpony-project.org**](https://github.com/xavierlacot/symfpony-project.org)",
+              "REST-style ponies in the wild",
+              "[:arrow_upper_right:](http://symfpony-project.org)"
+            ],
+            [
+              "13",
+              "[@rande](https://github.com/rande)/[**swFunctionalTestGene…**](https://github.com/rande/swFunctionalTestGenerationPlugin)",
+              "Add functional test generation to the symfony framework",
+              ""
+            ],
+            [
+              "13",
+              "[@mnapoli](https://github.com/mnapoli)/[**DoctrineTranslated**](https://github.com/mnapoli/DoctrineTranslated)",
+              "Translated strings for Doctrine",
+              ""
+            ],
+            [
+              "13",
+              "[@ornicar](https://github.com/ornicar)/[**pgn4web**](https://github.com/ornicar/pgn4web)",
+              "Git mirror of http://code.google.com/p/pgn4web/ ",
+              "[:arrow_upper_right:](http://code.google.com/p/pgn4web/ )"
+            ],
+            [
+              "12",
+              "[@alexandresalome](https://github.com/alexandresalome)/[**pagination**](https://github.com/alexandresalome/pagination)",
+              "PHP library to paginate",
+              ""
+            ],
+            [
+              "12",
+              "[@ornicar](https://github.com/ornicar)/[**ZendPaginatorAdapter**](https://github.com/ornicar/ZendPaginatorAdapter)",
+              "Provides Zend Paginator Adapters. Currently Doctrine MongoDB and Doctrine ORM pagers are implemented.",
+              ""
+            ],
+            [
+              "11",
+              "[@vjousse](https://github.com/vjousse)/[**doBoxieAdminGenerato…**](https://github.com/vjousse/doBoxieAdminGeneratorThemePlugin)",
+              "symfony admin generator theme based on Boxie theme by gwaihir http://themeforest.net/item/boxie-admin/…",
+              ""
+            ],
+            [
+              "11",
+              "[@chanmix51](https://github.com/chanmix51)/[**elcaro**](https://github.com/chanmix51/elcaro)",
+              "ELCARO - Pomm tutorial",
+              ""
+            ],
+            [
+              "11",
+              "[@ubermuda](https://github.com/ubermuda)/[**sfDoctrineThumbnaila…**](https://github.com/ubermuda/sfDoctrineThumbnailablePlugin)",
+              "Provides easy thumbnail making for your doctrine models",
+              "[:arrow_upper_right:](http://www.symfony-project.org/plugins/sfDoctrineThumbnailablePlugin)"
+            ],
+            [
+              "10",
+              "[@alexandresalome](https://github.com/alexandresalome)/[**web-bundle**](https://github.com/alexandresalome/web-bundle)",
+              "A bundle for web applications",
+              ""
+            ],
+            [
+              "10",
+              "[@mnapoli](https://github.com/mnapoli)/[**framework-interop**](https://github.com/mnapoli/framework-interop)",
+              "Run several web frameworks in a single application",
+              "[:arrow_upper_right:](http://frameworkinterop.herokuapp.com)"
+            ],
+            [
+              "10",
+              "[@willdurand](https://github.com/willdurand)/[**PublishableBehavior**](https://github.com/willdurand/PublishableBehavior)",
+              "The PublishableBehavior is designed to quickly add publish/unpublish features to your model.",
+              "[:arrow_upper_right:](http://williamdurand.fr/PublishableBehavior)"
+            ],
+            [
+              "10",
+              "[@chanmix51](https://github.com/chanmix51)/[**SlapOM**](https://github.com/chanmix51/SlapOM)",
+              "Small Object Model Manager for LDAP.",
+              ""
+            ],
+            [
+              "10",
+              "[@willdurand](https://github.com/willdurand)/[**BazingaPropelEventDi…**](https://github.com/willdurand/BazingaPropelEventDispatcherBundle)",
+              "Integrates the Propel EventDispatcherBehavior into Symfony2.",
+              ""
+            ],
+            [
+              "9",
+              "[@willdurand](https://github.com/willdurand)/[**workshop-rest-from-z…**](https://github.com/willdurand/workshop-rest-from-zero-to-hero)",
+              "Workshop.",
+              ""
+            ],
+            [
+              "9",
+              "[@Anahkiasen](https://github.com/Anahkiasen)/[**seonnet**](https://github.com/Anahkiasen/seonnet)",
+              "SEO handler for Laravel 4, with customization of slugs, meta data and more",
+              ""
+            ],
+            [
+              "9",
+              "[@ronanguilloux](https://github.com/ronanguilloux)/[**php-gpio-web**](https://github.com/ronanguilloux/php-gpio-web)",
+              "Website integration example of the php-gpio lib",
+              ""
+            ],
+            [
+              "9",
+              "[@jreinke](https://github.com/jreinke)/[**magento-debug**](https://github.com/jreinke/magento-debug)",
+              "Debug any Magento page easily by adding ?debug=1 query parameter",
+              ""
+            ],
+            [
+              "8",
+              "[@maximebf](https://github.com/maximebf)/[**TraceablePDO**](https://github.com/maximebf/TraceablePDO)",
+              "Provides profiling information for PDO statements",
+              ""
+            ],
+            [
+              "8",
+              "[@Synchro](https://github.com/Synchro)/[**regdom-php**](https://github.com/Synchro/regdom-php)",
+              "An improved version of Florian Sager's regdom library for PHP for partial validation of domain names using Mozilla's effective-TLD database.",
+              ""
+            ],
+            [
+              "8",
+              "[@mnapoli](https://github.com/mnapoli)/[**NumberTwo**](https://github.com/mnapoli/NumberTwo)",
+              "A classy variable dumper",
+              ""
+            ],
+            [
+              "8",
+              "[@dunglas](https://github.com/dunglas)/[**planning**](https://github.com/dunglas/planning)",
+              "Planning management written in Symfony2 and Doctrine 2",
+              "[:arrow_upper_right:](http://lapin-blanc.net)"
+            ],
+            [
+              "8",
+              "[@mnapoli](https://github.com/mnapoli)/[**assembly**](https://github.com/mnapoli/assembly)",
+              "[EXPERIMENTAL] Implementation of container-interop/definition-interop",
+              ""
+            ],
+            [
+              "8",
+              "[@xavierlacot](https://github.com/xavierlacot)/[**cleverFilesystemPlug…**](https://github.com/xavierlacot/cleverFilesystemPlugin)",
+              "This plugin allows to have an abstract access in PHP to the filesystem, whatever its type. Based on the adapter pattern, this symfony plugin provides an easy way to abstract the access to the filesystem.",
+              "[:arrow_upper_right:](http://www.symfony-project.org/plugins/cleverFilesystemPlugin)"
+            ],
+            [
+              "8",
+              "[@dunglas](https://github.com/dunglas)/[**php-to-json-schema**](https://github.com/dunglas/php-to-json-schema)",
+              "Creates a JSON Schema from a PHP class",
+              "[:arrow_upper_right:](https://dunglas.fr)"
+            ],
+            [
+              "7",
+              "[@willdurand](https://github.com/willdurand)/[**InstaSync**](https://github.com/willdurand/InstaSync)",
+              "Synchronize your Twitter Favorites list with your Instapaper account.",
+              ""
+            ],
+            [
+              "7",
+              "[@rande](https://github.com/rande)/[**swToolboxPlugin**](https://github.com/rande/swToolboxPlugin)",
+              "Add some extra tools to symfony",
+              ""
+            ],
+            [
+              "7",
+              "[@rande](https://github.com/rande)/[**swCrossLinkApplicati…**](https://github.com/rande/swCrossLinkApplicationPlugin)",
+              "Easily create links between symfony applications.",
+              ""
+            ],
+            [
+              "7",
+              "[@dunglas](https://github.com/dunglas)/[**DunglasTorControlBun…**](https://github.com/dunglas/DunglasTorControlBundle)",
+              "Integration of PHP TorControl library in Symfony",
+              "[:arrow_upper_right:](http://dunglas.fr/2013/03/dunglastorcontrolbundle-torcontrol-symfony-integration/)"
+            ],
+            [
+              "7",
+              "[@jreinke](https://github.com/jreinke)/[**magento-create-admin…**](https://github.com/jreinke/magento-create-admin-controller-example)",
+              "Magento extension to have an example of admin controller creation",
+              "[:arrow_upper_right:](http://www.johannreinke.com/en/2012/02/08/magento-create-your-own-admin-controller-in-a-new-tab/)"
+            ],
+            [
+              "7",
+              "[@mnapoli](https://github.com/mnapoli)/[**MetaModel**](https://github.com/mnapoli/MetaModel)",
+              "[Experimental] Language for traversing and performing actions on your model",
+              ""
+            ],
+            [
+              "7",
+              "[@chanmix51](https://github.com/chanmix51)/[**slapOrm**](https://github.com/chanmix51/slapOrm)",
+              "A simple ORM for Ldap",
+              ""
+            ],
+            [
+              "7",
+              "[@alexandresalome](https://github.com/alexandresalome)/[**journal-extension**](https://github.com/alexandresalome/journal-extension)",
+              "Behat extension to add screenshots in HTML reports",
+              ""
+            ],
+            [
+              "7",
+              "[@Darklg](https://github.com/Darklg)/[**BaseWordpressPlugin**](https://github.com/Darklg/BaseWordpressPlugin)",
+              "Une base de travail pour développer un plugin WordPress",
+              "[:arrow_upper_right:](http://darklg.me/)"
+            ],
+            [
+              "7",
+              "[@jreinke](https://github.com/jreinke)/[**magento-query-grid**](https://github.com/jreinke/magento-query-grid)",
+              "Display any SQL query result as grid and chart in Magento Admin",
+              ""
+            ],
+            [
+              "7",
+              "[@chanmix51](https://github.com/chanmix51)/[**sfMongoDBCachePlugin**](https://github.com/chanmix51/sfMongoDBCachePlugin)",
+              "Driver for symfony to handle the cache in a Mongo database",
+              ""
+            ],
+            [
+              "7",
+              "[@eko](https://github.com/eko)/[**InstagramBundle**](https://github.com/eko/InstagramBundle)",
+              "A Symfony bundle to interact with Instagram API",
+              ""
+            ],
+            [
+              "6",
+              "[@chanmix51](https://github.com/chanmix51)/[**PommServiceProvider**](https://github.com/chanmix51/PommServiceProvider)",
+              "The Pomm Extension for the Silex µFramework",
+              "[:arrow_upper_right:](http://pomm.coolkeums.org)"
+            ],
+            [
+              "6",
+              "[@Hounddog](https://github.com/Hounddog)/[**hd-social-oauth2**](https://github.com/Hounddog/hd-social-oauth2)",
+              "Social Oauth2 Module for integration with ZF2 Apigility",
+              ""
+            ],
+            [
+              "6",
+              "[@Anahkiasen](https://github.com/Anahkiasen)/[**packception**](https://github.com/Anahkiasen/packception)",
+              "A package manager manager (you heard that right)",
+              ""
+            ],
+            [
+              "6",
+              "[@mnapoli](https://github.com/mnapoli)/[**imapi**](https://github.com/mnapoli/imapi)",
+              "[EXPERIMENTAL] High level IMAP API for PHP",
+              ""
+            ],
+            [
+              "6",
+              "[@chanmix51](https://github.com/chanmix51)/[**sfMangoBagPlugin**](https://github.com/chanmix51/sfMangoBagPlugin)",
+              "Mary your doctrine database with MongoDB",
+              ""
+            ],
+            [
+              "6",
+              "[@ornicar](https://github.com/ornicar)/[**OrnicarInsaneMarkdow…**](https://github.com/ornicar/OrnicarInsaneMarkdownBundle)",
+              "DEPRECATED - Use PHPSkirt instead https://github.com/chobie/phpskirt",
+              ""
+            ],
+            [
+              "6",
+              "[@Hounddog](https://github.com/Hounddog)/[**HdRouteLayouts**](https://github.com/Hounddog/HdRouteLayouts)",
+              "Simple ZF2 module for making route based layouts",
+              ""
+            ],
+            [
+              "6",
+              "[@eko](https://github.com/eko)/[**foREST**](https://github.com/eko/foREST)",
+              "RESTful PHP 5.3 API Light Framework",
+              "[:arrow_upper_right:](http://vincent.composieux.fr)"
+            ],
+            [
+              "5",
+              "[@chanmix51](https://github.com/chanmix51)/[**sfPgLookPlugin**](https://github.com/chanmix51/sfPgLookPlugin)",
+              "Simple, Fast efficient ORM for symfony to take advantage of Postgresql's features",
+              ""
+            ],
+            [
+              "5",
+              "[@alexandresalome](https://github.com/alexandresalome)/[**magic-db**](https://github.com/alexandresalome/magic-db)",
+              "Proof Of Concept of an application held at Auchan e-Commerce France",
+              ""
+            ],
+            [
+              "5",
+              "[@ubermuda](https://github.com/ubermuda)/[**Maple**](https://github.com/ubermuda/Maple)",
+              "Mapper for PHP 5.4",
+              ""
+            ],
+            [
+              "5",
+              "[@ornicar](https://github.com/ornicar)/[**dmContactPlugin**](https://github.com/ornicar/dmContactPlugin)",
+              "Display a contact form on the site, manage entries on admin",
+              "[:arrow_upper_right:](http://diem-project.org/plugins/dmcontactplugin)"
+            ],
+            [
+              "5",
+              "[@Darklg](https://github.com/Darklg)/[**HTMLLisible**](https://github.com/Darklg/HTMLLisible)",
+              "Reindentation & Correction de HTML",
+              "[:arrow_upper_right:](http://lab.darklg.me/HTMLLisible/ )"
+            ],
+            [
+              "5",
+              "[@dunglas](https://github.com/dunglas)/[**piy**](https://github.com/dunglas/piy)",
+              "A modern self-managed Content Management System",
+              ""
+            ],
+            [
+              "5",
+              "[@jubianchi](https://github.com/jubianchi)/[**tml**](https://github.com/jubianchi/tml)",
+              "TML - Ten Minutes Language",
+              ""
+            ],
+            [
+              "5",
+              "[@dunglas](https://github.com/dunglas)/[**Elgg-profile_friendl…**](https://github.com/dunglas/Elgg-profile_friendlyurl)",
+              "Creates friendly URLs for user's Elgg profiles as subdomains.",
+              "[:arrow_upper_right:](http://lapin-blanc.net)"
+            ],
+            [
+              "5",
+              "[@jreinke](https://github.com/jreinke)/[**magento-module-facto…**](https://github.com/jreinke/magento-module-factory)",
+              "Simple form to initialize Magento modules easily from admin panel.",
+              ""
+            ],
+            [
+              "5",
+              "[@jreinke](https://github.com/jreinke)/[**magento-log-download…**](https://github.com/jreinke/magento-log-downloads)",
+              "A Magento module for logging products downloads.",
+              ""
+            ],
+            [
+              "5",
+              "[@alexandresalome](https://github.com/alexandresalome)/[**Generate-Mails-With-…**](https://github.com/alexandresalome/Generate-Mails-With-Twig)",
+              "Experimental project for testing a blog post",
+              "[:arrow_upper_right:](alexandre-salome.fr/blog/Generate-Mails-With-Twig)"
+            ],
+            [
+              "5",
+              "[@ubermuda](https://github.com/ubermuda)/[**docker-wordpress**](https://github.com/ubermuda/docker-wordpress)",
+              "A Docker image to run Wordpress",
+              ""
+            ],
+            [
+              "4",
+              "[@nicolas-grekas](https://github.com/nicolas-grekas)/[**Patchwork-PHP-Parser**](https://github.com/nicolas-grekas/Patchwork-PHP-Parser)",
+              "PHP classes for fast and extensible PHP code analysis and transformation",
+              "[:arrow_upper_right:](http://pa.tchwork.com/)"
+            ],
+            [
+              "4",
+              "[@ornicar](https://github.com/ornicar)/[**dmSqlBackupPlugin**](https://github.com/ornicar/dmSqlBackupPlugin)",
+              "Creates SQL backups of your project",
+              "[:arrow_upper_right:](http://diem-project.org/plugins/dmsqlbackupplugin)"
+            ],
+            [
+              "4",
+              "[@maximebf](https://github.com/maximebf)/[**atomik-skeleton**](https://github.com/maximebf/atomik-skeleton)",
+              "Atomik Skeleton Application",
+              ""
+            ],
+            [
+              "4",
+              "[@ubermuda](https://github.com/ubermuda)/[**SilexDiscountService…**](https://github.com/ubermuda/SilexDiscountServiceProvider)",
+              "Fast markdown parsing for Silex",
+              ""
+            ],
+            [
+              "4",
+              "[@mnapoli](https://github.com/mnapoli)/[**PiwikTwigExtension**](https://github.com/mnapoli/PiwikTwigExtension)",
+              "Twig extension to provide Piwik integration",
+              ""
+            ],
+            [
+              "4",
+              "[@nicolas-grekas](https://github.com/nicolas-grekas)/[**Patchwork-Error-Logg…**](https://github.com/nicolas-grekas/Patchwork-Error-Logger)",
+              "Advanced PHP error handling and high accuracy JSON logging",
+              ""
+            ],
+            [
+              "4",
+              "[@mnapoli](https://github.com/mnapoli)/[**simplex**](https://github.com/mnapoli/simplex)",
+              "Pimple fork with full container-interop support",
+              ""
+            ],
+            [
+              "4",
+              "[@ornicar](https://github.com/ornicar)/[**dmChessPlugin**](https://github.com/ornicar/dmChessPlugin)",
+              "Multiplayer and artificial intelligence Chess game",
+              "[:arrow_upper_right:](http://diem-project.org/plugins/dmchessplugin)"
+            ],
+            [
+              "4",
+              "[@mnapoli](https://github.com/mnapoli)/[**ReflectionBenchmark**](https://github.com/mnapoli/ReflectionBenchmark)",
+              "Benchmark of all methods allowing access to private properties",
+              ""
+            ],
+            [
+              "4",
+              "[@chanmix51](https://github.com/chanmix51)/[**PommGuardServiceProv…**](https://github.com/chanmix51/PommGuardServiceProvider)",
+              "Authentication and authorization manager for Silex",
+              ""
+            ],
+            [
+              "4",
+              "[@ronanguilloux](https://github.com/ronanguilloux)/[**OpenWines**](https://github.com/ronanguilloux/OpenWines)",
+              "French Vineyards Open Data - HATEOAS RESTful API",
+              ""
+            ],
+            [
+              "4",
+              "[@Hounddog](https://github.com/Hounddog)/[**vagrant-ansible**](https://github.com/Hounddog/vagrant-ansible)",
+              "Multiple Environments using Ansible and Vagrant to setup",
+              ""
+            ],
+            [
+              "4",
+              "[@dunglas](https://github.com/dunglas)/[**api-platform-heroku**](https://github.com/dunglas/api-platform-heroku)",
+              "Helpers to use API Platform and Symfony applications on Heroku.",
+              ""
+            ],
+            [
+              "4",
+              "[@mnapoli](https://github.com/mnapoli)/[**Transform**](https://github.com/mnapoli/Transform)",
+              "[Experimental] Transform [objects, array] to [objects, array]",
+              ""
+            ],
+            [
+              "4",
+              "[@dunglas](https://github.com/dunglas)/[**Elgg-fblink**](https://github.com/dunglas/Elgg-fblink)",
+              "Link a Facebook and an Elgg account",
+              "[:arrow_upper_right:](http://lapin-blanc.net)"
+            ],
+            [
+              "3",
+              "[@corsonr](https://github.com/corsonr)/[**disable-http-calls**](https://github.com/corsonr/disable-http-calls)",
+              "Disabled WordPress HTTP Calls (handy for local testing)",
+              ""
+            ],
+            [
+              "3",
+              "[@ornicar](https://github.com/ornicar)/[**dmWidgetTwitterPlugi…**](https://github.com/ornicar/dmWidgetTwitterPlugin)",
+              "Display tweets in a front widget",
+              "[:arrow_upper_right:](http://diem-project.org/plugins/dmwidgettwitterplugin)"
+            ],
+            [
+              "3",
+              "[@ornicar](https://github.com/ornicar)/[**lantenora**](https://github.com/ornicar/lantenora)",
+              "Photo gallery made with Diem 5.1",
+              "[:arrow_upper_right:](http://esmeree.fr/lantenora)"
+            ],
+            [
+              "3",
+              "[@jreinke](https://github.com/jreinke)/[**time-tracker**](https://github.com/jreinke/time-tracker)",
+              "Symfony time tracker for project management.",
+              ""
+            ],
+            [
+              "3",
+              "[@vjousse](https://github.com/vjousse)/[**Symfony-1.4-synchron…**](https://github.com/vjousse/Symfony-1.4-synchronization-script)",
+              "Simple script to synchronize a svn repo with a git one for symfony (without history)",
+              ""
+            ],
+            [
+              "3",
+              "[@dunglas](https://github.com/dunglas)/[**Elgg-presence**](https://github.com/dunglas/Elgg-presence)",
+              "Friends Online on Elgg, Facebook and Twitter",
+              "[:arrow_upper_right:](http://lapin-blanc.net)"
+            ],
+            [
+              "3",
+              "[@Darklg](https://github.com/Darklg)/[**InteGentoEmailTester**](https://github.com/Darklg/InteGentoEmailTester)",
+              "Simple Testing for Magento transactional emails.",
+              ""
+            ],
+            [
+              "3",
+              "[@Darklg](https://github.com/Darklg)/[**img2datauri**](https://github.com/Darklg/img2datauri)",
+              "Conversion d'une image en background-image avec data:uri // Script by @Darklg & @Colorz",
+              "[:arrow_upper_right:](http://lab.darklg.me/img2datauri/)"
+            ],
+            [
+              "3",
+              "[@mnapoli](https://github.com/mnapoli)/[**minimal-app**](https://github.com/mnapoli/minimal-app)",
+              "Minimalistic web application built using PHP-DI",
+              ""
+            ],
+            [
+              "3",
+              "[@mnapoli](https://github.com/mnapoli)/[**phpLogViewer**](https://github.com/mnapoli/phpLogViewer)",
+              "[Unmaintained] Simple webapp for viewing server logs",
+              "[:arrow_upper_right:](http://mnapoli.github.io/phpLogViewer/)"
+            ],
+            [
+              "3",
+              "[@ornicar](https://github.com/ornicar)/[**dmCommentPlugin**](https://github.com/ornicar/dmCommentPlugin)",
+              "Allows to add comments to your records.",
+              "[:arrow_upper_right:](http://diem-project.org/plugins/dmcommentplugin)"
+            ],
+            [
+              "3",
+              "[@mnapoli](https://github.com/mnapoli)/[**MetaConsole**](https://github.com/mnapoli/MetaConsole)",
+              "[Experimental] CLI console that let's you use MetaModel in your PHP app",
+              ""
+            ],
+            [
+              "3",
+              "[@willdurand](https://github.com/willdurand)/[**StateMachineExporter**](https://github.com/willdurand/StateMachineExporter)",
+              "Generate a Graphviz compatible file (.dot file) from a Propel XML schema, and the StateMachineBehavior.",
+              ""
+            ],
+            [
+              "3",
+              "[@mnapoli](https://github.com/mnapoli)/[**mockup**](https://github.com/mnapoli/mockup)",
+              "[EXPERIMENTAL] Concise mock library for PHP tests.",
+              ""
+            ],
+            [
+              "3",
+              "[@jreinke](https://github.com/jreinke)/[**magento-translate-ad…**](https://github.com/jreinke/magento-translate-admin-form-labels)",
+              "Magento extension to translate category/product form labels easily.",
+              ""
+            ],
+            [
+              "3",
+              "[@Anahkiasen](https://github.com/Anahkiasen)/[**autopergamene**](https://github.com/Anahkiasen/autopergamene)",
+              "Personnal portfolio",
+              ""
+            ],
+            [
+              "3",
+              "[@ronanguilloux](https://github.com/ronanguilloux)/[**rgIsoCodes**](https://github.com/ronanguilloux/rgIsoCodes)",
+              "THIS EXTENSION IS NO LONGER MAINTAINED",
+              ""
+            ],
+            [
+              "3",
+              "[@ornicar](https://github.com/ornicar)/[**diem-talk**](https://github.com/ornicar/diem-talk)",
+              "Website using dmTalkPlugin to provide a web chat",
+              "[:arrow_upper_right:](http://talk.diem-project.org/)"
+            ],
+            [
+              "3",
+              "[@vjousse](https://github.com/vjousse)/[**TagHelperBundle**](https://github.com/vjousse/TagHelperBundle)",
+              "Symfony 2 tag helper, will convert $view->tag->tag('div#test.toto', 'foo'); to <div id=\"test\" class=\"toto\">foo</div>",
+              "[:arrow_upper_right:](http://diem-project.org/diem-5-0/doc/en/reference-book/template-helpers#tag-helpers:_tag-create-a-tag)"
+            ],
+            [
+              "3",
+              "[@vjousse](https://github.com/vjousse)/[**doDoctrineCollection…**](https://github.com/vjousse/doDoctrineCollectionFormPlugin)",
+              "This \"plugin\" allows you to embed and save doctrine (object) forms into a non object form.",
+              ""
+            ],
+            [
+              "3",
+              "[@vjousse](https://github.com/vjousse)/[**dmNewsPlugin**](https://github.com/vjousse/dmNewsPlugin)",
+              "A news plugin for the Diem CMS",
+              "[:arrow_upper_right:](http://diem-project.org/plugins/dmNewsPlugin)"
+            ],
+            [
+              "3",
+              "[@vjousse](https://github.com/vjousse)/[**symfony-1.3---1.4**](https://github.com/vjousse/symfony-1.3---1.4)",
+              "Symfony svn mirror. Mirroring all 1.3 and 1.4 releases (from 1.3.0 to latest 1.4.x)",
+              ""
+            ],
+            [
+              "3",
+              "[@dunglas](https://github.com/dunglas)/[**Elgg-twitterlogin**](https://github.com/dunglas/Elgg-twitterlogin)",
+              "Login to Elgg using Twitter",
+              "[:arrow_upper_right:](http://lapin-blanc.net)"
+            ],
+            [
+              "3",
+              "[@fzaninotto](https://github.com/fzaninotto)/[**sfCookieSessionStora…**](https://github.com/fzaninotto/sfCookieSessionStoragePlugin)",
+              "Cookie-based session storage plugin for the symfony framework",
+              ""
+            ],
+            [
+              "2",
+              "[@ronanguilloux](https://github.com/ronanguilloux)/[**PhpLib**](https://github.com/ronanguilloux/PhpLib)",
+              "Simple PHP lib, tools & helpers",
+              ""
+            ],
+            [
+              "2",
+              "[@xavierlacot](https://github.com/xavierlacot)/[**symfpony-benchmark**](https://github.com/xavierlacot/symfpony-benchmark)",
+              "siege based benchs",
+              ""
+            ],
+            [
+              "2",
+              "[@fzaninotto](https://github.com/fzaninotto)/[**forumphp**](https://github.com/fzaninotto/forumphp)",
+              "Code for my forum PHP 2010 slides",
+              ""
+            ],
+            [
+              "2",
+              "[@nicolas-grekas](https://github.com/nicolas-grekas)/[**Patchwork-Mail-Parse…**](https://github.com/nicolas-grekas/Patchwork-Mail-Parser)",
+              "Stream based RFC tolerant email and bounce parser",
+              ""
+            ],
+            [
+              "2",
+              "[@dunglas](https://github.com/dunglas)/[**Elgg-groups_bookmark…**](https://github.com/dunglas/Elgg-groups_bookmarkswidget)",
+              "Elgg plugin to display a bookmarks widget in groups homepages",
+              "[:arrow_upper_right:](http://lapin-blanc.net)"
+            ],
+            [
+              "2",
+              "[@jubianchi](https://github.com/jubianchi)/[**atoum-shell**](https://github.com/jubianchi/atoum-shell)",
+              "",
+              "[:arrow_upper_right:](https://asciinema.org/a/7758)"
+            ],
+            [
+              "2",
+              "[@alexandresalome](https://github.com/alexandresalome)/[**Magento**](https://github.com/alexandresalome/Magento)",
+              "Repository used for a presentation about automating Magento",
+              ""
+            ],
+            [
+              "2",
+              "[@chanmix51](https://github.com/chanmix51)/[**pomm_weather_tutoria…**](https://github.com/chanmix51/pomm_weather_tutorial)",
+              "This tutorial is deprecated and will be deleted soon",
+              "[:arrow_upper_right:](pomm.coolkeums.org)"
+            ],
+            [
+              "2",
+              "[@rande](https://github.com/rande)/[**Lime2Bundle**](https://github.com/rande/Lime2Bundle)",
+              "include Lime2 lib into Symfony2",
+              ""
+            ],
+            [
+              "2",
+              "[@Anahkiasen](https://github.com/Anahkiasen)/[**versioner**](https://github.com/Anahkiasen/versioner)",
+              "Small CLI utility to easily create new versions of Composer packages ",
+              ""
+            ],
+            [
+              "2",
+              "[@fzaninotto](https://github.com/fzaninotto)/[**Lecture-on-Web-Appli…**](https://github.com/fzaninotto/Lecture-on-Web-Applications-Security)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@maximebf](https://github.com/maximebf)/[**needle**](https://github.com/maximebf/needle)",
+              "Useful functions on top of Pimple",
+              ""
+            ],
+            [
+              "2",
+              "[@ornicar](https://github.com/ornicar)/[**dmGoogleMapPlugin**](https://github.com/ornicar/dmGoogleMapPlugin)",
+              "Easily display configurable google maps",
+              "[:arrow_upper_right:](http://diem-project.org/plugins/dmgooglemapplugin)"
+            ],
+            [
+              "2",
+              "[@corsonr](https://github.com/corsonr)/[**woo-live-stock-quant…**](https://github.com/corsonr/woo-live-stock-quantity)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@ornicar](https://github.com/ornicar)/[**sf2playground**](https://github.com/ornicar/sf2playground)",
+              "A dumb Symfony2 project configured with mongodb+mysql to try out bundles",
+              ""
+            ],
+            [
+              "2",
+              "[@vjousse](https://github.com/vjousse)/[**sfPaymentPlugin**](https://github.com/vjousse/sfPaymentPlugin)",
+              "Up to date version of the original symfony plugin (with branches).",
+              "[:arrow_upper_right:](http://www.symfony-project.org/plugins/sfPaymentPlugin)"
+            ],
+            [
+              "2",
+              "[@ornicar](https://github.com/ornicar)/[**dmTalkPlugin**](https://github.com/ornicar/dmTalkPlugin)",
+              "HTML+CSS+JS chat without registration",
+              ""
+            ],
+            [
+              "2",
+              "[@vjousse](https://github.com/vjousse)/[**devorigin-symfony2**](https://github.com/vjousse/devorigin-symfony2)",
+              "My company website using Symfony2, just to test",
+              "[:arrow_upper_right:](http://www.devorigin.fr)"
+            ],
+            [
+              "2",
+              "[@ornicar](https://github.com/ornicar)/[**ape-petition**](https://github.com/ornicar/ape-petition)",
+              "A complex web application based on Diem 5.1. Buzz & social petitions for a french environmental association.",
+              ""
+            ],
+            [
+              "2",
+              "[@mnapoli](https://github.com/mnapoli)/[**PHPBench**](https://github.com/mnapoli/PHPBench)",
+              "Deprecated, use this instead:",
+              "[:arrow_upper_right:](https://github.com/phpbench/phpbench)"
+            ],
+            [
+              "2",
+              "[@ornicar](https://github.com/ornicar)/[**dmBotPlugin**](https://github.com/ornicar/dmBotPlugin)",
+              "Browses your website, detects errors and preloads the cache",
+              "[:arrow_upper_right:](http://diem-project.org/plugins/dmbotplugin)"
+            ],
+            [
+              "2",
+              "[@mnapoli](https://github.com/mnapoli)/[**MniPagesBundle**](https://github.com/mnapoli/MniPagesBundle)",
+              "Pages and components in Symfony 2",
+              ""
+            ],
+            [
+              "2",
+              "[@ornicar](https://github.com/ornicar)/[**dmWidgetFeedReaderPl…**](https://github.com/ornicar/dmWidgetFeedReaderPlugin)",
+              "Displays RSS and Atom feeds on your site",
+              "[:arrow_upper_right:](http://diem-project.org/plugins/dmwidgetfeedreaderplugin)"
+            ],
+            [
+              "2",
+              "[@Hounddog](https://github.com/Hounddog)/[**ZendFramework**](https://github.com/Hounddog/ZendFramework)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@ornicar](https://github.com/ornicar)/[**mongoPHP**](https://github.com/ornicar/mongoPHP)",
+              "mongoPHP is a simple PHP based MongoDB administration tool based on the GAS Framework. It is completely open source and maintained by Simon Fletcher (http://twitter.com/simonify).",
+              ""
+            ],
+            [
+              "2",
+              "[@vjousse](https://github.com/vjousse)/[**wp-vjousse**](https://github.com/vjousse/wp-vjousse)",
+              "Minimalist and responsive WordPress theme",
+              ""
+            ],
+            [
+              "2",
+              "[@vjousse](https://github.com/vjousse)/[**sfDoctrineAssetsLibr…**](https://github.com/vjousse/sfDoctrineAssetsLibraryPlugin)",
+              "Asset library for symfony",
+              ""
+            ],
+            [
+              "2",
+              "[@ornicar](https://github.com/ornicar)/[**dmGithubPlugin**](https://github.com/ornicar/dmGithubPlugin)",
+              "Provides php-github-api and some front widgets",
+              "[:arrow_upper_right:](http://diem-project.org/plugins/dmgithubplugin)"
             ]
           ]
         }
