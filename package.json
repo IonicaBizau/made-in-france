@@ -69,7 +69,8 @@
           "[Scala](#scala)",
           "[Shell](#shell)",
           "[Swift](#swift)",
-          "[TeX](#tex)"
+          "[TeX](#tex)",
+          "[VimL](#viml)"
         ]
       },
       {
@@ -13561,6 +13562,147 @@
               "5",
               "[@exo7math](https://github.com/exo7math)/[**exo7-livre**](https://github.com/exo7math/exo7-livre)",
               "Fchiers sources des cours Exo7",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "VimL #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "228",
+              "[@romainl](https://github.com/romainl)/[**Apprentice**](https://github.com/romainl/Apprentice)",
+              "A dark, low-contrast, Vim colorscheme.",
+              "[:arrow_upper_right:](http://romainl.github.io/Apprentice/)"
+            ],
+            [
+              "80",
+              "[@romainl](https://github.com/romainl)/[**flattened**](https://github.com/romainl/flattened)",
+              "Solarized, without the bullshit.",
+              ""
+            ],
+            [
+              "77",
+              "[@laurentgoudet](https://github.com/laurentgoudet)/[**vim-howdoi**](https://github.com/laurentgoudet/vim-howdoi)",
+              "A Vim frontend for howdoi, the awesome command line tool that lets you ask what you need and grabs the snippet of code from SO.",
+              ""
+            ],
+            [
+              "52",
+              "[@romainl](https://github.com/romainl)/[**dotvim**](https://github.com/romainl/dotvim)",
+              "My Vim config",
+              ""
+            ],
+            [
+              "51",
+              "[@romainl](https://github.com/romainl)/[**idiomatic-vimrc**](https://github.com/romainl/idiomatic-vimrc)",
+              "Guidelines for sculpting your very own ~/.vimrc.",
+              ""
+            ],
+            [
+              "45",
+              "[@romainl](https://github.com/romainl)/[**vim-qf**](https://github.com/romainl/vim-qf)",
+              "Tame the quickfix window",
+              ""
+            ],
+            [
+              "14",
+              "[@romainl](https://github.com/romainl)/[**vim-qlist**](https://github.com/romainl/vim-qlist)",
+              "Persist the results of :ilist and related commands via the quickfix list.",
+              ""
+            ],
+            [
+              "12",
+              "[@ying17zi](https://github.com/ying17zi)/[**vim-live-latex-previ…**](https://github.com/ying17zi/vim-live-latex-preview)",
+              "A clone of Kevin Klement's vim-live-latex-preview",
+              ""
+            ],
+            [
+              "10",
+              "[@mmai](https://github.com/mmai)/[**wikilink**](https://github.com/mmai/wikilink)",
+              "Personal wiki link navigator ",
+              "[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3618)"
+            ],
+            [
+              "10",
+              "[@Chewie](https://github.com/Chewie)/[**dotfiles**](https://github.com/Chewie/dotfiles)",
+              "A repository containing my configuration files",
+              ""
+            ],
+            [
+              "7",
+              "[@mmai](https://github.com/mmai)/[**vim-markdown-wiki**](https://github.com/mmai/vim-markdown-wiki)",
+              "Vim plugin wich eases links manipulation and navigation in markdown pages",
+              ""
+            ],
+            [
+              "6",
+              "[@mmai](https://github.com/mmai)/[**vim-zenmode**](https://github.com/mmai/vim-zenmode)",
+              "zen mode vim plugin",
+              ""
+            ],
+            [
+              "6",
+              "[@romainl](https://github.com/romainl)/[**Disciple**](https://github.com/romainl/Disciple)",
+              "A light low-contrast Vim colorscheme.",
+              ""
+            ],
+            [
+              "5",
+              "[@romainl](https://github.com/romainl)/[**minivimrc**](https://github.com/romainl/minivimrc)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@Remiii](https://github.com/Remiii)/[**mydotfiles**](https://github.com/Remiii/mydotfiles)",
+              "mydotfiles repository by Remiii",
+              ""
+            ],
+            [
+              "4",
+              "[@romainl](https://github.com/romainl)/[**vim-cool**](https://github.com/romainl/vim-cool)",
+              "A very simple plugin that makes hlsearch more useful.",
+              ""
+            ],
+            [
+              "3",
+              "[@Harenome](https://github.com/Harenome)/[**dotfiles**](https://github.com/Harenome/dotfiles)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@ying17zi](https://github.com/ying17zi)/[**vimfiles**](https://github.com/ying17zi/vimfiles)",
+              "dot vim folder managed with vundle",
+              ""
+            ],
+            [
+              "2",
+              "[@Harenome](https://github.com/Harenome)/[**vim-mipssyntax**](https://github.com/Harenome/vim-mipssyntax)",
+              "MIPS Syntax file",
+              ""
+            ],
+            [
+              "2",
+              "[@sbadia](https://github.com/sbadia)/[**grimvim**](https://github.com/sbadia/grimvim)",
+              "My Vim files",
+              ""
+            ],
+            [
+              "2",
+              "[@SebastienElet](https://github.com/SebastienElet)/[**dotfiles-vim**](https://github.com/SebastienElet/dotfiles-vim)",
+              "Vim configuration",
               ""
             ]
           ]
