@@ -65,7 +65,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[R](#r)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -12796,6 +12797,381 @@
               "[@dmathieu](https://github.com/dmathieu)/[**ember101**](https://github.com/dmathieu/ember101)",
               "Discover EmberJS",
               "[:arrow_upper_right:](http://ember101.heroku.com/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "134",
+              "[@sstone](https://github.com/sstone)/[**amqp-client**](https://github.com/sstone/amqp-client)",
+              "Simple fault-tolerant AMQP client written in Scala and based on Akka and the RabbitMQ java client",
+              ""
+            ],
+            [
+              "109",
+              "[@julienrf](https://github.com/julienrf)/[**play-jsmessages**](https://github.com/julienrf/play-jsmessages)",
+              "Library to compute localized messages of your Play application on client side",
+              ""
+            ],
+            [
+              "77",
+              "[@julienrf](https://github.com/julienrf)/[**play-json-derived-co…**](https://github.com/julienrf/play-json-derived-codecs)",
+              "",
+              ""
+            ],
+            [
+              "55",
+              "[@newca12](https://github.com/newca12)/[**scala-netty-examples**](https://github.com/newca12/scala-netty-examples)",
+              "Scala port of the examples from Jboss Netty distribution",
+              "[:arrow_upper_right:](www.edla.org)"
+            ],
+            [
+              "53",
+              "[@sstone](https://github.com/sstone)/[**akka-amqp-proxies**](https://github.com/sstone/akka-amqp-proxies)",
+              "Akka AMQP proxies",
+              ""
+            ],
+            [
+              "49",
+              "[@davidB](https://github.com/davidB)/[**scala-archetype-simp…**](https://github.com/davidB/scala-archetype-simple)",
+              "a simple maven archetype for project in scala",
+              ""
+            ],
+            [
+              "39",
+              "[@tyrcho](https://github.com/tyrcho)/[**openshift-cartridge-…**](https://github.com/tyrcho/openshift-cartridge-play2)",
+              "Play2 In OpenShift as a cartridge",
+              "[:arrow_upper_right:](https://github.com/tyrcho/openshift-cartridge-play2)"
+            ],
+            [
+              "37",
+              "[@julienrf](https://github.com/julienrf)/[**enum**](https://github.com/julienrf/enum)",
+              "",
+              ""
+            ],
+            [
+              "34",
+              "[@Mironor](https://github.com/Mironor)/[**Play-2.0-Scala-Mongo…**](https://github.com/Mironor/Play-2.0-Scala-MongoDb-Salat-exemple)",
+              "This is a small todo application from the official site but with mongodb support instead of anorm.",
+              ""
+            ],
+            [
+              "23",
+              "[@davidB](https://github.com/davidB)/[**vscaladoc**](https://github.com/davidB/vscaladoc)",
+              "A variation of scaladoc : an API generator for project written in Scala",
+              "[:arrow_upper_right:](http://code.google.com/p/vscaladoc/)"
+            ],
+            [
+              "19",
+              "[@julienrf](https://github.com/julienrf)/[**chooze**](https://github.com/julienrf/chooze)",
+              "",
+              ""
+            ],
+            [
+              "17",
+              "[@loicdescotte](https://github.com/loicdescotte)/[**play24SimpleDI**](https://github.com/loicdescotte/play24SimpleDI)",
+              "Simple dependency Injection with Play 2.4, at compile time only",
+              ""
+            ],
+            [
+              "16",
+              "[@loicdescotte](https://github.com/loicdescotte)/[**touiteur**](https://github.com/loicdescotte/touiteur)",
+              "Streaming examples using Play 2.5 and Akka Streams",
+              "[:arrow_upper_right:](http://loicdescotte.github.io/posts/play25-akka-streams/)"
+            ],
+            [
+              "12",
+              "[@julienrf](https://github.com/julienrf)/[**play-jsonp-filter**](https://github.com/julienrf/play-jsonp-filter)",
+              "JSONP filter for Play framework",
+              ""
+            ],
+            [
+              "12",
+              "[@loicdescotte](https://github.com/loicdescotte)/[**MixTweets-AkkaStream…**](https://github.com/loicdescotte/MixTweets-AkkaStreams)",
+              "Play Framework, Akka Streams and Twitter streaming POC",
+              ""
+            ],
+            [
+              "12",
+              "[@abourdon](https://github.com/abourdon)/[**powerapi-akka**](https://github.com/abourdon/powerapi-akka)",
+              "PowerAPI Akka version",
+              ""
+            ],
+            [
+              "11",
+              "[@davidB](https://github.com/davidB)/[**scalacs**](https://github.com/davidB/scalacs)",
+              "[experimental] http server to run tools like compilation (target to replace fsc+fsc-server)",
+              ""
+            ],
+            [
+              "11",
+              "[@ndeverge](https://github.com/ndeverge)/[**twivent**](https://github.com/ndeverge/twivent)",
+              "Tweet reminders from Google Calendar events.",
+              ""
+            ],
+            [
+              "10",
+              "[@loicdescotte](https://github.com/loicdescotte)/[**activator-play-slick**](https://github.com/loicdescotte/activator-play-slick)",
+              "A typesafe activator template to create a webapp with Play and Slick",
+              ""
+            ],
+            [
+              "9",
+              "[@loicdescotte](https://github.com/loicdescotte)/[**vote4music-scala**](https://github.com/loicdescotte/vote4music-scala)",
+              "Scala version of vote4music play! app",
+              ""
+            ],
+            [
+              "9",
+              "[@julienrf](https://github.com/julienrf)/[**endpoints**](https://github.com/julienrf/endpoints)",
+              "Scala library to define HTTP endpoints",
+              ""
+            ],
+            [
+              "8",
+              "[@julienrf](https://github.com/julienrf)/[**composite-ui-play2**](https://github.com/julienrf/composite-ui-play2)",
+              "",
+              ""
+            ],
+            [
+              "8",
+              "[@julienrf](https://github.com/julienrf)/[**glitter**](https://github.com/julienrf/glitter)",
+              "Embedded Scala DSL for HTML templates",
+              ""
+            ],
+            [
+              "8",
+              "[@apezel](https://github.com/apezel)/[**ts2scala**](https://github.com/apezel/ts2scala)",
+              "typescript 2 scala macro based importer",
+              ""
+            ],
+            [
+              "7",
+              "[@julienrf](https://github.com/julienrf)/[**lms-tutorial**](https://github.com/julienrf/lms-tutorial)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@julienrf](https://github.com/julienrf)/[**twitterstream**](https://github.com/julienrf/twitterstream)",
+              "Sample application inspired from the twitterstream Play 2.0 sample",
+              ""
+            ],
+            [
+              "6",
+              "[@newca12](https://github.com/newca12)/[**scala-atp**](https://github.com/newca12/scala-atp)",
+              "Examples from John Harrison's \"Handbook of Practical Logic and Automated Reasoning\", ported to Scala",
+              "[:arrow_upper_right:](www.edla.org)"
+            ],
+            [
+              "6",
+              "[@julienrf](https://github.com/julienrf)/[**di-with-play2**](https://github.com/julienrf/di-with-play2)",
+              "Dependency injection example using Play2",
+              "[:arrow_upper_right:](http://julien.richard-foy.fr/blog/2011/11/26/dependency-injection-in-scala-with-play-2-it-s-free)"
+            ],
+            [
+              "5",
+              "[@julienrf](https://github.com/julienrf)/[**play-macro-templates**](https://github.com/julienrf/play-macro-templates)",
+              "Using Scala macros to dynamically call Play templates",
+              "[:arrow_upper_right:](http://play-macro-templates.herokuapp.com/)"
+            ],
+            [
+              "5",
+              "[@julienrf](https://github.com/julienrf)/[**play-products**](https://github.com/julienrf/play-products)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@sstone](https://github.com/sstone)/[**metrics-scala**](https://github.com/sstone/metrics-scala)",
+              "clone of codahale's scala wrapper for his great metrics library",
+              ""
+            ],
+            [
+              "5",
+              "[@olivergg](https://github.com/olivergg)/[**sodexowatcher**](https://github.com/olivergg/sodexowatcher)",
+              "Watch Sodexo restaurant occupancy rate.",
+              ""
+            ],
+            [
+              "5",
+              "[@Mironor](https://github.com/Mironor)/[**play-slick-scaldi-si…**](https://github.com/Mironor/play-slick-scaldi-silhouette-seed)",
+              "Up-to-date Play, Slick, Scaldi, Silhouette seed",
+              ""
+            ],
+            [
+              "5",
+              "[@julienrf](https://github.com/julienrf)/[**scala-lessons**](https://github.com/julienrf/scala-lessons)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@stillalex](https://github.com/stillalex)/[**scala-osgi-trials**](https://github.com/stillalex/scala-osgi-trials)",
+              "Scala OSGi Trials",
+              ""
+            ],
+            [
+              "4",
+              "[@julienrf](https://github.com/julienrf)/[**play-custom-pathbind…**](https://github.com/julienrf/play-custom-pathbinder)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@satabin](https://github.com/satabin)/[**toolxit-ng**](https://github.com/satabin/toolxit-ng)",
+              "A set of libraries to manipulate TeX files in Scala  ",
+              "[:arrow_upper_right:](http://toolxit.gnieh.org)"
+            ],
+            [
+              "4",
+              "[@dohzya](https://github.com/dohzya)/[**play2-plugin-httpaut…**](https://github.com/dohzya/play2-plugin-httpauthentication)",
+              "Basic and Digest HTTP Authentication helpers for Play 2",
+              ""
+            ],
+            [
+              "4",
+              "[@fanf](https://github.com/fanf)/[**scala_zeromq**](https://github.com/fanf/scala_zeromq)",
+              "Example of ZeroMQ usage either with native binding library or with Akka",
+              ""
+            ],
+            [
+              "4",
+              "[@stillalex](https://github.com/stillalex)/[**bark-oak**](https://github.com/stillalex/bark-oak)",
+              "Bark is a Jackrabbit Oak explorer.",
+              ""
+            ],
+            [
+              "3",
+              "[@fanf](https://github.com/fanf)/[**scala-spring3-upload**](https://github.com/fanf/scala-spring3-upload)",
+              "An example project for Spring 3 \"JavaConfig\" in Scala",
+              ""
+            ],
+            [
+              "3",
+              "[@davidB](https://github.com/davidB)/[**reabuilder**](https://github.com/davidB/reabuilder)",
+              "experiment : a generic fs reactive/continuous builder ",
+              ""
+            ],
+            [
+              "3",
+              "[@julienrf](https://github.com/julienrf)/[**reactivemongo-derive…**](https://github.com/julienrf/reactivemongo-derived-codecs)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@satabin](https://github.com/satabin)/[**scala-debian**](https://github.com/satabin/scala-debian)",
+              "Debian packaging for Scala",
+              ""
+            ],
+            [
+              "3",
+              "[@loicdescotte](https://github.com/loicdescotte)/[**MixedTweets-2014**](https://github.com/loicdescotte/MixedTweets-2014)",
+              "Play, Iteratee and Twitter streaming POC.",
+              "[:arrow_upper_right:](http://loicdescotte.github.io/posts/mixtweets/)"
+            ],
+            [
+              "3",
+              "[@ndeverge](https://github.com/ndeverge)/[**play2-docs-renderer**](https://github.com/ndeverge/play2-docs-renderer)",
+              "A quick and dirty (and buggy ?) app to navigate through the Play2 documentation hosted on the Play2 Github repository.",
+              "[:arrow_upper_right:](http://play2-docs-snapshot.herokuapp.com)"
+            ],
+            [
+              "3",
+              "[@loicdescotte](https://github.com/loicdescotte)/[**Play2MongoSSE**](https://github.com/loicdescotte/Play2MongoSSE)",
+              "A demo app to push data from database to browser in realtime with reactivemongo and server side events",
+              ""
+            ],
+            [
+              "3",
+              "[@Mironor](https://github.com/Mironor)/[**play-silhouette-mong…**](https://github.com/Mironor/play-silhouette-mongodb-seed)",
+              "play-silhouette-seed with mongodb",
+              ""
+            ],
+            [
+              "2",
+              "[@loicdescotte](https://github.com/loicdescotte)/[**play-redis-benchmark…**](https://github.com/loicdescotte/play-redis-benchmarks)",
+              "Play framework and redis benchmarks with several drivers and modes (synchronous, asynchronous)",
+              ""
+            ],
+            [
+              "2",
+              "[@loicdescotte](https://github.com/loicdescotte)/[**Scales**](https://github.com/loicdescotte/Scales)",
+              "Music scales generator using Scala streams",
+              ""
+            ],
+            [
+              "2",
+              "[@olivergg](https://github.com/olivergg)/[**scala-genetic**](https://github.com/olivergg/scala-genetic)",
+              "Akka / Scala based genetic algorithm for the Knapsack problem",
+              ""
+            ],
+            [
+              "2",
+              "[@davidB](https://github.com/davidB)/[**vscaladoc2_demoprj**](https://github.com/davidB/vscaladoc2_demoprj)",
+              "Sample project use to test vscaladoc2",
+              ""
+            ],
+            [
+              "2",
+              "[@tyrcho](https://github.com/tyrcho)/[**Le-compte-est-bon**](https://github.com/tyrcho/Le-compte-est-bon)",
+              "Solve the game \"le compte est bon\"",
+              ""
+            ],
+            [
+              "2",
+              "[@julienrf](https://github.com/julienrf)/[**etoffe**](https://github.com/julienrf/etoffe)",
+              "Lightweight markup language processor written in Scala",
+              ""
+            ],
+            [
+              "2",
+              "[@julienrf](https://github.com/julienrf)/[**happy-numbers**](https://github.com/julienrf/happy-numbers)",
+              "My solution to the Tony Morris “Happy Numbers” exercise",
+              ""
+            ],
+            [
+              "2",
+              "[@julienrf](https://github.com/julienrf)/[**play-endpoints**](https://github.com/julienrf/play-endpoints)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@julienrf](https://github.com/julienrf)/[**play-forms**](https://github.com/julienrf/play-forms)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@fanf](https://github.com/fanf)/[**scalaio_2014**](https://github.com/fanf/scalaio_2014)",
+              "Code for my presentation on Scala.io 2014 about error management in Scala",
+              ""
+            ],
+            [
+              "2",
+              "[@mosser](https://github.com/mosser)/[**PeanoMachine**](https://github.com/mosser/PeanoMachine)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@newca12](https://github.com/newca12)/[**TMDb-async-client**](https://github.com/newca12/TMDb-async-client)",
+              "Scala async wrapper for TMDb (The Movie Database) API",
+              ""
             ]
           ]
         }
