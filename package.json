@@ -58,7 +58,8 @@
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
           "[Haskell](#haskell)",
-          "[Lua](#lua)"
+          "[Lua](#lua)",
+          "[Matlab](#matlab)"
         ]
       },
       {
@@ -6977,6 +6978,51 @@
               "2",
               "[@Adirelle](https://github.com/Adirelle)/[**AdiDebug**](https://github.com/Adirelle/AdiDebug)",
               "Debugging helper frame",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Matlab #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "9",
+              "[@gcheron](https://github.com/gcheron)/[**P-CNN**](https://github.com/gcheron/P-CNN)",
+              "P-CNN: Pose-based CNN Features for Action Recognition",
+              ""
+            ],
+            [
+              "9",
+              "[@lostanlen](https://github.com/lostanlen)/[**scattering.m**](https://github.com/lostanlen/scattering.m)",
+              "Scattering.m — a MATLAB toolbox for signal scattering",
+              ""
+            ],
+            [
+              "6",
+              "[@christophe-gouel](https://github.com/christophe-gouel)/[**RECS**](https://github.com/christophe-gouel/RECS)",
+              "A solver for nonlinear, dynamic, stochastic, rational expectations equilibrium models",
+              "[:arrow_upper_right:](http://www.recs-solver.org)"
+            ],
+            [
+              "2",
+              "[@RChaintreuil](https://github.com/RChaintreuil)/[**sudoku-generator**](https://github.com/RChaintreuil/sudoku-generator)",
+              "A Sudoku generator for Matlab",
+              ""
+            ],
+            [
+              "2",
+              "[@Simon-Lacoste-Julien](https://github.com/Simon-Lacoste-Julien)/[**linearFW**](https://github.com/Simon-Lacoste-Julien/linearFW)",
+              "Frank-Wolfe optimization variants with a linear convergence rate",
               ""
             ]
           ]
