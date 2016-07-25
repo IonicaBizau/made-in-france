@@ -47,7 +47,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -3598,6 +3599,495 @@
               "[@kartben](https://github.com/kartben)/[**org.eclipse.e4.opens…**](https://github.com/kartben/org.eclipse.e4.opensocial.tests)",
               "org.eclipse.e4.opensocial.tests",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "177",
+              "[@MscrmTools](https://github.com/MscrmTools)/[**XrmToolBox**](https://github.com/MscrmTools/XrmToolBox)",
+              "An application that gather multiple tools to ease the customization and configuration of Microsoft Dynamics CRM",
+              "[:arrow_upper_right:](http://www.xrmtoolbox.com)"
+            ],
+            [
+              "111",
+              "[@garuma](https://github.com/garuma)/[**Moyeu**](https://github.com/garuma/Moyeu)",
+              "Moyeu is the best way to enjoy Boston's bike sharing system on Android",
+              "[:arrow_upper_right:](http://moyeuapp.net)"
+            ],
+            [
+              "109",
+              "[@MrJul](https://github.com/MrJul)/[**ForTea**](https://github.com/MrJul/ForTea)",
+              "A plugin for ReSharper that adds support for T4 (.tt) files",
+              ""
+            ],
+            [
+              "103",
+              "[@laurentkempe](https://github.com/laurentkempe)/[**GitDiffMargin**](https://github.com/laurentkempe/GitDiffMargin)",
+              "Git Diff Margin displays live Git changes of the currently edited file on Visual Studio margin and scroll bar. Supports Visual Studio 2010 through Visual Studio 2015 and Visual Studio 15 preview",
+              "[:arrow_upper_right:](http://visualstudiogallery.msdn.microsoft.com/cf49cf30-2ca6-4ea0-b7cc-6a8e0dadc1a8)"
+            ],
+            [
+              "63",
+              "[@garuma](https://github.com/garuma)/[**SwipeDownToRefresh**](https://github.com/garuma/SwipeDownToRefresh)",
+              "Xamarin.Android implementation of the swipe down to refresh pattern",
+              ""
+            ],
+            [
+              "62",
+              "[@zpqrtbnk](https://github.com/zpqrtbnk)/[**Zbu.ModelsBuilder**](https://github.com/zpqrtbnk/Zbu.ModelsBuilder)",
+              "ZpqrtBnk Umbraco Models Builder",
+              ""
+            ],
+            [
+              "56",
+              "[@MrJul](https://github.com/MrJul)/[**ReSharper.EnhancedTo…**](https://github.com/MrJul/ReSharper.EnhancedTooltip)",
+              "A plugin for JetBrains Resharper that colorizes the tooltip and parameter information.",
+              ""
+            ],
+            [
+              "53",
+              "[@garuma](https://github.com/garuma)/[**FlyOutMenu**](https://github.com/garuma/FlyOutMenu)",
+              "An implementation of a fly-out menu (aka sliding menu, aka that navigation thing on the left) for Xamarin.Android",
+              ""
+            ],
+            [
+              "41",
+              "[@xoofx](https://github.com/xoofx)/[**NUglify**](https://github.com/xoofx/NUglify)",
+              "NUglify is a HTML, JavaScript and CSS minification Library for .NET (fork of AjaxMin + new features)",
+              ""
+            ],
+            [
+              "37",
+              "[@garuma](https://github.com/garuma)/[**bikr**](https://github.com/garuma/bikr)",
+              "Track your rides, simply",
+              "[:arrow_upper_right:](http://bikrapp.net)"
+            ],
+            [
+              "33",
+              "[@thomaslevesque](https://github.com/thomaslevesque)/[**NHotkey**](https://github.com/thomaslevesque/NHotkey)",
+              "A managed library to handle global hotkeys in Windows Forms and WPF applications",
+              ""
+            ],
+            [
+              "31",
+              "[@thomaslevesque](https://github.com/thomaslevesque)/[**Linq.Extras**](https://github.com/thomaslevesque/Linq.Extras)",
+              "A set of extension methods to complement the ones from System.Linq.Enumerable",
+              "[:arrow_upper_right:](http://thomaslevesque.github.io/Linq.Extras/)"
+            ],
+            [
+              "27",
+              "[@garuma](https://github.com/garuma)/[**xamsvg**](https://github.com/garuma/xamsvg)",
+              "SVG Parser for Xamarin.Android",
+              ""
+            ],
+            [
+              "26",
+              "[@xoofx](https://github.com/xoofx)/[**SharpYaml**](https://github.com/xoofx/SharpYaml)",
+              "SharpYaml is a .NET library for YAML",
+              ""
+            ],
+            [
+              "24",
+              "[@xoofx](https://github.com/xoofx)/[**GitRocketFilter**](https://github.com/xoofx/GitRocketFilter)",
+              "Rewrite git branches in a powerful way",
+              ""
+            ],
+            [
+              "24",
+              "[@xoofx](https://github.com/xoofx)/[**SharpDoc**](https://github.com/xoofx/SharpDoc)",
+              "SharpDoc is a documentation tool to generate HTML documentation for .NET projects",
+              ""
+            ],
+            [
+              "19",
+              "[@valryon](https://github.com/valryon)/[**The-Great-Paper-Adve…**](https://github.com/valryon/The-Great-Paper-Adventure)",
+              "(Archive) Source code of The Great Paper Adventure, PC/Xbox 360 (XNA) game.",
+              "[:arrow_upper_right:](https://team-monique.itch.io/the-great-paper-adventure)"
+            ],
+            [
+              "18",
+              "[@cesarsouza](https://github.com/cesarsouza)/[**statistics-workbench**](https://github.com/cesarsouza/statistics-workbench)",
+              "Statistics Workbench helps you learn, explore, estimate and play with a large number of statistical distributions.",
+              "[:arrow_upper_right:](http://accord-framework.net)"
+            ],
+            [
+              "12",
+              "[@thomaslevesque](https://github.com/thomaslevesque)/[**AutoRunCustomTool**](https://github.com/thomaslevesque/AutoRunCustomTool)",
+              "A Visual Studio extension that automatically runs the custom tool on a file when a trigger file is modified",
+              ""
+            ],
+            [
+              "12",
+              "[@garuma](https://github.com/garuma)/[**apachai**](https://github.com/garuma/apachai)",
+              "Picture uploading for the rest of us",
+              ""
+            ],
+            [
+              "10",
+              "[@jeanfabre](https://github.com/jeanfabre)/[**PlayMaker--Unity--UI**](https://github.com/jeanfabre/PlayMaker--Unity--UI)",
+              "PlayMaker",
+              ""
+            ],
+            [
+              "10",
+              "[@garuma](https://github.com/garuma)/[**FriendTab**](https://github.com/garuma/FriendTab)",
+              "FriendTab is a simple Mono for Android application to help you track what you owe to your friends and what they owe you.",
+              ""
+            ],
+            [
+              "10",
+              "[@zpqrtbnk](https://github.com/zpqrtbnk)/[**Zbu.Yol**](https://github.com/zpqrtbnk/Zbu.Yol)",
+              "ZpqrtBnk Umbraco Deployment",
+              ""
+            ],
+            [
+              "10",
+              "[@xoofx](https://github.com/xoofx)/[**StackAllocForClass**](https://github.com/xoofx/StackAllocForClass)",
+              "Sample repository for a prototype of a new stackalloc operator for class with CoreCLR and Roslyn",
+              "[:arrow_upper_right:](http://xoofx.com/blog/2015/10/08/stackalloc-for-class-with-roslyn-and-coreclr/)"
+            ],
+            [
+              "10",
+              "[@alexvictoor](https://github.com/alexvictoor)/[**MarbleTest.Net**](https://github.com/alexvictoor/MarbleTest.Net)",
+              ".NET port of RxJS marble tests",
+              ""
+            ],
+            [
+              "9",
+              "[@garuma](https://github.com/garuma)/[**Similardio**](https://github.com/garuma/Similardio)",
+              "An experiment in bridging Rdio and Lastfm together",
+              ""
+            ],
+            [
+              "9",
+              "[@jeanfabre](https://github.com/jeanfabre)/[**PlayMakerCustomActio…**](https://github.com/jeanfabre/PlayMakerCustomActions_U4)",
+              "PlayMaker Custom Actions for Unity 4, as part of the PlayMaker ecosystem effort",
+              ""
+            ],
+            [
+              "8",
+              "[@xoofx](https://github.com/xoofx)/[**SharpRazor**](https://github.com/xoofx/SharpRazor)",
+              "A lightweight templating system using Razor",
+              ""
+            ],
+            [
+              "8",
+              "[@NicolasDorier](https://github.com/NicolasDorier)/[**GestSpace**](https://github.com/NicolasDorier/GestSpace)",
+              "Control your computer with LeapMotion",
+              ""
+            ],
+            [
+              "7",
+              "[@thomaslevesque](https://github.com/thomaslevesque)/[**WeakEvent**](https://github.com/thomaslevesque/WeakEvent)",
+              "Generic weak event implementation",
+              ""
+            ],
+            [
+              "7",
+              "[@garuma](https://github.com/garuma)/[**xamagic**](https://github.com/garuma/xamagic)",
+              "Demo code from the Evolve 2014's \"Mastering Time and Space\" session",
+              ""
+            ],
+            [
+              "7",
+              "[@pmiossec](https://github.com/pmiossec)/[**TotalTfsMigrationToo…**](https://github.com/pmiossec/TotalTfsMigrationTool)",
+              "Improvement over https://totaltfsmigration.codeplex.com used to migrate workitems from one Tfs project to another",
+              ""
+            ],
+            [
+              "7",
+              "[@alexvictoor](https://github.com/alexvictoor)/[**mock4net**](https://github.com/alexvictoor/mock4net)",
+              "A tiny mock http server for dotnet, inspired by wiremock from the Java landscape",
+              ""
+            ],
+            [
+              "7",
+              "[@thomaslevesque](https://github.com/thomaslevesque)/[**NString**](https://github.com/thomaslevesque/NString)",
+              "A collection of utilities for working with strings in .NET.",
+              ""
+            ],
+            [
+              "6",
+              "[@jeanfabre](https://github.com/jeanfabre)/[**PlayMaker--UnityLear…**](https://github.com/jeanfabre/PlayMaker--UnityLearn--2dPlatformer)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@XenocodeRCE](https://github.com/XenocodeRCE)/[**BabelDeobfuscator**](https://github.com/XenocodeRCE/BabelDeobfuscator)",
+              "BabelDeobfuscator is an open-source deobfuscator for BabelObfuscator",
+              ""
+            ],
+            [
+              "6",
+              "[@cmaneu](https://github.com/cmaneu)/[**UptimeRobot-.net-API…**](https://github.com/cmaneu/UptimeRobot-.net-API-Client)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@laurentkempe](https://github.com/laurentkempe)/[**Nubot**](https://github.com/laurentkempe/Nubot)",
+              "Nubot is a chat bot in C# connecting to HipChat and soon others",
+              ""
+            ],
+            [
+              "6",
+              "[@xoofx](https://github.com/xoofx)/[**SharpScss**](https://github.com/xoofx/SharpScss)",
+              "A pinvoke .NET wrapper around libsass to convert SCSS to CSS",
+              ""
+            ],
+            [
+              "5",
+              "[@veler](https://github.com/veler)/[**AlgorithmSimulator**](https://github.com/veler/AlgorithmSimulator)",
+              "An algorithm interpreter in C# for WinRT",
+              ""
+            ],
+            [
+              "5",
+              "[@veler](https://github.com/veler)/[**SoftwareZator-2012**](https://github.com/veler/SoftwareZator-2012)",
+              "All source code of SoftwareZator 2012 (3.0.0.3)",
+              ""
+            ],
+            [
+              "5",
+              "[@alexvictoor](https://github.com/alexvictoor)/[**BrowserLog**](https://github.com/alexvictoor/BrowserLog)",
+              "Use your browser as a live log viewer with this tiny .net library",
+              ""
+            ],
+            [
+              "5",
+              "[@NicolasDorier](https://github.com/NicolasDorier)/[**ProcessingContext**](https://github.com/NicolasDorier/ProcessingContext)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@xoofx](https://github.com/xoofx)/[**SharpDiff**](https://github.com/xoofx/SharpDiff)",
+              "A fork of https://difflib.codeplex.com/",
+              ""
+            ],
+            [
+              "5",
+              "[@cmaneu](https://github.com/cmaneu)/[**deezer-net-api**](https://github.com/cmaneu/deezer-net-api)",
+              "Unofficial Deezer API client for .net (PCL)",
+              ""
+            ],
+            [
+              "5",
+              "[@jeanfabre](https://github.com/jeanfabre)/[**PlayMakerCustomActio…**](https://github.com/jeanfabre/PlayMakerCustomActions_U3)",
+              "PlayMaker Custom Actions for Unity 3, as part of the PlayMaker ecosystem effort",
+              ""
+            ],
+            [
+              "4",
+              "[@laurentkempe](https://github.com/laurentkempe)/[**PReview**](https://github.com/laurentkempe/PReview)",
+              "Facilitate GitHub Pull Request reviews from within Visual Studio 2015",
+              ""
+            ],
+            [
+              "4",
+              "[@garuma](https://github.com/garuma)/[**EvolveDemo**](https://github.com/garuma/EvolveDemo)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@garuma](https://github.com/garuma)/[**pebble-battery-dashc…**](https://github.com/garuma/pebble-battery-dashclock-extension)",
+              "An extension to display your Pebble current battery level in the excellent DashClock lock screen widget",
+              ""
+            ],
+            [
+              "4",
+              "[@garuma](https://github.com/garuma)/[**raydroid**](https://github.com/garuma/raydroid)",
+              "Port of ParallelFx raytracer sample to Android with Monodroid",
+              "[:arrow_upper_right:](http://blog.neteril.org/2011/07/25/going-parallel-on-mobile-devices/)"
+            ],
+            [
+              "4",
+              "[@garuma](https://github.com/garuma)/[**xamarin-store-app**](https://github.com/garuma/xamarin-store-app)",
+              "See wear-support branch for added Android Wear app",
+              ""
+            ],
+            [
+              "4",
+              "[@valryon](https://github.com/valryon)/[**super-caissiere**](https://github.com/valryon/super-caissiere)",
+              "(Archive) Little award-winning french-only parodic game",
+              "[:arrow_upper_right:](https://team-monique.itch.io/monique-passion-htesse-de-caisse)"
+            ],
+            [
+              "3",
+              "[@NicolasDorier](https://github.com/NicolasDorier)/[**WMIViewer**](https://github.com/NicolasDorier/WMIViewer)",
+              "WMI Viewer that helps you to query your system with powershell commands",
+              ""
+            ],
+            [
+              "3",
+              "[@garuma](https://github.com/garuma)/[**Buzzeroid**](https://github.com/garuma/Buzzeroid)",
+              "Control my stupid door buzzer via Azure IoT",
+              ""
+            ],
+            [
+              "3",
+              "[@NicolasDorier](https://github.com/NicolasDorier)/[**NBitcoin.SPVSample**](https://github.com/NicolasDorier/NBitcoin.SPVSample)",
+              "SPV wallet sample created with NBitcoin and WPF",
+              ""
+            ],
+            [
+              "3",
+              "[@MscrmTools](https://github.com/MscrmTools)/[**ApplicationParameter…**](https://github.com/MscrmTools/ApplicationParameters)",
+              "A Microsoft Dynamics CRM 2015 solution to store custom typed parameters",
+              ""
+            ],
+            [
+              "3",
+              "[@XenocodeRCE](https://github.com/XenocodeRCE)/[**PhoenixDeobfuscator**](https://github.com/XenocodeRCE/PhoenixDeobfuscator)",
+              "PhoenixDeobfuscator is an open-source deobfuscator for PhoenixObfuscator",
+              ""
+            ],
+            [
+              "3",
+              "[@XenocodeRCE](https://github.com/XenocodeRCE)/[**DNPDeobfuscator**](https://github.com/XenocodeRCE/DNPDeobfuscator)",
+              "Open-source deobfuscator for dotnetpatcher (https://bitbucket.org/3dotdev/dotnet-pa…",
+              ""
+            ],
+            [
+              "3",
+              "[@xoofx](https://github.com/xoofx)/[**SharpPdbPatcher**](https://github.com/xoofx/SharpPdbPatcher)",
+              "A library/console program to replace source paths stored in a .NET PDB file",
+              ""
+            ],
+            [
+              "3",
+              "[@XenocodeRCE](https://github.com/XenocodeRCE)/[**AntiTamperEOF**](https://github.com/XenocodeRCE/AntiTamperEOF)",
+              "A little project which shows how to create a basic AntiTamper with DNLIB",
+              ""
+            ],
+            [
+              "2",
+              "[@valryon](https://github.com/valryon)/[**super-koikoukesse**](https://github.com/valryon/super-koikoukesse)",
+              "Super KoikouKesse : projet de portage++ du KoiKouKesse sur mobile et tablette !",
+              ""
+            ],
+            [
+              "2",
+              "[@cmaneu](https://github.com/cmaneu)/[**XamarinUniversity**](https://github.com/cmaneu/XamarinUniversity)",
+              "Public Xamarin University Repo",
+              ""
+            ],
+            [
+              "2",
+              "[@veler](https://github.com/veler)/[**APDS-9960_RGB_and_Ge…**](https://github.com/veler/APDS-9960_RGB_and_Gesture_Sensor-)",
+              "C# library for Avago APDS-9960 proximity, light, RGB, and gesture sensor, made by SparkFun Electronics, for Windows 10 IoT Core",
+              ""
+            ],
+            [
+              "2",
+              "[@veler](https://github.com/veler)/[**MirrorSUPINFO**](https://github.com/veler/MirrorSUPINFO)",
+              "A smart mirror for SUPINFO Paris",
+              ""
+            ],
+            [
+              "2",
+              "[@laurentkempe](https://github.com/laurentkempe)/[**JiraOutput**](https://github.com/laurentkempe/JiraOutput)",
+              "A SnagIt plugin to upload screenshot to Jira",
+              ""
+            ],
+            [
+              "2",
+              "[@nulltoken](https://github.com/nulltoken)/[**Witinyki**](https://github.com/nulltoken/Witinyki)",
+              "A LibGit2Sharp based minimalist wiki",
+              ""
+            ],
+            [
+              "2",
+              "[@nulltoken](https://github.com/nulltoken)/[**playground**](https://github.com/nulltoken/playground)",
+              "My own private technology sand box",
+              ""
+            ],
+            [
+              "2",
+              "[@garuma](https://github.com/garuma)/[**AndroSynth**](https://github.com/garuma/AndroSynth)",
+              "A example of multi-touch handling (and sound synthesis) with Xamarin.Android",
+              ""
+            ],
+            [
+              "2",
+              "[@garuma](https://github.com/garuma)/[**CardboardMonkey**](https://github.com/garuma/CardboardMonkey)",
+              "Google Cardboard sample with Xamarin.Android",
+              ""
+            ],
+            [
+              "2",
+              "[@garuma](https://github.com/garuma)/[**JukeApp**](https://github.com/garuma/JukeApp)",
+              "Automagically create dynamic music playlist based on who is in the room.",
+              ""
+            ],
+            [
+              "2",
+              "[@valryon](https://github.com/valryon)/[**1gam-respawn**](https://github.com/valryon/1gam-respawn)",
+              "#1GAM - January - Respawn",
+              ""
+            ],
+            [
+              "2",
+              "[@garuma](https://github.com/garuma)/[**BuzzerPi**](https://github.com/garuma/BuzzerPi)",
+              "Control my stupid door buzzer via Azure IoT",
+              ""
+            ],
+            [
+              "2",
+              "[@xoofx](https://github.com/xoofx)/[**YamlSerializer**](https://github.com/xoofx/YamlSerializer)",
+              "Fork of https://yamlserializer.codeplex.com/",
+              ""
+            ],
+            [
+              "2",
+              "[@garuma](https://github.com/garuma)/[**Macboy**](https://github.com/garuma/Macboy)",
+              "A pure Cocoa implementation of Tomboy written using MonoMac.",
+              ""
+            ],
+            [
+              "2",
+              "[@jeanfabre](https://github.com/jeanfabre)/[**PlayMakerBetaActions…**](https://github.com/jeanfabre/PlayMakerBetaActions_U4)",
+              "PlayMaker Beta Actions, as part of the PlayMaker ecosystem effort",
+              ""
+            ],
+            [
+              "2",
+              "[@garuma](https://github.com/garuma)/[**dbus-explorer**](https://github.com/garuma/dbus-explorer)",
+              "D-Bus Explorer is a GTK+ application written in C# which use NDesk’s Managed D-Bus library to display the API of D-Bus services. In summary, it’s a clone of dbus-viewer with a GTK+ interface.",
+              ""
+            ],
+            [
+              "2",
+              "[@thomaslevesque](https://github.com/thomaslevesque)/[**HumanBytes**](https://github.com/thomaslevesque/HumanBytes)",
+              "A library to convert byte sizes to a human readable form",
+              ""
+            ],
+            [
+              "2",
+              "[@thomaslevesque](https://github.com/thomaslevesque)/[**Quack**](https://github.com/thomaslevesque/Quack)",
+              "Duck-typing framework for .NET",
+              ""
+            ],
+            [
+              "2",
+              "[@garuma](https://github.com/garuma)/[**moo**](https://github.com/garuma/moo)",
+              "Awesome Cowsay Generator",
+              "[:arrow_upper_right:](http://moo.neteril.org)"
             ]
           ]
         }
