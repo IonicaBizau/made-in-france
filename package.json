@@ -67,7 +67,8 @@
           "[R](#r)",
           "[Ruby](#ruby)",
           "[Scala](#scala)",
-          "[Shell](#shell)"
+          "[Shell](#shell)",
+          "[Swift](#swift)"
         ]
       },
       {
@@ -13403,6 +13404,141 @@
               "2",
               "[@vdemeester](https://github.com/vdemeester)/[**sh-config**](https://github.com/vdemeester/sh-config)",
               "personal shells configuration, managed using vcsh and mr",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Swift #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "962",
+              "[@didierbrun](https://github.com/didierbrun)/[**DBPathRecognizer**](https://github.com/didierbrun/DBPathRecognizer)",
+              "Gesture recognizer tool [Swift / iOS]",
+              ""
+            ],
+            [
+              "357",
+              "[@phimage](https://github.com/phimage)/[**Prephirences**](https://github.com/phimage/Prephirences)",
+              "Prephirences is a Swift library that provides useful protocols and convenience methods to manage application preferences, configurations and app-state. NSUserDefaults",
+              ""
+            ],
+            [
+              "154",
+              "[@phimage](https://github.com/phimage)/[**Erik**](https://github.com/phimage/Erik)",
+              "Erik is an headless browser based on WebKit. An headless browser allow to run functional tests, to access and manipulate webpages using javascript.",
+              ""
+            ],
+            [
+              "96",
+              "[@phimage](https://github.com/phimage)/[**CallbackURLKit**](https://github.com/phimage/CallbackURLKit)",
+              "Implementation of x-callback-url (Inter app communication) in swift",
+              ""
+            ],
+            [
+              "56",
+              "[@lypiut](https://github.com/lypiut)/[**WhereAmI**](https://github.com/lypiut/WhereAmI)",
+              "Easy to use Core Location library in Swift",
+              ""
+            ],
+            [
+              "39",
+              "[@phimage](https://github.com/phimage)/[**Arithmosophi**](https://github.com/phimage/Arithmosophi)",
+              "A set of protocols for Arithmetic and Logical operations",
+              ""
+            ],
+            [
+              "24",
+              "[@RoRoche](https://github.com/RoRoche)/[**iOSSwiftStarter**](https://github.com/RoRoche/iOSSwiftStarter)",
+              "A sample iOS app written in Swift using the VIPER architecture.",
+              "[:arrow_upper_right:](http://roroche.github.io/iOSSwiftStarter)"
+            ],
+            [
+              "19",
+              "[@phimage](https://github.com/phimage)/[**Alamofire-Prephirenc…**](https://github.com/phimage/Alamofire-Prephirences)",
+              "Remote preference and configuration for your application",
+              ""
+            ],
+            [
+              "13",
+              "[@phimage](https://github.com/phimage)/[**ApplicationGroupKit**](https://github.com/phimage/ApplicationGroupKit)",
+              "Share informations betweens your applications and your extensions using group identifier",
+              ""
+            ],
+            [
+              "8",
+              "[@phimage](https://github.com/phimage)/[**CustomSegue**](https://github.com/phimage/CustomSegue)",
+              "Custom segue for OSX Storyboards with slide and cross fade effects (NSViewControllerTransitionOptions)",
+              ""
+            ],
+            [
+              "8",
+              "[@phimage](https://github.com/phimage)/[**Phiole**](https://github.com/phimage/Phiole)",
+              "Allow to write or read from standards stream or files for script or CLI application",
+              ""
+            ],
+            [
+              "6",
+              "[@phimage](https://github.com/phimage)/[**PhiLipsStack**](https://github.com/phimage/PhiLipsStack)",
+              "PhiLipsStack aims to create a CoreData stack from model to context and provide some functions on your managed object which use by default the default stack context but not only",
+              ""
+            ],
+            [
+              "6",
+              "[@phimage](https://github.com/phimage)/[**SLF4Swift**](https://github.com/phimage/SLF4Swift)",
+              "Simple Logging Facade for Swift serves as a simple facade for logging frameworks allowing the end user to plug in the desired logging framework at deployment time",
+              ""
+            ],
+            [
+              "6",
+              "[@phimage](https://github.com/phimage)/[**CryptoPrephirences**](https://github.com/phimage/CryptoPrephirences)",
+              "Add some encryption to your sensitive preferences",
+              ""
+            ],
+            [
+              "4",
+              "[@phimage](https://github.com/phimage)/[**Alamofire-YamlSwift**](https://github.com/phimage/Alamofire-YamlSwift)",
+              "Add Yaml response serializer to Alamofire",
+              ""
+            ],
+            [
+              "3",
+              "[@holgerkrupp](https://github.com/holgerkrupp)/[**onetrickpony**](https://github.com/holgerkrupp/onetrickpony)",
+              "Single Purpose Podcast App for iOS - written in swift",
+              ""
+            ],
+            [
+              "3",
+              "[@lypiut](https://github.com/lypiut)/[**SwiftSnippets**](https://github.com/lypiut/SwiftSnippets)",
+              "A few Swift snippets",
+              ""
+            ],
+            [
+              "2",
+              "[@matvdg](https://github.com/matvdg)/[**TuPreferes**](https://github.com/matvdg/TuPreferes)",
+              "Swift Project",
+              ""
+            ],
+            [
+              "2",
+              "[@sylvaingml](https://github.com/sylvaingml)/[**Swift-SGiTKeyboardLi…**](https://github.com/sylvaingml/Swift-SGiTKeyboardListener)",
+              "A simple listener on keyboard to use with fields in scrollviews",
+              ""
+            ],
+            [
+              "2",
+              "[@phimage](https://github.com/phimage)/[**XcodePluginsAddUUID**](https://github.com/phimage/XcodePluginsAddUUID)",
+              "Swift script to edit plugin plist and add current Xcode UUID if missing",
               ""
             ]
           ]
