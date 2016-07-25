@@ -51,7 +51,8 @@
           "[C#](#c-1)",
           "[CSS](#css)",
           "[HTML](#html)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -4802,6 +4803,471 @@
               "[@ubitux](https://github.com/ubitux)/[**sudansu**](https://github.com/ubitux/sudansu)",
               "Sudoku solver using dancing links",
               "[:arrow_upper_right:](http://blog.pkh.me/p/9-dlx-and-reduced-memory-footprint.html)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "1145",
+              "[@matt-42](https://github.com/matt-42)/[**silicon**](https://github.com/matt-42/silicon)",
+              "A high performance, middleware oriented C++14 http web framework",
+              "[:arrow_upper_right:](http://siliconframework.org)"
+            ],
+            [
+              "807",
+              "[@MrKepzie](https://github.com/MrKepzie)/[**Natron**](https://github.com/MrKepzie/Natron)",
+              "Open-source compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.",
+              "[:arrow_upper_right:](www.natron.fr)"
+            ],
+            [
+              "709",
+              "[@beniz](https://github.com/beniz)/[**deepdetect**](https://github.com/beniz/deepdetect)",
+              "Deep Learning API and Server in C++11 with Python bindings and support for Caffe and XGBoost",
+              "[:arrow_upper_right:](http://www.deepdetect.com/)"
+            ],
+            [
+              "480",
+              "[@matt-42](https://github.com/matt-42)/[**iod**](https://github.com/matt-42/iod)",
+              "Meta programming utilities for C++14",
+              ""
+            ],
+            [
+              "412",
+              "[@andrewssobral](https://github.com/andrewssobral)/[**bgslibrary**](https://github.com/andrewssobral/bgslibrary)",
+              "A Background Subtraction Library",
+              ""
+            ],
+            [
+              "313",
+              "[@matt-42](https://github.com/matt-42)/[**vpp**](https://github.com/matt-42/vpp)",
+              "Video++, a C++14 high performance video and image processing library.",
+              "[:arrow_upper_right:](http://documentup.com/matt-42/vpp)"
+            ],
+            [
+              "246",
+              "[@marioyc](https://github.com/marioyc)/[**Online-Judge-Solutio…**](https://github.com/marioyc/Online-Judge-Solutions)",
+              "Solutions to ACM ICPC - style problems",
+              ""
+            ],
+            [
+              "232",
+              "[@jfalcou](https://github.com/jfalcou)/[**nt2**](https://github.com/jfalcou/nt2)",
+              "The Numerical Template Toolbox - C++ Scientific Computing Made Easy",
+              "[:arrow_upper_right:](http://nt2.numscale.com/doc)"
+            ],
+            [
+              "223",
+              "[@tpaviot](https://github.com/tpaviot)/[**oce**](https://github.com/tpaviot/oce)",
+              "Open CASCADE Community Edition: patches/improvements/experiments contributed by users over the official Open CASCADE library.",
+              "[:arrow_upper_right:](http://groups.google.com/group/oce-dev)"
+            ],
+            [
+              "207",
+              "[@cloudcompare](https://github.com/cloudcompare)/[**trunk**](https://github.com/cloudcompare/trunk)",
+              "CloudCompare main repository",
+              ""
+            ],
+            [
+              "162",
+              "[@dougbinks](https://github.com/dougbinks)/[**enkiTS**](https://github.com/dougbinks/enkiTS)",
+              "C++ and C multithreading task scheduler",
+              ""
+            ],
+            [
+              "119",
+              "[@beniz](https://github.com/beniz)/[**seeks**](https://github.com/beniz/seeks)",
+              "Seeks is a decentralized p2p websearch and collaborative tool.",
+              ""
+            ],
+            [
+              "118",
+              "[@SRombauts](https://github.com/SRombauts)/[**UE4GitPlugin**](https://github.com/SRombauts/UE4GitPlugin)",
+              "Unreal Engine 4 Git Source Control Plugin (beta)",
+              "[:arrow_upper_right:](http://srombauts.github.com/UE4GitPlugin)"
+            ],
+            [
+              "117",
+              "[@tpaviot](https://github.com/tpaviot)/[**pythonocc**](https://github.com/tpaviot/pythonocc)",
+              "3D CAD/CAM package for python",
+              "[:arrow_upper_right:](http://www.pythonocc.org)"
+            ],
+            [
+              "114",
+              "[@Groovounet](https://github.com/Groovounet)/[**glm-deprecated**](https://github.com/Groovounet/glm-deprecated)",
+              "",
+              "[:arrow_upper_right:](https://github.com/g-truc/glm)"
+            ],
+            [
+              "102",
+              "[@andrewssobral](https://github.com/andrewssobral)/[**simple_vehicle_count…**](https://github.com/andrewssobral/simple_vehicle_counting)",
+              "Vehicle Detection, Tracking and Counting",
+              ""
+            ],
+            [
+              "94",
+              "[@beniz](https://github.com/beniz)/[**libcmaes**](https://github.com/beniz/libcmaes)",
+              "libcmaes is a multithreaded C++11 library with Python bindings for high performance blackbox stochastic optimization using the CMA-ES algorithm for Covariance Matrix Adaptation Evolution Strategy",
+              ""
+            ],
+            [
+              "64",
+              "[@SRombauts](https://github.com/SRombauts)/[**UE4ProceduralMesh**](https://github.com/SRombauts/UE4ProceduralMesh)",
+              "UE4 Procedural Mesh Generation from the Epic Wiki",
+              ""
+            ],
+            [
+              "64",
+              "[@marioyc](https://github.com/marioyc)/[**ACM-ICPC-Library**](https://github.com/marioyc/ACM-ICPC-Library)",
+              "",
+              ""
+            ],
+            [
+              "57",
+              "[@kikko](https://github.com/kikko)/[**ofxEmbree**](https://github.com/kikko/ofxEmbree)",
+              "a photo-realistic ray tracing addon for openFrameworks (using Intel Embree engine)",
+              ""
+            ],
+            [
+              "55",
+              "[@luc-github](https://github.com/luc-github)/[**ESP3D**](https://github.com/luc-github/ESP3D)",
+              "FW for ESP8266 used with 3D printer- beta state - ready for testing",
+              ""
+            ],
+            [
+              "48",
+              "[@andrewssobral](https://github.com/andrewssobral)/[**vehicle_detection_ha…**](https://github.com/andrewssobral/vehicle_detection_haarcascades)",
+              "Vehicle Detection by Haar Cascades with OpenCV",
+              ""
+            ],
+            [
+              "43",
+              "[@vrabaud](https://github.com/vrabaud)/[**gPb**](https://github.com/vrabaud/gPb)",
+              "gPb implementation for OpenCV",
+              ""
+            ],
+            [
+              "40",
+              "[@nical](https://github.com/nical)/[**kiwi**](https://github.com/nical/kiwi)",
+              "Generic pipeline system working with filters and resources that are connected through ports",
+              ""
+            ],
+            [
+              "38",
+              "[@kikko](https://github.com/kikko)/[**ofxCvCameraProjector…**](https://github.com/kikko/ofxCvCameraProjectorCalibration)",
+              "OpenFrameworks addon that helps calibrating a camera and a projector using OpenCV",
+              ""
+            ],
+            [
+              "37",
+              "[@matt-42](https://github.com/matt-42)/[**cuimg**](https://github.com/matt-42/cuimg)",
+              " A C++11 Image and Video Processing Library",
+              ""
+            ],
+            [
+              "32",
+              "[@dougbinks](https://github.com/dougbinks)/[**enkiTSExamples**](https://github.com/dougbinks/enkiTSExamples)",
+              "Examples for enkiTS",
+              "[:arrow_upper_right:]( https://github.com/dougbinks/enkiTS)"
+            ],
+            [
+              "30",
+              "[@romainfrancois](https://github.com/romainfrancois)/[**Rcpp-book**](https://github.com/romainfrancois/Rcpp-book)",
+              "R and C++ Book",
+              ""
+            ],
+            [
+              "27",
+              "[@glemaitre](https://github.com/glemaitre)/[**traffic-sign-detecti…**](https://github.com/glemaitre/traffic-sign-detection)",
+              "Real-time traffic sign detection using Gielis curves",
+              ""
+            ],
+            [
+              "25",
+              "[@joelthelion](https://github.com/joelthelion)/[**uct**](https://github.com/joelthelion/uct)",
+              "A bot that can play any two-player game, based on Monte-Carlo Tree Search (MCTS)",
+              ""
+            ],
+            [
+              "24",
+              "[@MrKepzie](https://github.com/MrKepzie)/[**openfx-io**](https://github.com/MrKepzie/openfx-io)",
+              "A set of Readers/Writers plugins written using the OpenFX standard.",
+              ""
+            ],
+            [
+              "22",
+              "[@Groovounet](https://github.com/Groovounet)/[**glslang**](https://github.com/Groovounet/glslang)",
+              "A clone of glslang repository: http://www.opengl.org/sdk/tools/glslang/",
+              ""
+            ],
+            [
+              "21",
+              "[@SRombauts](https://github.com/SRombauts)/[**shared_ptr**](https://github.com/SRombauts/shared_ptr)",
+              "A minimal shared_ptr implementation to handle cases where boost/std::shared_ptr are not available.",
+              ""
+            ],
+            [
+              "17",
+              "[@beniz](https://github.com/beniz)/[**fiboheap**](https://github.com/beniz/fiboheap)",
+              "C++ STL-like Fibonacci heap and queue for fast priority queues with mutable keys.",
+              ""
+            ],
+            [
+              "16",
+              "[@nical](https://github.com/nical)/[**GLSL-Raymarching**](https://github.com/nical/GLSL-Raymarching)",
+              "Rendering course project at DTU",
+              ""
+            ],
+            [
+              "15",
+              "[@tpaviot](https://github.com/tpaviot)/[**smesh**](https://github.com/tpaviot/smesh)",
+              "An extension to oce, provides advanced meshing features",
+              ""
+            ],
+            [
+              "12",
+              "[@cyrillef](https://github.com/cyrillef)/[**FBX-iOS-ImportScene**](https://github.com/cyrillef/FBX-iOS-ImportScene)",
+              "FBX SDK iOS ImportScene example",
+              ""
+            ],
+            [
+              "11",
+              "[@kikko](https://github.com/kikko)/[**ofApps**](https://github.com/kikko/ofApps)",
+              "working repository for openFrameworks tests and demos",
+              ""
+            ],
+            [
+              "11",
+              "[@joelthelion](https://github.com/joelthelion)/[**vindinium-cpp-sdk**](https://github.com/joelthelion/vindinium-cpp-sdk)",
+              "A C++ starter kit for the great Vindinium AI challenge",
+              ""
+            ],
+            [
+              "10",
+              "[@beniz](https://github.com/beniz)/[**eigenmvn**](https://github.com/beniz/eigenmvn)",
+              "C++11 multivariate normal distribution sampling using Eigen matrices",
+              ""
+            ],
+            [
+              "10",
+              "[@nical](https://github.com/nical)/[**box2d.rs**](https://github.com/nical/box2d.rs)",
+              "Box2D bindings for rust (and C)",
+              ""
+            ],
+            [
+              "10",
+              "[@beniz](https://github.com/beniz)/[**hmdp**](https://github.com/beniz/hmdp)",
+              "hmdp is a C++ library and tools for solving Markov Decision Processes (MDPs) with hybrid discrete and/or continuous state-spaces.",
+              ""
+            ],
+            [
+              "10",
+              "[@kikko](https://github.com/kikko)/[**ofxCvFeaturesTracker**](https://github.com/kikko/ofxCvFeaturesTracker)",
+              "Natural Features Tracking addon for OpenFrameworks using OpenCV only",
+              ""
+            ],
+            [
+              "9",
+              "[@jfalcou](https://github.com/jfalcou)/[**quaff**](https://github.com/jfalcou/quaff)",
+              "C++ parallel skeleton library",
+              ""
+            ],
+            [
+              "8",
+              "[@joelthelion](https://github.com/joelthelion)/[**freesiege**](https://github.com/joelthelion/freesiege)",
+              "An intense tetris-like wargame",
+              "[:arrow_upper_right:](http://freesiege.sourceforge.net/)"
+            ],
+            [
+              "8",
+              "[@matt-42](https://github.com/matt-42)/[**dige**](https://github.com/matt-42/dige)",
+              "C++ toolbox designed for visual and interactive debugging",
+              "[:arrow_upper_right:](http://matt-42.github.com/dige/)"
+            ],
+            [
+              "7",
+              "[@MrKepzie](https://github.com/MrKepzie)/[**google-breakpad**](https://github.com/MrKepzie/google-breakpad)",
+              "Forked from https://chromium.googlesource.com/extern…",
+              ""
+            ],
+            [
+              "7",
+              "[@kikko](https://github.com/kikko)/[**kinect2-socket**](https://github.com/kikko/kinect2-socket)",
+              "A little x64 windows application that streams kinect tracking datas via websocket",
+              ""
+            ],
+            [
+              "7",
+              "[@denisarnaud](https://github.com/denisarnaud)/[**soci**](https://github.com/denisarnaud/soci)",
+              "SOCI Clone",
+              ""
+            ],
+            [
+              "6",
+              "[@romainfrancois](https://github.com/romainfrancois)/[**parallelGroupBy**](https://github.com/romainfrancois/parallelGroupBy)",
+              "Rewriting the kernel of group_by in paralel",
+              ""
+            ],
+            [
+              "6",
+              "[@LuaxY](https://github.com/LuaxY)/[**CawotteSrv**](https://github.com/LuaxY/CawotteSrv)",
+              "Dofus 2 Emulator in C++11",
+              ""
+            ],
+            [
+              "5",
+              "[@MrKepzie](https://github.com/MrKepzie)/[**openfx-gmic**](https://github.com/MrKepzie/openfx-gmic)",
+              "An OpenFX plug-in using G'mic ",
+              ""
+            ],
+            [
+              "5",
+              "[@Arkshine](https://github.com/Arkshine)/[**Orpheu**](https://github.com/Arkshine/Orpheu)",
+              "AMX Mod X Module.",
+              "[:arrow_upper_right:](https://forums.alliedmods.net/showthread.php?t=116393)"
+            ],
+            [
+              "5",
+              "[@jfalcou](https://github.com/jfalcou)/[**BSPPP**](https://github.com/jfalcou/BSPPP)",
+              "BSP++ is a C++ library for building structured parallel applications based on the Bulk Synchronous Parallelism paradigm using a functionnal programming interface a la ML",
+              ""
+            ],
+            [
+              "4",
+              "[@MrKepzie](https://github.com/MrKepzie)/[**SequenceParsing**](https://github.com/MrKepzie/SequenceParsing)",
+              "Small utility functions to help parsing sequences of image files. See the README for more infos.",
+              ""
+            ],
+            [
+              "4",
+              "[@SRombauts](https://github.com/SRombauts)/[**UE4QuickStart**](https://github.com/SRombauts/UE4QuickStart)",
+              "Unreal Engine 4.10 C++ Programming Quick Start Tutorials",
+              "[:arrow_upper_right:](https://docs.unrealengine.com/latest/INT/Programming/index.html)"
+            ],
+            [
+              "4",
+              "[@LuaxY](https://github.com/LuaxY)/[**AKM**](https://github.com/LuaxY/AKM)",
+              "AKM Project - Tools for Dofus 2.x developement",
+              ""
+            ],
+            [
+              "3",
+              "[@vrabaud](https://github.com/vrabaud)/[**ferns**](https://github.com/vrabaud/ferns)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@SRombauts](https://github.com/SRombauts)/[**UE4BasicCode**](https://github.com/SRombauts/UE4BasicCode)",
+              "Test of a basic C++ code project for Unreal Engine 4",
+              ""
+            ],
+            [
+              "3",
+              "[@SRombauts](https://github.com/SRombauts)/[**cpp-skeleton**](https://github.com/SRombauts/cpp-skeleton)",
+              "A simple skeleton for C++ development with CMake and Google Test.",
+              ""
+            ],
+            [
+              "3",
+              "[@jfalcou](https://github.com/jfalcou)/[**stf**](https://github.com/jfalcou/stf)",
+              "Simple TDD Framework",
+              ""
+            ],
+            [
+              "3",
+              "[@SRombauts](https://github.com/SRombauts)/[**ZMQCpp**](https://github.com/SRombauts/ZMQCpp)",
+              "ZMQC++ (ZMQCpp) is a smart and easy to use C++ wrapper of the ZeroMQ messaging library.",
+              ""
+            ],
+            [
+              "2",
+              "[@kikko](https://github.com/kikko)/[**MapamokStepper**](https://github.com/kikko/MapamokStepper)",
+              "An interactive projection mapping experiment with Mapamok and a Stepper motor",
+              ""
+            ],
+            [
+              "2",
+              "[@kikko](https://github.com/kikko)/[**ofxSerialLink**](https://github.com/kikko/ofxSerialLink)",
+              "a simple openFrameworks addon / protocol to send commands and read values from serial interface",
+              ""
+            ],
+            [
+              "2",
+              "[@LuaxY](https://github.com/LuaxY)/[**Dofus-Live-Logger**](https://github.com/LuaxY/Dofus-Live-Logger)",
+              "Proxy relay, websocket logger for dofus",
+              ""
+            ],
+            [
+              "2",
+              "[@4ian](https://github.com/4ian)/[**GD-Extensions**](https://github.com/4ian/GD-Extensions)",
+              "Old repo for open source extensions for GDevelop - Now hosted on GD repository",
+              "[:arrow_upper_right:](https://github.com/4ian/gd)"
+            ],
+            [
+              "2",
+              "[@Groovounet](https://github.com/Groovounet)/[**cpp-experiments**](https://github.com/Groovounet/cpp-experiments)",
+              "My personal C++ experiments",
+              ""
+            ],
+            [
+              "2",
+              "[@rouault](https://github.com/rouault)/[**gdal_coverage**](https://github.com/rouault/gdal_coverage)",
+              "Modified GDAL to generate coverage of GDAL autotest ",
+              "[:arrow_upper_right:](http://rawgithub.com/rouault/gdalautotest-coverage-results/master/coverage_html/index.html)"
+            ],
+            [
+              "2",
+              "[@nical](https://github.com/nical)/[**DTU-ComputerGraphics**](https://github.com/nical/DTU-ComputerGraphics)",
+              "Computer Graphics course at DTU",
+              ""
+            ],
+            [
+              "2",
+              "[@romainfrancois](https://github.com/romainfrancois)/[**highlight**](https://github.com/romainfrancois/highlight)",
+              "Syntax highlighter for R",
+              ""
+            ],
+            [
+              "2",
+              "[@LuaxY](https://github.com/LuaxY)/[**D2O-Reader**](https://github.com/LuaxY/D2O-Reader)",
+              "Dofus D2O Reader ",
+              ""
+            ],
+            [
+              "2",
+              "[@SRombauts](https://github.com/SRombauts)/[**UE4PlasticPlugin**](https://github.com/SRombauts/UE4PlasticPlugin)",
+              "Unreal Engine 4 Plastic Source Control Plugin (alpha)",
+              ""
+            ],
+            [
+              "2",
+              "[@LuaxY](https://github.com/LuaxY)/[**ARK-Launcher**](https://github.com/LuaxY/ARK-Launcher)",
+              "Game updater/uplauncher",
+              ""
+            ],
+            [
+              "2",
+              "[@SRombauts](https://github.com/SRombauts)/[**gltext**](https://github.com/SRombauts/gltext)",
+              "Simple C++ library to render text with Freetype2 and Harfbuzz under OpenGL 3",
+              ""
+            ],
+            [
+              "2",
+              "[@4ian](https://github.com/4ian)/[**Widgets-Extension**](https://github.com/4ian/Widgets-Extension)",
+              "Widgets Extension is an extension for Game Develop using SFGUI to provide widgets.",
+              "[:arrow_upper_right:](http://widgets.levasseursoftware.net/)"
             ]
           ]
         }
