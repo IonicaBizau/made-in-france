@@ -50,7 +50,8 @@
           "[Java](#java)",
           "[C#](#c-1)",
           "[CSS](#css)",
-          "[HTML](#html)"
+          "[HTML](#html)",
+          "[C](undefined)"
         ]
       },
       {
@@ -4162,6 +4163,645 @@
               "[@AGirlWhoCode](https://github.com/AGirlWhoCode)/[**LekaWebsite**](https://github.com/AGirlWhoCode/LekaWebsite)",
               "Files to be added to leka.io-beta",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "11242",
+              "[@SamyPesse](https://github.com/SamyPesse)/[**How-to-Make-a-Comput…**](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)",
+              "How to Make a Computer Operating System in C++",
+              "[:arrow_upper_right:](https://www.gitbook.com/book/SamyPesse/how-to-create-an-operating-system)"
+            ],
+            [
+              "3048",
+              "[@jedisct1](https://github.com/jedisct1)/[**libsodium**](https://github.com/jedisct1/libsodium)",
+              "A modern and easy-to-use crypto library.",
+              ""
+            ],
+            [
+              "2110",
+              "[@gentilkiwi](https://github.com/gentilkiwi)/[**mimikatz**](https://github.com/gentilkiwi/mimikatz)",
+              "A little tool to play with Windows security",
+              "[:arrow_upper_right:](http://blog.gentilkiwi.com/mimikatz)"
+            ],
+            [
+              "1285",
+              "[@Cyan4973](https://github.com/Cyan4973)/[**lz4**](https://github.com/Cyan4973/lz4)",
+              "Extremely Fast Compression algorithm",
+              "[:arrow_upper_right:](http://www.lz4.org)"
+            ],
+            [
+              "1266",
+              "[@jedisct1](https://github.com/jedisct1)/[**dnscrypt-proxy**](https://github.com/jedisct1/dnscrypt-proxy)",
+              "A tool for securing communications between a client and a DNS resolver",
+              "[:arrow_upper_right:](https://dnscrypt.org)"
+            ],
+            [
+              "1154",
+              "[@Cyan4973](https://github.com/Cyan4973)/[**zstd**](https://github.com/Cyan4973/zstd)",
+              "Zstandard - Fast real-time compression algorithm",
+              "[:arrow_upper_right:](http://www.zstd.net)"
+            ],
+            [
+              "889",
+              "[@texane](https://github.com/texane)/[**stlink**](https://github.com/texane/stlink)",
+              "stm32 discovery line linux programmer",
+              ""
+            ],
+            [
+              "831",
+              "[@Cyan4973](https://github.com/Cyan4973)/[**xxHash**](https://github.com/Cyan4973/xxHash)",
+              "Extremely fast non-cryptographic hash algorithm",
+              "[:arrow_upper_right:](http://www.xxhash.com/)"
+            ],
+            [
+              "467",
+              "[@0intro](https://github.com/0intro)/[**plan9**](https://github.com/0intro/plan9)",
+              "Plan 9 from Bell Labs",
+              "[:arrow_upper_right:](http://plan9.bell-labs.com/plan9)"
+            ],
+            [
+              "408",
+              "[@SamyPesse](https://github.com/SamyPesse)/[**devos**](https://github.com/SamyPesse/devos)",
+              "(Very) basic UNIX-like operating system built when I was younger",
+              ""
+            ],
+            [
+              "373",
+              "[@Cyan4973](https://github.com/Cyan4973)/[**FiniteStateEntropy**](https://github.com/Cyan4973/FiniteStateEntropy)",
+              "New generation entropy coder",
+              ""
+            ],
+            [
+              "188",
+              "[@jedisct1](https://github.com/jedisct1)/[**libsodium-php**](https://github.com/jedisct1/libsodium-php)",
+              "PHP extension for libsodium",
+              ""
+            ],
+            [
+              "187",
+              "[@jedisct1](https://github.com/jedisct1)/[**libpuzzle**](https://github.com/jedisct1/libpuzzle)",
+              "A library to quickly find visually similar images",
+              "[:arrow_upper_right:](http://libpuzzle.pureftpd.org)"
+            ],
+            [
+              "156",
+              "[@jedisct1](https://github.com/jedisct1)/[**Pincaster**](https://github.com/jedisct1/Pincaster)",
+              "A fast persistent nosql database with a HTTP/JSON interface, not only for geographical data.",
+              "[:arrow_upper_right:](http://github.com/jedisct1/Pincaster)"
+            ],
+            [
+              "122",
+              "[@conix-security](https://github.com/conix-security)/[**zer0m0n**](https://github.com/conix-security/zer0m0n)",
+              "zer0m0n driver for cuckoo sandbox",
+              ""
+            ],
+            [
+              "121",
+              "[@samhocevar](https://github.com/samhocevar)/[**zzuf**](https://github.com/samhocevar/zzuf)",
+              "Application fuzzer",
+              ""
+            ],
+            [
+              "101",
+              "[@jedisct1](https://github.com/jedisct1)/[**minisign**](https://github.com/jedisct1/minisign)",
+              "A dead simple tool to sign files and verify signatures.",
+              ""
+            ],
+            [
+              "92",
+              "[@jedisct1](https://github.com/jedisct1)/[**swift-sodium**](https://github.com/jedisct1/swift-sodium)",
+              "Safe and easy to use crypto for iOS",
+              ""
+            ],
+            [
+              "89",
+              "[@jedisct1](https://github.com/jedisct1)/[**pure-ftpd**](https://github.com/jedisct1/pure-ftpd)",
+              "Pure FTP server",
+              "[:arrow_upper_right:](http://www.pureftpd.org)"
+            ],
+            [
+              "85",
+              "[@Barbatos](https://github.com/Barbatos)/[**ioq3-for-UrbanTerror…**](https://github.com/Barbatos/ioq3-for-UrbanTerror-4)",
+              "The officially supported ioquake3 engine by the Frozen Sand Development Team for the game Urban Terror 4.x",
+              "[:arrow_upper_right:](http://www.urbanterror.info)"
+            ],
+            [
+              "83",
+              "[@jedisct1](https://github.com/jedisct1)/[**UCarp**](https://github.com/jedisct1/UCarp)",
+              "UCARP allows a couple of hosts to share common virtual IP addresses in order to provide automatic failover. It is a portable userland implementation of the secure and patent-free Common Address Redundancy Protocol (CARP, OpenBSD's alternative to the patents-bloated VRRP).",
+              "[:arrow_upper_right:](http://ucarp.org)"
+            ],
+            [
+              "81",
+              "[@dddExperiments](https://github.com/dddExperiments)/[**SFMToolkit**](https://github.com/dddExperiments/SFMToolkit)",
+              "Structure from motion toolkit (BundlerFocalExtractor, BundlerMatcher, Bundler, CMVS, PMVS2)",
+              "[:arrow_upper_right:](http://www.visual-experiments.com/demos/sfmtoolkit/)"
+            ],
+            [
+              "77",
+              "[@gentilkiwi](https://github.com/gentilkiwi)/[**kekeo**](https://github.com/gentilkiwi/kekeo)",
+              "A little toolbox to play with Microsoft Kerberos in C",
+              ""
+            ],
+            [
+              "55",
+              "[@fredrik-johansson](https://github.com/fredrik-johansson)/[**arb**](https://github.com/fredrik-johansson/arb)",
+              "C library for arbitrary-precision interval arithmetic",
+              "[:arrow_upper_right:](http://fredrikj.net/arb/)"
+            ],
+            [
+              "51",
+              "[@fredrik-johansson](https://github.com/fredrik-johansson)/[**flint2**](https://github.com/fredrik-johansson/flint2)",
+              "FLINT (Fast Library for Number Theory)",
+              "[:arrow_upper_right:](http://www.flintlib.org)"
+            ],
+            [
+              "45",
+              "[@jedisct1](https://github.com/jedisct1)/[**libchloride**](https://github.com/jedisct1/libchloride)",
+              "Networking layer for libsodium, based on CurveCP",
+              ""
+            ],
+            [
+              "43",
+              "[@jedisct1](https://github.com/jedisct1)/[**dnsblast**](https://github.com/jedisct1/dnsblast)",
+              "A simple and stupid load testing tool for DNS resolvers",
+              ""
+            ],
+            [
+              "41",
+              "[@remicollet](https://github.com/remicollet)/[**pecl-json-c**](https://github.com/remicollet/pecl-json-c)",
+              "JSON-C wrapper",
+              ""
+            ],
+            [
+              "39",
+              "[@gligli](https://github.com/gligli)/[**tools**](https://github.com/gligli/tools)",
+              "",
+              ""
+            ],
+            [
+              "36",
+              "[@dddExperiments](https://github.com/dddExperiments)/[**PhotoSynthToolkit**](https://github.com/dddExperiments/PhotoSynthToolkit)",
+              "PhotoSynth Toolkit (PhotoSynthDownloader, PhotoSynth2PMVS, PhotoSynthTileDownloader)",
+              "[:arrow_upper_right:](http://www.visual-experiments.com/demos/photosynthtoolkit/)"
+            ],
+            [
+              "31",
+              "[@jedisct1](https://github.com/jedisct1)/[**6Jack**](https://github.com/jedisct1/6Jack)",
+              "A framework for analyzing/testing/fuzzing network applications.",
+              "[:arrow_upper_right:](http://download.pureftpd.org/6jack/)"
+            ],
+            [
+              "31",
+              "[@jedisct1](https://github.com/jedisct1)/[**blobcrypt**](https://github.com/jedisct1/blobcrypt)",
+              "Authenticated encryption for streams and arbitrary large files using libsodium",
+              ""
+            ],
+            [
+              "24",
+              "[@0intro](https://github.com/0intro)/[**vx32**](https://github.com/0intro/vx32)",
+              "Portable, efficient, safe execution of untrusted x86 code",
+              "[:arrow_upper_right:](http://pdos.csail.mit.edu/~baford/vm/)"
+            ],
+            [
+              "23",
+              "[@texane](https://github.com/texane)/[**pru_sdk**](https://github.com/texane/pru_sdk)",
+              "am335x pru software development kit",
+              ""
+            ],
+            [
+              "22",
+              "[@texane](https://github.com/texane)/[**nrf**](https://github.com/texane/nrf)",
+              "nordic semiconductor wireless chipsets related code",
+              ""
+            ],
+            [
+              "19",
+              "[@Cyan4973](https://github.com/Cyan4973)/[**RygsDXTc**](https://github.com/Cyan4973/RygsDXTc)",
+              "Real-time DXT1/DXT5 texture compressor",
+              ""
+            ],
+            [
+              "18",
+              "[@jedisct1](https://github.com/jedisct1)/[**massresolver**](https://github.com/jedisct1/massresolver)",
+              "Mass DNS resolution tool",
+              ""
+            ],
+            [
+              "18",
+              "[@jedisct1](https://github.com/jedisct1)/[**c-ipcrypt**](https://github.com/jedisct1/c-ipcrypt)",
+              "ipcrypt implementation in C",
+              ""
+            ],
+            [
+              "18",
+              "[@jedisct1](https://github.com/jedisct1)/[**metrohash-c**](https://github.com/jedisct1/metrohash-c)",
+              "C version of the MetroHash function",
+              ""
+            ],
+            [
+              "18",
+              "[@jedisct1](https://github.com/jedisct1)/[**ziproxy**](https://github.com/jedisct1/ziproxy)",
+              "A github mirror of ziproxy",
+              ""
+            ],
+            [
+              "18",
+              "[@dddExperiments](https://github.com/dddExperiments)/[**OpenSynther**](https://github.com/dddExperiments/OpenSynther)",
+              "Structure-from-motion solution to match pictures and create a point cloud",
+              "[:arrow_upper_right:](http://www.visual-experiments.com)"
+            ],
+            [
+              "17",
+              "[@jedisct1](https://github.com/jedisct1)/[**spritz**](https://github.com/jedisct1/spritz)",
+              "A C implementation of Spritz, a spongy RC4-like stream cipher and hash function.",
+              ""
+            ],
+            [
+              "17",
+              "[@gligli](https://github.com/gligli)/[**mupen64-360**](https://github.com/gligli/mupen64-360)",
+              "Port of the N64 emulator Mupen64 on the XBOX 360, actually a port of Wii64",
+              ""
+            ],
+            [
+              "16",
+              "[@gligli](https://github.com/gligli)/[**p600fw**](https://github.com/gligli/p600fw)",
+              "Teensy++ based Sequential Circuits Prophet 600 firmware remake",
+              ""
+            ],
+            [
+              "15",
+              "[@jedisct1](https://github.com/jedisct1)/[**keccak-erlang**](https://github.com/jedisct1/keccak-erlang)",
+              "Keccak-512 (SHA-3) for Erlang",
+              ""
+            ],
+            [
+              "14",
+              "[@jedisct1](https://github.com/jedisct1)/[**vtun**](https://github.com/jedisct1/vtun)",
+              "A mirror of VTUN, with some changes",
+              ""
+            ],
+            [
+              "14",
+              "[@texane](https://github.com/texane)/[**bano**](https://github.com/texane/bano)",
+              "the BANO framework",
+              ""
+            ],
+            [
+              "14",
+              "[@jedisct1](https://github.com/jedisct1)/[**dnscrypt-plugin-geoi…**](https://github.com/jedisct1/dnscrypt-plugin-geoip-block)",
+              "Block DNS queries according to the country they resolve to",
+              ""
+            ],
+            [
+              "13",
+              "[@ubitux](https://github.com/ubitux)/[**pokanalysis**](https://github.com/ubitux/pokanalysis)",
+              "First Generation Pokémon ROM Analyser (Red & Blue US)",
+              "[:arrow_upper_right:](http://pokanalysis.ubitux.fr/)"
+            ],
+            [
+              "13",
+              "[@xplodwild](https://github.com/xplodwild)/[**android_kernel_samsu…**](https://github.com/xplodwild/android_kernel_samsung_galaxys2)",
+              "This is an attempt to make a 3.x kernel for the Samsung Galaxy S II. It IS booting, though a lot of things doesn't work yet. ADB works but isn't enabled by default. ",
+              "[:arrow_upper_right:](http://twitter.com/xplodwild)"
+            ],
+            [
+              "12",
+              "[@0intro](https://github.com/0intro)/[**libtask**](https://github.com/0intro/libtask)",
+              "Libtask is a simple coroutine library",
+              ""
+            ],
+            [
+              "12",
+              "[@0intro](https://github.com/0intro)/[**plan9-gpl**](https://github.com/0intro/plan9-gpl)",
+              "Plan 9 from Bell Labs, under GPL",
+              "[:arrow_upper_right:](http://plan9.bell-labs.com/plan9)"
+            ],
+            [
+              "10",
+              "[@dddExperiments](https://github.com/dddExperiments)/[**V3DSfMToolkit**](https://github.com/dddExperiments/V3DSfMToolkit)",
+              "Windows port of ETH-V3D Structure-and-Motion software (created by Christopher Zach under GPL license)",
+              "[:arrow_upper_right:](http://www.inf.ethz.ch/personal/chzach/opensource.html)"
+            ],
+            [
+              "10",
+              "[@jedisct1](https://github.com/jedisct1)/[**siphash-avx2**](https://github.com/jedisct1/siphash-avx2)",
+              "SipHash AVX2 implementation in C",
+              ""
+            ],
+            [
+              "10",
+              "[@jedisct1](https://github.com/jedisct1)/[**minicsv**](https://github.com/jedisct1/minicsv)",
+              "A tiny, fast, simple, single-file, BSD-licensed CSV parsing library in C.",
+              ""
+            ],
+            [
+              "9",
+              "[@jedisct1](https://github.com/jedisct1)/[**siphash-php**](https://github.com/jedisct1/siphash-php)",
+              "SipHash function for PHP",
+              ""
+            ],
+            [
+              "9",
+              "[@jedisct1](https://github.com/jedisct1)/[**Francotone**](https://github.com/jedisct1/Francotone)",
+              "Bibliothèque (+ extension PHP) pour l'analyse phonétique de textes en français",
+              ""
+            ],
+            [
+              "8",
+              "[@texane](https://github.com/texane)/[**randomjungle**](https://github.com/texane/randomjungle)",
+              "random jungle library fork",
+              ""
+            ],
+            [
+              "8",
+              "[@0intro](https://github.com/0intro)/[**drawterm**](https://github.com/0intro/drawterm)",
+              "Connect to Plan 9 CPU servers from other operating systems.",
+              ""
+            ],
+            [
+              "8",
+              "[@jedisct1](https://github.com/jedisct1)/[**PHP-Skein-Hash**](https://github.com/jedisct1/PHP-Skein-Hash)",
+              "Skein hash functions for PHP",
+              "[:arrow_upper_right:](http://www.skein-hash.info/)"
+            ],
+            [
+              "7",
+              "[@jedisct1](https://github.com/jedisct1)/[**libsodium-validation**](https://github.com/jedisct1/libsodium-validation)",
+              "libsodium tests against crypto-test-vectors",
+              ""
+            ],
+            [
+              "6",
+              "[@ubitux](https://github.com/ubitux)/[**LAS**](https://github.com/ubitux/LAS)",
+              "Lossy Audio Spotter",
+              "[:arrow_upper_right:](http://las.ubitux.fr)"
+            ],
+            [
+              "6",
+              "[@0intro](https://github.com/0intro)/[**plan9-contrib**](https://github.com/0intro/plan9-contrib)",
+              "Plan 9 from Bell Labs, with contributions.",
+              "[:arrow_upper_right:](https://9p.io/)"
+            ],
+            [
+              "6",
+              "[@ubitux](https://github.com/ubitux)/[**FFmpeg**](https://github.com/ubitux/FFmpeg)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@mripard](https://github.com/mripard)/[**sunxi-babelfish**](https://github.com/mripard/sunxi-babelfish)",
+              "Boot-time Allwinner FEX to Device Tree translator",
+              ""
+            ],
+            [
+              "6",
+              "[@jedisct1](https://github.com/jedisct1)/[**MySQL-global-user-va…**](https://github.com/jedisct1/MySQL-global-user-variables-UDF)",
+              "A simple MySQL extension to provide user global variables",
+              "[:arrow_upper_right:](http://mysql-udf-global-user-variables.pureftpd.org)"
+            ],
+            [
+              "6",
+              "[@jedisct1](https://github.com/jedisct1)/[**TweetFIPS202**](https://github.com/jedisct1/TweetFIPS202)",
+              "Readable TweetFIPS202 (https://twitter.com/TweetFIPS202) SHA-3 implementation",
+              ""
+            ],
+            [
+              "6",
+              "[@tpruvot](https://github.com/tpruvot)/[**android_hardware_ti_…**](https://github.com/tpruvot/android_hardware_ti_omap4)",
+              "Droid3 OMAP4 Support (+ omap3)",
+              ""
+            ],
+            [
+              "6",
+              "[@jedisct1](https://github.com/jedisct1)/[**Dicky**](https://github.com/jedisct1/Dicky)",
+              "Dicky is a fast and efficient compression/decompression library designed for Skyrock",
+              ""
+            ],
+            [
+              "5",
+              "[@texane](https://github.com/texane)/[**muk**](https://github.com/texane/muk)",
+              "basic ia32 kernel",
+              ""
+            ],
+            [
+              "5",
+              "[@texane](https://github.com/texane)/[**picisp**](https://github.com/texane/picisp)",
+              "pic18f firmware supporting isp and stk500 to program avr with avrdude",
+              ""
+            ],
+            [
+              "5",
+              "[@texane](https://github.com/texane)/[**dsp**](https://github.com/texane/dsp)",
+              "digital signal processing related codes",
+              ""
+            ],
+            [
+              "5",
+              "[@texane](https://github.com/texane)/[**teensy3**](https://github.com/texane/teensy3)",
+              "teensy3 related materials",
+              ""
+            ],
+            [
+              "5",
+              "[@xplodwild](https://github.com/xplodwild)/[**android_kernel_asus_…**](https://github.com/xplodwild/android_kernel_asus_tf300t)",
+              "Kernel for Asus Transformer TF300T",
+              ""
+            ],
+            [
+              "4",
+              "[@jlaffaye](https://github.com/jlaffaye)/[**btpd-cgi**](https://github.com/jlaffaye/btpd-cgi)",
+              "A web interface for the BitTorrent Protocol Daemon written in C",
+              ""
+            ],
+            [
+              "4",
+              "[@0intro](https://github.com/0intro)/[**plan9-patch**](https://github.com/0intro/plan9-patch)",
+              "Plan 9 from Bell Labs, with patches",
+              "[:arrow_upper_right:](http://plan9.bell-labs.com/plan9)"
+            ],
+            [
+              "3",
+              "[@0intro](https://github.com/0intro)/[**libregexp**](https://github.com/0intro/libregexp)",
+              "Unix port of the Plan 9 regular expression library",
+              ""
+            ],
+            [
+              "3",
+              "[@texane](https://github.com/texane)/[**diot**](https://github.com/texane/diot)",
+              "device io tracing",
+              ""
+            ],
+            [
+              "3",
+              "[@gligli](https://github.com/gligli)/[**libxemit**](https://github.com/gligli/libxemit)",
+              "Runtime Xenos shader emitter library",
+              ""
+            ],
+            [
+              "3",
+              "[@tpruvot](https://github.com/tpruvot)/[**smartq-magicsd**](https://github.com/tpruvot/smartq-magicsd)",
+              "Bootable SDCard for SmartQ5 (backup and recovery tools)",
+              "[:arrow_upper_right:](http://tanguy.wdscript.fr/SmartQ5)"
+            ],
+            [
+              "3",
+              "[@tpruvot](https://github.com/tpruvot)/[**android_system_wlan_…**](https://github.com/tpruvot/android_system_wlan_ti)",
+              "Texas Instruments wl127x external wifi modules sources - For motorola omap devices",
+              "[:arrow_upper_right:](http://sourceforge.net/projects/moto-defy.motorola/files/)"
+            ],
+            [
+              "3",
+              "[@tpruvot](https://github.com/tpruvot)/[**android_device_samsu…**](https://github.com/tpruvot/android_device_samsung_galaxyr)",
+              "Device-specific build files for the Samsung GT-I9103",
+              ""
+            ],
+            [
+              "3",
+              "[@samhocevar](https://github.com/samhocevar)/[**rinetd**](https://github.com/samhocevar/rinetd)",
+              "TCP port redirector — forked for maintenance",
+              ""
+            ],
+            [
+              "3",
+              "[@ubitux](https://github.com/ubitux)/[**Simple-SDP**](https://github.com/ubitux/Simple-SDP)",
+              "Simple SDP Parser (RFC 4566)",
+              ""
+            ],
+            [
+              "3",
+              "[@fallen](https://github.com/fallen)/[**NetBSD**](https://github.com/fallen/NetBSD)",
+              "LatticeMico32 and Milkymist port for NetBSD",
+              ""
+            ],
+            [
+              "3",
+              "[@fallen](https://github.com/fallen)/[**lm32-binutils-mmu**](https://github.com/fallen/lm32-binutils-mmu)",
+              "Modified version of GNU binutils 2.22 for Milkymist LM32 MMU project",
+              "[:arrow_upper_right:](http://milkymist.org)"
+            ],
+            [
+              "3",
+              "[@conix-security](https://github.com/conix-security)/[**VBNExtract**](https://github.com/conix-security/VBNExtract)",
+              "Extract SEP VBN quarantine files",
+              ""
+            ],
+            [
+              "2",
+              "[@fallen](https://github.com/fallen)/[**1-wire-protocol**](https://github.com/fallen/1-wire-protocol)",
+              "1 wire protocol (layer 1 and 2) for communication between fpga and micro-controllers",
+              ""
+            ],
+            [
+              "2",
+              "[@fallen](https://github.com/fallen)/[**witm**](https://github.com/fallen/witm)",
+              "Woman In The Middle",
+              ""
+            ],
+            [
+              "2",
+              "[@Cyan4973](https://github.com/Cyan4973)/[**mmc**](https://github.com/Cyan4973/mmc)",
+              "Automatically exported from code.google.com/p/mmc",
+              ""
+            ],
+            [
+              "2",
+              "[@texane](https://github.com/texane)/[**sdcard**](https://github.com/texane/sdcard)",
+              "sdcard source code and schematics",
+              ""
+            ],
+            [
+              "2",
+              "[@fallen](https://github.com/fallen)/[**ropdumper**](https://github.com/fallen/ropdumper)",
+              "A tool to find ROP gadgets hidden in binary files",
+              ""
+            ],
+            [
+              "2",
+              "[@hallard](https://github.com/hallard)/[**Arduino-Boards**](https://github.com/hallard/Arduino-Boards)",
+              "Support for my Arduino compatible development boards",
+              ""
+            ],
+            [
+              "2",
+              "[@0intro](https://github.com/0intro)/[**plan9-mips**](https://github.com/0intro/plan9-mips)",
+              "Plan 9 from Bell Labs on MIPS",
+              ""
+            ],
+            [
+              "2",
+              "[@fredrik-johansson](https://github.com/fredrik-johansson)/[**bland**](https://github.com/fredrik-johansson/bland)",
+              "Recursive generics using FLINT",
+              ""
+            ],
+            [
+              "2",
+              "[@mripard](https://github.com/mripard)/[**utbm-LO52**](https://github.com/mripard/utbm-LO52)",
+              "Embedded systems, followed in Spring 2010",
+              ""
+            ],
+            [
+              "2",
+              "[@texane](https://github.com/texane)/[**pic18f_i2c**](https://github.com/texane/pic18f_i2c)",
+              "pic18f i2c code",
+              ""
+            ],
+            [
+              "2",
+              "[@Barbatos](https://github.com/Barbatos)/[**ioq3-bumpy-UrbanTerr…**](https://github.com/Barbatos/ioq3-bumpy-UrbanTerror-4.x)",
+              "---",
+              "[:arrow_upper_right:](www.urbanterror.info)"
+            ],
+            [
+              "2",
+              "[@Dorvaryn](https://github.com/Dorvaryn)/[**ServerVideo**](https://github.com/Dorvaryn/ServerVideo)",
+              "Un petit Server Video en C avec epoll",
+              ""
+            ],
+            [
+              "2",
+              "[@texane](https://github.com/texane)/[**rtlsdr_hackrf**](https://github.com/texane/rtlsdr_hackrf)",
+              "rtlsdr library for hackrf one devices",
+              ""
+            ],
+            [
+              "2",
+              "[@cjdelisle](https://github.com/cjdelisle)/[**wap4410n_v2.0.7.4_gp…**](https://github.com/cjdelisle/wap4410n_v2.0.7.4_gpl)",
+              "GPL source dump for the Cisco WAP4410N",
+              ""
+            ],
+            [
+              "2",
+              "[@texane](https://github.com/texane)/[**rx62n_gnu**](https://github.com/texane/rx62n_gnu)",
+              "rx62n related code to compile with a GNU toolchain",
+              ""
+            ],
+            [
+              "2",
+              "[@texane](https://github.com/texane)/[**parallel**](https://github.com/texane/parallel)",
+              "parallel related codes",
+              ""
+            ],
+            [
+              "2",
+              "[@ubitux](https://github.com/ubitux)/[**sudansu**](https://github.com/ubitux/sudansu)",
+              "Sudoku solver using dancing links",
+              "[:arrow_upper_right:](http://blog.pkh.me/p/9-dlx-and-reduced-memory-footprint.html)"
             ]
           ]
         }
