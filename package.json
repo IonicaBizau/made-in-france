@@ -63,7 +63,8 @@
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[R](#r)"
         ]
       },
       {
@@ -11359,6 +11360,183 @@
               "2",
               "[@tshirtman](https://github.com/tshirtman)/[**remote_control**](https://github.com/tshirtman/remote_control)",
               "a (mobile) client + server to remote control your pc using server-side configured commands.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "R #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "152",
+              "[@briatte](https://github.com/briatte)/[**ida**](https://github.com/briatte/ida)",
+              "An introduction to data analysis, using R. Experimental.",
+              "[:arrow_upper_right:](http://f.briatte.org/teaching/ida/)"
+            ],
+            [
+              "92",
+              "[@briatte](https://github.com/briatte)/[**ggnet**](https://github.com/briatte/ggnet)",
+              "Network visualization with ggplot2",
+              "[:arrow_upper_right:](https://briatte.github.io/ggnet/)"
+            ],
+            [
+              "55",
+              "[@agstudy](https://github.com/agstudy)/[**rsqlserver**](https://github.com/agstudy/rsqlserver)",
+              "Sql Server driver  database interface (DBI) driver for R. This is a DBI-compliant Sql Server driver based on the System.Data.SqlClient. ",
+              ""
+            ],
+            [
+              "8",
+              "[@Tutuchan](https://github.com/Tutuchan)/[**chartjs**](https://github.com/Tutuchan/chartjs)",
+              "An implementation of the Chart.js library in R",
+              ""
+            ],
+            [
+              "7",
+              "[@briatte](https://github.com/briatte)/[**neta**](https://github.com/briatte/neta)",
+              "Archived code. See parlement repo for the updated version.",
+              "[:arrow_upper_right:](https://github.com/briatte/parlement)"
+            ],
+            [
+              "6",
+              "[@Tutuchan](https://github.com/Tutuchan)/[**fodr**](https://github.com/Tutuchan/fodr)",
+              "An R package to access French Open Data portals",
+              ""
+            ],
+            [
+              "5",
+              "[@dickoa](https://github.com/dickoa)/[**CausalPairs**](https://github.com/dickoa/CausalPairs)",
+              "R functions to load pairs data and build classifiers in the Causal pairs effect competition in Kaggle",
+              ""
+            ],
+            [
+              "5",
+              "[@briatte](https://github.com/briatte)/[**qogdata**](https://github.com/briatte/qogdata)",
+              "Functions to manipulate Quality of Government data and related material",
+              ""
+            ],
+            [
+              "5",
+              "[@christophe-pouzat](https://github.com/christophe-pouzat)/[**Neuronal-spike-sorti…**](https://github.com/christophe-pouzat/Neuronal-spike-sorting)",
+              "Spike sorting codes and sorting of publicly available data sets",
+              ""
+            ],
+            [
+              "4",
+              "[@sdray](https://github.com/sdray)/[**ade4**](https://github.com/sdray/ade4)",
+              "Analysis of Ecological Data : Exploratory and Euclidean Methods in Environmental Sciences",
+              "[:arrow_upper_right:](http://pbil.univ-lyon1.fr/ADE-4/ADE-4.html)"
+            ],
+            [
+              "4",
+              "[@bowerth](https://github.com/bowerth)/[**sdmxBrowser**](https://github.com/bowerth/sdmxBrowser)",
+              "UI for RJSDMX",
+              "[:arrow_upper_right:](https://rjsdmx.shinyapps.io/sdmxBrowser/)"
+            ],
+            [
+              "4",
+              "[@jomuller](https://github.com/jomuller)/[**vartors**](https://github.com/jomuller/vartors)",
+              "Create R script skeleton from variables definition",
+              ""
+            ],
+            [
+              "3",
+              "[@kkashin](https://github.com/kkashin)/[**panelAR**](https://github.com/kkashin/panelAR)",
+              "R package for Estimation of Linear AR(1) Panel Data Models",
+              ""
+            ],
+            [
+              "3",
+              "[@sdray](https://github.com/sdray)/[**adegraphics**](https://github.com/sdray/adegraphics)",
+              "An S4 Lattice-Based Package for the Representation of Multivariate Data",
+              ""
+            ],
+            [
+              "3",
+              "[@briatte](https://github.com/briatte)/[**ggcorr**](https://github.com/briatte/ggcorr)",
+              "Correlation matrixes with ggplot2:",
+              "[:arrow_upper_right:](https://briatte.github.io/ggcorr)"
+            ],
+            [
+              "3",
+              "[@alexgenin](https://github.com/alexgenin)/[**rollply**](https://github.com/alexgenin/rollply)",
+              "A rolling-window add-on to plyr",
+              ""
+            ],
+            [
+              "3",
+              "[@Tutuchan](https://github.com/Tutuchan)/[**morrisjs**](https://github.com/Tutuchan/morrisjs)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@pbastide](https://github.com/pbastide)/[**PhylogeneticEM**](https://github.com/pbastide/PhylogeneticEM)",
+              "Implementation of the EM algorithm for the detection of shifts in a phylogeny.",
+              ""
+            ],
+            [
+              "3",
+              "[@abozio](https://github.com/abozio)/[**PENSIPP**](https://github.com/abozio/PENSIPP)",
+              "Micro-simulation model of the French pension system",
+              ""
+            ],
+            [
+              "3",
+              "[@dickoa](https://github.com/dickoa)/[**msvar**](https://github.com/dickoa/msvar)",
+              "A R package to fit markov switching vector autoregression",
+              ""
+            ],
+            [
+              "2",
+              "[@sdray](https://github.com/sdray)/[**adespatial**](https://github.com/sdray/adespatial)",
+              "Multivariate Multiscale Spatial Analysis",
+              ""
+            ],
+            [
+              "2",
+              "[@briatte](https://github.com/briatte)/[**eduskunta**](https://github.com/briatte/eduskunta)",
+              "Bill cosponsorship networks in the Finnish Parliament.",
+              "[:arrow_upper_right:](http://f.briatte.org/parlviz/eduskunta)"
+            ],
+            [
+              "2",
+              "[@briatte](https://github.com/briatte)/[**belparl**](https://github.com/briatte/belparl)",
+              "Bill cosponsorship networks in the Belgian Parliament.",
+              "[:arrow_upper_right:](http://f.briatte.org/parlviz/belparl)"
+            ],
+            [
+              "2",
+              "[@chcariou](https://github.com/chcariou)/[**Netflix**](https://github.com/chcariou/Netflix)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@briatte](https://github.com/briatte)/[**parlement**](https://github.com/briatte/parlement)",
+              "Bill cosponsorship networks in the French Parliament.",
+              "[:arrow_upper_right:](http://f.briatte.org/parlviz/parlement)"
+            ],
+            [
+              "2",
+              "[@picasa](https://github.com/picasa)/[**rsunflo**](https://github.com/picasa/rsunflo)",
+              "Tools for phenotyping, simulating and modelling with the SUNFLO crop model",
+              ""
+            ],
+            [
+              "2",
+              "[@briatte](https://github.com/briatte)/[**sociothese**](https://github.com/briatte/sociothese)",
+              "Topic models for @coulmont.",
               ""
             ]
           ]
