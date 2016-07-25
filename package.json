@@ -1,0 +1,42 @@
+{
+  "name": "made-in-france",
+  "description": "A list of neat projects made in France",
+  "keywords": [
+    "made",
+    "in",
+    "france",
+    "a",
+    "list",
+    "of",
+    "neat",
+    "projects"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "scripts/",
+    "build/",
+    "cli.js",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/made-in-france.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/made-in-france/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/made-in-france#readme"
+}
