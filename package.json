@@ -64,7 +64,8 @@
           "[Perl](#perl)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[R](#r)"
+          "[R](#r)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -11538,6 +11539,1263 @@
               "[@briatte](https://github.com/briatte)/[**sociothese**](https://github.com/briatte/sociothese)",
               "Topic models for @coulmont.",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "701",
+              "[@thbar](https://github.com/thbar)/[**kiba**](https://github.com/thbar/kiba)",
+              "Lightweight ETL for Ruby",
+              "[:arrow_upper_right:](http://www.kiba-etl.org)"
+            ],
+            [
+              "410",
+              "[@glejeune](https://github.com/glejeune)/[**Ruby-Graphviz**](https://github.com/glejeune/Ruby-Graphviz)",
+              "Ruby interface to the GraphViz graphing tool",
+              "[:arrow_upper_right:](http://lejeun.es)"
+            ],
+            [
+              "375",
+              "[@dmathieu](https://github.com/dmathieu)/[**glynn**](https://github.com/dmathieu/glynn)",
+              "Generate your jekyll blog files and sends them through FTP",
+              ""
+            ],
+            [
+              "278",
+              "[@tibastral](https://github.com/tibastral)/[**contrats-francais**](https://github.com/tibastral/contrats-francais)",
+              "Contrats français",
+              ""
+            ],
+            [
+              "257",
+              "[@simonc](https://github.com/simonc)/[**memfs**](https://github.com/simonc/memfs)",
+              "MemFs provides a fake file system that can be used for tests. Strongly inspired by FakeFS.",
+              ""
+            ],
+            [
+              "216",
+              "[@nono](https://github.com/nono)/[**HTML-Truncator**](https://github.com/nono/HTML-Truncator)",
+              "Wants to truncate an HTML string properly? This Ruby gem is for you.",
+              "[:arrow_upper_right:](http://rubygems.org/gems/html_truncator)"
+            ],
+            [
+              "143",
+              "[@sunny](https://github.com/sunny)/[**so-nice**](https://github.com/sunny/so-nice)",
+              "Small Web interface to control iTunes, Spotify, Rdio, MPD, Rhythmbox, Amarok and XMMS2. ♫",
+              "[:arrow_upper_right:](http://sunny.github.io/so-nice/)"
+            ],
+            [
+              "70",
+              "[@simonc](https://github.com/simonc)/[**ariane**](https://github.com/simonc/ariane)",
+              "A flexible breadcrumb system for Rails",
+              "[:arrow_upper_right:](http://simonc.github.com/ariane)"
+            ],
+            [
+              "59",
+              "[@glejeune](https://github.com/glejeune)/[**jekyll-epub**](https://github.com/glejeune/jekyll-epub)",
+              "Create an eBook (epub) of your Jekyll blog",
+              ""
+            ],
+            [
+              "56",
+              "[@thbar](https://github.com/thbar)/[**opaz-plugdk**](https://github.com/thbar/opaz-plugdk)",
+              "Implement your VST plugins with JRuby, Mirah, Java and JavaFX",
+              ""
+            ],
+            [
+              "55",
+              "[@robin850](https://github.com/robin850)/[**carrierwave-dropbox**](https://github.com/robin850/carrierwave-dropbox)",
+              "Carrierwave storage for Dropbox",
+              ""
+            ],
+            [
+              "44",
+              "[@glejeune](https://github.com/glejeune)/[**Leonhard**](https://github.com/glejeune/Leonhard)",
+              "A simple viewer/editor for GraphViz using MacRuby",
+              "[:arrow_upper_right:](http://algorithmique.net/leonhard.html)"
+            ],
+            [
+              "38",
+              "[@nono](https://github.com/nono)/[**Jekyll-plugins**](https://github.com/nono/Jekyll-plugins)",
+              "[Deprecated] My plugins for Jekyll",
+              ""
+            ],
+            [
+              "35",
+              "[@sunny](https://github.com/sunny)/[**anyplayer**](https://github.com/sunny/anyplayer)",
+              "Interact with the currently running music player. Supports iTunes Mac, iTunes Windows, Spotify Mac, Rdio Mac, MPD, Rhythmbox, Amarok and XMMS2.",
+              ""
+            ],
+            [
+              "35",
+              "[@shingara](https://github.com/shingara)/[**oupsnow**](https://github.com/shingara/oupsnow)",
+              "A bugtracker in Rails/MongoMapper",
+              "[:arrow_upper_right:](http://oupsnow.rubyforge.org)"
+            ],
+            [
+              "33",
+              "[@aeden](https://github.com/aeden)/[**refinery**](https://github.com/aeden/refinery)",
+              "Distributed queued processing framework",
+              "[:arrow_upper_right:](http://wiki.github.com/aeden/refinery)"
+            ],
+            [
+              "33",
+              "[@steeve](https://github.com/steeve)/[**rupy**](https://github.com/steeve/rupy)",
+              "Python inside Ruby, the unholy alliance!",
+              "[:arrow_upper_right:](https://github.com/steeve/rupy)"
+            ],
+            [
+              "32",
+              "[@shingara](https://github.com/shingara)/[**pictrails**](https://github.com/shingara/pictrails)",
+              "A Web Photo Gallery, written with Rails 2.0. Pictrails can manage several photo galleries.",
+              "[:arrow_upper_right:](http://pictrails.rubyforge.org)"
+            ],
+            [
+              "29",
+              "[@julienXX](https://github.com/julienXX)/[**resque-waiting-room**](https://github.com/julienXX/resque-waiting-room)",
+              "Resque plugin that throttles your jobs",
+              ""
+            ],
+            [
+              "27",
+              "[@shingara](https://github.com/shingara)/[**oh-my-zsh-chef**](https://github.com/shingara/oh-my-zsh-chef)",
+              "A chef recipe to install oh-my-zsh",
+              ""
+            ],
+            [
+              "27",
+              "[@thbar](https://github.com/thbar)/[**rails-recurly-js-sam…**](https://github.com/thbar/rails-recurly-js-sample-application)",
+              "Accepting payments with Recurly.js and Rails - a sample app",
+              ""
+            ],
+            [
+              "26",
+              "[@glejeune](https://github.com/glejeune)/[**ruby-yuml**](https://github.com/glejeune/ruby-yuml)",
+              "Ruby/yUML is a small DSL to generate UML diagrams with yuml.me",
+              "[:arrow_upper_right:](http://algorithmique.net)"
+            ],
+            [
+              "26",
+              "[@aeden](https://github.com/aeden)/[**rsaml**](https://github.com/aeden/rsaml)",
+              "Ruby implementation of the SAML 2.0 Specification",
+              ""
+            ],
+            [
+              "25",
+              "[@oleganza](https://github.com/oleganza)/[**emrpc**](https://github.com/oleganza/emrpc)",
+              "Modular ruby RPC library with blocking and evented API (using EventMachine)",
+              ""
+            ],
+            [
+              "23",
+              "[@oleganza](https://github.com/oleganza)/[**vkontakte.ruby**](https://github.com/oleganza/vkontakte.ruby)",
+              "Ruby API for vkontakte.ru for syncing personal data with local StrokeDB database",
+              ""
+            ],
+            [
+              "22",
+              "[@oleganza](https://github.com/oleganza)/[**autogit**](https://github.com/oleganza/autogit)",
+              "AutoGit is an automatic package manager for Ruby (alternative to RubyGems)",
+              ""
+            ],
+            [
+              "21",
+              "[@tdd](https://github.com/tdd)/[**git-basecamp**](https://github.com/tdd/git-basecamp)",
+              "Git post-commit hook to transparently log dev time to Basecamp",
+              ""
+            ],
+            [
+              "21",
+              "[@oleganza](https://github.com/oleganza)/[**btcruby**](https://github.com/oleganza/btcruby)",
+              "Comprehensive Bitcoin and Open Assets toolkit for Ruby",
+              ""
+            ],
+            [
+              "20",
+              "[@thbar](https://github.com/thbar)/[**magic**](https://github.com/thbar/magic)",
+              "IronRuby sugar for WPF, Silverlight and Windows Forms.",
+              ""
+            ],
+            [
+              "20",
+              "[@glejeune](https://github.com/glejeune)/[**ruby-xslt**](https://github.com/glejeune/ruby-xslt)",
+              "Ruby/XSLT is a simple XSLT class based on libxml <xmlsoft.org/> and libxslt <xmlsoft.org/XSLT/>",
+              "[:arrow_upper_right:](http://algorithmique.net)"
+            ],
+            [
+              "19",
+              "[@tibastral](https://github.com/tibastral)/[**web_motion**](https://github.com/tibastral/web_motion)",
+              "WebMotion : the RubyMotion gem to handle Js Simple Calls from a Web View.",
+              ""
+            ],
+            [
+              "18",
+              "[@oleganza](https://github.com/oleganza)/[**strokedb-core**](https://github.com/oleganza/strokedb-core)",
+              "Minimalistic modular engine for StrokeDB",
+              "[:arrow_upper_right:](http://strokedb.com)"
+            ],
+            [
+              "17",
+              "[@glejeune](https://github.com/glejeune)/[**ruby-leap-motion-ws**](https://github.com/glejeune/ruby-leap-motion-ws)",
+              "Ruby interface to the Leap Motion Controller (via WebSocket)",
+              ""
+            ],
+            [
+              "17",
+              "[@glejeune](https://github.com/glejeune)/[**syncftp**](https://github.com/glejeune/syncftp)",
+              "Sync via FTP, only modified files",
+              "[:arrow_upper_right:](http://algorithmique.net)"
+            ],
+            [
+              "16",
+              "[@simonc](https://github.com/simonc)/[**versioned_seeds**](https://github.com/simonc/versioned_seeds)",
+              "Manage your seed scripts by versioning them",
+              ""
+            ],
+            [
+              "16",
+              "[@oleganza](https://github.com/oleganza)/[**ampoule**](https://github.com/oleganza/ampoule)",
+              "git-based todo manager/bugtracker",
+              ""
+            ],
+            [
+              "15",
+              "[@olivierlacan](https://github.com/olivierlacan)/[**gifhub**](https://github.com/olivierlacan/gifhub)",
+              "A hub for all the gifs, searchable by keyword. I know...",
+              ""
+            ],
+            [
+              "14",
+              "[@aeden](https://github.com/aeden)/[**jruby-http-reactor**](https://github.com/aeden/jruby-http-reactor)",
+              "A JRuby library that uses the Apache HTTP Components NIO library for executing HTTP requests",
+              "[:arrow_upper_right:](http://rdoc.info/projects/aeden/jruby-http-reactor/)"
+            ],
+            [
+              "14",
+              "[@aeden](https://github.com/aeden)/[**misc**](https://github.com/aeden/misc)",
+              "Miscellaneous stuff",
+              ""
+            ],
+            [
+              "13",
+              "[@julienXX](https://github.com/julienXX)/[**Brewery**](https://github.com/julienXX/Brewery)",
+              "Graphical interface for homebrew package management in MacRuby",
+              ""
+            ],
+            [
+              "13",
+              "[@masterzen](https://github.com/masterzen)/[**puppet-dns**](https://github.com/masterzen/puppet-dns)",
+              "Example dns zone/rr type with a fog provider - This provider was created as the example for an article on Puppet Type/Provider development.",
+              "[:arrow_upper_right:](http://www.masterzen.fr/2011/11/02/puppet-extension-point-part-2/)"
+            ],
+            [
+              "13",
+              "[@dmathieu](https://github.com/dmathieu)/[**cylon**](https://github.com/dmathieu/cylon)",
+              "Rack middleware and Rails Engine to avoid indexing your application in staging",
+              "[:arrow_upper_right:](http://dmathieu.com)"
+            ],
+            [
+              "13",
+              "[@sunny](https://github.com/sunny)/[**handle_invalid_perce…**](https://github.com/sunny/handle_invalid_percent_encoding_requests)",
+              "Rails Engine to handle badly encoded requests",
+              ""
+            ],
+            [
+              "12",
+              "[@thbar](https://github.com/thbar)/[**diacritics_fu**](https://github.com/thbar/diacritics_fu)",
+              "Tiny Ruby library to remove accents and other diacritics from a string (relies on ActiveSupport).",
+              "[:arrow_upper_right:](http://blog.logeek.fr)"
+            ],
+            [
+              "12",
+              "[@glejeune](https://github.com/glejeune)/[**RConsole**](https://github.com/glejeune/RConsole)",
+              "A simple Ruby console for Mac",
+              "[:arrow_upper_right:](http://algorithmique.net)"
+            ],
+            [
+              "11",
+              "[@robin850](https://github.com/robin850)/[**dojo-rails**](https://github.com/robin850/dojo-rails)",
+              "Dojo Toolkit with Ruby on Rails!",
+              "[:arrow_upper_right:](http://robin850.github.io/dojo-rails)"
+            ],
+            [
+              "11",
+              "[@simonc](https://github.com/simonc)/[**mustdown**](https://github.com/simonc/mustdown)",
+              "Mustdown provides helpers to ease the use markdown, mustache and both of them.",
+              ""
+            ],
+            [
+              "11",
+              "[@nono](https://github.com/nono)/[**cssgrep**](https://github.com/nono/cssgrep)",
+              "A command line tool ala grep based on XPath or/and CSS selectors",
+              "[:arrow_upper_right:](https://twitter.com/karlpro/status/364850774540431361)"
+            ],
+            [
+              "11",
+              "[@glejeune](https://github.com/glejeune)/[**vf**](https://github.com/glejeune/vf)",
+              "Enhanced version of the standard \"cd\" command ",
+              "[:arrow_upper_right:](http://algorithmique.net)"
+            ],
+            [
+              "10",
+              "[@julienXX](https://github.com/julienXX)/[**resque-slack**](https://github.com/julienXX/resque-slack)",
+              "Post failed Resque jobs notifications in a Slack channel",
+              ""
+            ],
+            [
+              "10",
+              "[@sunny](https://github.com/sunny)/[**daylist**](https://github.com/sunny/daylist)",
+              "A small ruby program for unit-testing one's life ",
+              ""
+            ],
+            [
+              "10",
+              "[@alx](https://github.com/alx)/[**rfeedfinder**](https://github.com/alx/rfeedfinder)",
+              "rfeedfinder uses RSS autodiscovery, Atom autodiscovery, spidering, URL correction, and Web service queries (whatever it takes) to find the feed.",
+              "[:arrow_upper_right:](http://rfeedfinder.rubyforge.org)"
+            ],
+            [
+              "10",
+              "[@robink](https://github.com/robink)/[**mixcloud-to-spotify**](https://github.com/robink/mixcloud-to-spotify)",
+              "Just a simple script that crawls Spotify tracks of a given Mixcloud cloudcast.",
+              ""
+            ],
+            [
+              "10",
+              "[@glejeune](https://github.com/glejeune)/[**Capcode**](https://github.com/glejeune/Capcode)",
+              "Capcode is a tiny MVC framework",
+              "[:arrow_upper_right:](http://algorithmique.net)"
+            ],
+            [
+              "10",
+              "[@glejeune](https://github.com/glejeune)/[**GemMenu**](https://github.com/glejeune/GemMenu)",
+              "Manage your gems from the MacOSX Menu",
+              "[:arrow_upper_right:](http://www.algorithmique.net/gemmenu/)"
+            ],
+            [
+              "9",
+              "[@Florent2](https://github.com/Florent2)/[**prevent_destroy_if_a…**](https://github.com/Florent2/prevent_destroy_if_any)",
+              "ActiveRecord plugin to prevent destroy when associations are present",
+              ""
+            ],
+            [
+              "9",
+              "[@thbar](https://github.com/thbar)/[**petite-lettre**](https://github.com/thbar/petite-lettre)",
+              "YAML-based inter-process communication.",
+              ""
+            ],
+            [
+              "9",
+              "[@sunny](https://github.com/sunny)/[**rateaux**](https://github.com/sunny/rateaux)",
+              "A few useful rake tasks for Rails",
+              ""
+            ],
+            [
+              "9",
+              "[@sunny](https://github.com/sunny)/[**action_mailer_auto_u…**](https://github.com/sunny/action_mailer_auto_url_options)",
+              "Make ActionMailer use the current request host and protocol for URL generation",
+              ""
+            ],
+            [
+              "9",
+              "[@glejeune](https://github.com/glejeune)/[**lipsum**](https://github.com/glejeune/lipsum)",
+              "A Ruby class to retrive \"lorem ipsum\" placeholder text from lipsum.com.",
+              "[:arrow_upper_right:](http://algorithmique.net)"
+            ],
+            [
+              "8",
+              "[@robin850](https://github.com/robin850)/[**nivo-rails**](https://github.com/robin850/nivo-rails)",
+              "Nivo slider integration for Ruby on Rails",
+              ""
+            ],
+            [
+              "8",
+              "[@aeden](https://github.com/aeden)/[**demo_address_book**](https://github.com/aeden/demo_address_book)",
+              "Two demo web apps, one in Rails, one in Sinatra, for presentations",
+              ""
+            ],
+            [
+              "8",
+              "[@penso](https://github.com/penso)/[**actionmailer_x509**](https://github.com/penso/actionmailer_x509)",
+              "This plugin allows you to send X509 signed mails for Ruby on Rails.",
+              ""
+            ],
+            [
+              "8",
+              "[@sunny](https://github.com/sunny)/[**killbills**](https://github.com/sunny/killbills)",
+              "Rails app to track expenses with friends",
+              "[:arrow_upper_right:](http://killbills.herokuapp.com/)"
+            ],
+            [
+              "8",
+              "[@alx](https://github.com/alx)/[**GridFS**](https://github.com/alx/GridFS)",
+              "Sinatra frontend for managing files on MongoDB GridFS.",
+              "[:arrow_upper_right:](http://legodata.com)"
+            ],
+            [
+              "8",
+              "[@oleganza](https://github.com/oleganza)/[**web-frameworks-bench…**](https://github.com/oleganza/web-frameworks-benchmark)",
+              "Merb, rails and ramaze benchmark",
+              ""
+            ],
+            [
+              "7",
+              "[@aeden](https://github.com/aeden)/[**dependency-resolver**](https://github.com/aeden/dependency-resolver)",
+              "A gem dependency resolver based on DNS",
+              ""
+            ],
+            [
+              "7",
+              "[@alx](https://github.com/alx)/[**politimap**](https://github.com/alx/politimap)",
+              "Fetch and parse data from http://www.assemblee-nationale.fr/",
+              "[:arrow_upper_right:](http://www.assemblee-nationale.fr/)"
+            ],
+            [
+              "7",
+              "[@alx](https://github.com/alx)/[**delicious-bot**](https://github.com/alx/delicious-bot)",
+              "Jabber bot to add bookmarks on delicious",
+              "[:arrow_upper_right:](http://alexgirard.com)"
+            ],
+            [
+              "7",
+              "[@jonathantribouharet](https://github.com/jonathantribouharet)/[**jt-rails-address**](https://github.com/jonathantribouharet/jt-rails-address)",
+              "Postal addresses management in Ruby On Rails and Javascript",
+              ""
+            ],
+            [
+              "7",
+              "[@shingara](https://github.com/shingara)/[**maleable**](https://github.com/shingara/maleable)",
+              "a dropBox like with MongoDB",
+              ""
+            ],
+            [
+              "7",
+              "[@tibastral](https://github.com/tibastral)/[**presentations**](https://github.com/tibastral/presentations)",
+              "",
+              "[:arrow_upper_right:](rubyparis.org)"
+            ],
+            [
+              "6",
+              "[@alx](https://github.com/alx)/[**twitticious**](https://github.com/alx/twitticious)",
+              "Import links from a twitter timeline to your del.icio.us account.",
+              "[:arrow_upper_right:](http://alexgirard.com/twitticious)"
+            ],
+            [
+              "6",
+              "[@nono](https://github.com/nono)/[**FightForNetNeutralit…**](https://github.com/nono/FightForNetNeutrality)",
+              "This package is a Rack middleware which allow to block some IP Address. By default the french parlement is denied.",
+              "[:arrow_upper_right:](https://rubygems.org/gems/fight-for-net-neutrality)"
+            ],
+            [
+              "6",
+              "[@alx](https://github.com/alx)/[**media_rocket**](https://github.com/alx/media_rocket)",
+              "Media Rocket est un slice Merb qui gère l'upload de fichiers.",
+              "[:arrow_upper_right:](http://legodata.com)"
+            ],
+            [
+              "6",
+              "[@shingara](https://github.com/shingara)/[**personal-presentatio…**](https://github.com/shingara/personal-presentation)",
+              "Presentation in french with beamer of Rails",
+              ""
+            ],
+            [
+              "6",
+              "[@aeden](https://github.com/aeden)/[**intercom_gun**](https://github.com/aeden/intercom_gun)",
+              "Gateway for pushing inbound email from mailgun into intercom.io",
+              ""
+            ],
+            [
+              "6",
+              "[@nono](https://github.com/nono)/[**french-rails**](https://github.com/nono/french-rails)",
+              "A plugin for Rails for simple french localization",
+              ""
+            ],
+            [
+              "6",
+              "[@simonc](https://github.com/simonc)/[**sinatra-has_scope**](https://github.com/simonc/sinatra-has_scope)",
+              "HasScope equivalent for Sinatra",
+              ""
+            ],
+            [
+              "6",
+              "[@julienXX](https://github.com/julienXX)/[**GAppsProvisioning**](https://github.com/julienXX/GAppsProvisioning)",
+              "Google Apps Provisioning API v2.0 Ruby client library",
+              "[:arrow_upper_right:](http://code.google.com/p/gdatav2rubyclientlib/)"
+            ],
+            [
+              "6",
+              "[@sunny](https://github.com/sunny)/[**srename**](https://github.com/sunny/srename)",
+              "Quickly rename TV Series files",
+              ""
+            ],
+            [
+              "6",
+              "[@sunny](https://github.com/sunny)/[**rimes**](https://github.com/sunny/rimes)",
+              "Ruby script to find rhymes",
+              ""
+            ],
+            [
+              "6",
+              "[@shingara](https://github.com/shingara)/[**merb_mongomapper**](https://github.com/shingara/merb_mongomapper)",
+              "A merb plugin to use mongomapper with Merb",
+              ""
+            ],
+            [
+              "6",
+              "[@nono](https://github.com/nono)/[**guide-em-up**](https://github.com/nono/guide-em-up)",
+              "Guide'em up is a tool for writing guides in markdown",
+              ""
+            ],
+            [
+              "6",
+              "[@penso](https://github.com/penso)/[**heritage**](https://github.com/penso/heritage)",
+              "heritage",
+              ""
+            ],
+            [
+              "6",
+              "[@aeden](https://github.com/aeden)/[**presentation_why_rub…**](https://github.com/aeden/presentation_why_ruby)",
+              "Why Ruby, Why Now? Presentation",
+              ""
+            ],
+            [
+              "6",
+              "[@alx](https://github.com/alx)/[**feevy**](https://github.com/alx/feevy)",
+              "display content from other blogs at your website with just one simple html tag",
+              "[:arrow_upper_right:](http://www.feevy.com)"
+            ],
+            [
+              "5",
+              "[@penso](https://github.com/penso)/[**caches_page_fix**](https://github.com/penso/caches_page_fix)",
+              "This plugin fix the broken caches_page from Rails",
+              ""
+            ],
+            [
+              "5",
+              "[@aeden](https://github.com/aeden)/[**pocor**](https://github.com/aeden/pocor)",
+              "Portable Contacts API in Ruby",
+              ""
+            ],
+            [
+              "5",
+              "[@aeden](https://github.com/aeden)/[**activewarehouse-webs…**](https://github.com/aeden/activewarehouse-website)",
+              "The ActiveWarehouse web site",
+              "[:arrow_upper_right:](http://activewarehouse.rubyforge.org/)"
+            ],
+            [
+              "5",
+              "[@simonc](https://github.com/simonc)/[**AbsoluteRenamer**](https://github.com/simonc/AbsoluteRenamer)",
+              "AbsoluteRenamer is a very powerful tool that helps files and directories renaming using the Krename syntax.",
+              ""
+            ],
+            [
+              "5",
+              "[@oleganza](https://github.com/oleganza)/[**vkontakte-player**](https://github.com/oleganza/vkontakte-player)",
+              "Vkontakte audio player for Mac OS X",
+              ""
+            ],
+            [
+              "5",
+              "[@shingara](https://github.com/shingara)/[**virtus-rspec**](https://github.com/shingara/virtus-rspec)",
+              "Rspec matcher to virtus gem",
+              ""
+            ],
+            [
+              "5",
+              "[@glejeune](https://github.com/glejeune)/[**ceres**](https://github.com/glejeune/ceres)",
+              "A tiny Planet powered by Capcode",
+              "[:arrow_upper_right:](http://algorithmique.net)"
+            ],
+            [
+              "5",
+              "[@sunny](https://github.com/sunny)/[**route_localize**](https://github.com/sunny/route_localize)",
+              "Rails 4 engine to translate routes using locale files and subdomains.",
+              ""
+            ],
+            [
+              "5",
+              "[@nono](https://github.com/nono)/[**HTML-Spellchecker**](https://github.com/nono/HTML-Spellchecker)",
+              "Wants to spellcheck an HTML string properly? This gem is for you.",
+              "[:arrow_upper_right:](http://rubygems.org/gems/html_spellchecker)"
+            ],
+            [
+              "5",
+              "[@sunny](https://github.com/sunny)/[**meuh**](https://github.com/sunny/meuh)",
+              "A studpid IRC Bot AI",
+              ""
+            ],
+            [
+              "5",
+              "[@aeden](https://github.com/aeden)/[**registrar-client**](https://github.com/aeden/registrar-client)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@sunny](https://github.com/sunny)/[**carrierwave-color**](https://github.com/sunny/carrierwave-color)",
+              "Store the dominant color of an image with CarrierWave",
+              ""
+            ],
+            [
+              "5",
+              "[@sunny](https://github.com/sunny)/[**wubmail**](https://github.com/sunny/wubmail)",
+              "Ruby lib and cli to send erb emails to people in a CSV",
+              ""
+            ],
+            [
+              "5",
+              "[@sunny](https://github.com/sunny)/[**git-ics**](https://github.com/sunny/git-ics)",
+              "Makes an icalendar file from a git or github repository",
+              ""
+            ],
+            [
+              "4",
+              "[@Florent2](https://github.com/Florent2)/[**rails_blank_app**](https://github.com/Florent2/rails_blank_app)",
+              "A rails app with the minimum configuration and default settings so I can start hacking right away",
+              ""
+            ],
+            [
+              "4",
+              "[@olivierlacan](https://github.com/olivierlacan)/[**build-bob**](https://github.com/olivierlacan/build-bob)",
+              "Build Bob analyzes your Travis build to find patterns and common problems",
+              ""
+            ],
+            [
+              "4",
+              "[@tdd](https://github.com/tdd)/[**tweep**](https://github.com/tdd/tweep)",
+              "Automatic Twitter Peeping",
+              ""
+            ],
+            [
+              "4",
+              "[@glejeune](https://github.com/glejeune)/[**soap-lc**](https://github.com/glejeune/soap-lc)",
+              "SOAP Lite Client provides support for developing clients interfaces from WSDL files.",
+              "[:arrow_upper_right:](http://algorithmique.net)"
+            ],
+            [
+              "4",
+              "[@shingara](https://github.com/shingara)/[**screeneur-lys**](https://github.com/shingara/screeneur-lys)",
+              "A screeneur for game conquest-lys (http://www.conquest-lys.net)",
+              "[:arrow_upper_right:](http://lysscreen.no-ip.org)"
+            ],
+            [
+              "4",
+              "[@sunny](https://github.com/sunny)/[**damn_hotlinkers**](https://github.com/sunny/damn_hotlinkers)",
+              "Script to use against an HTTP log to find out who points directly towards your files",
+              ""
+            ],
+            [
+              "4",
+              "[@aeden](https://github.com/aeden)/[**0mq-ruby-examples**](https://github.com/aeden/0mq-ruby-examples)",
+              "Basic examples of zmq, the Ruby 0mq lib",
+              ""
+            ],
+            [
+              "4",
+              "[@aeden](https://github.com/aeden)/[**coffeetrack**](https://github.com/aeden/coffeetrack)",
+              "A web app for tracking coffee usage.",
+              ""
+            ],
+            [
+              "4",
+              "[@aeden](https://github.com/aeden)/[**rubygems-dns**](https://github.com/aeden/rubygems-dns)",
+              "Rubygem dependency management with DNS",
+              ""
+            ],
+            [
+              "4",
+              "[@penso](https://github.com/penso)/[**blog-sse**](https://github.com/penso/blog-sse)",
+              "This repository shows how to use Rails, Sinatra and SSE to have realtime update to highcharts. The following blog post gives you more info.",
+              "[:arrow_upper_right:](http://blog.penso.info/2013/05/24/realtime-update-highcharts/)"
+            ],
+            [
+              "4",
+              "[@shingara](https://github.com/shingara)/[**open-notification**](https://github.com/shingara/open-notification)",
+              "Manage several notification by one application",
+              "[:arrow_upper_right:](http://open-notification.com)"
+            ],
+            [
+              "4",
+              "[@sunny](https://github.com/sunny)/[**mariokartwiit**](https://github.com/sunny/mariokartwiit)",
+              "Finds your friends' Mario Kart Wii codes on Twitter",
+              ""
+            ],
+            [
+              "4",
+              "[@oleganza](https://github.com/oleganza)/[**fullmapper**](https://github.com/oleganza/fullmapper)",
+              "fullmapper is a purely experimental rewrite of the dm-core core. Or, better say, core core. Of the dm-core.",
+              ""
+            ],
+            [
+              "4",
+              "[@shingara](https://github.com/shingara)/[**planet-mashpit**](https://github.com/shingara/planet-mashpit)",
+              "a planet in Merb",
+              ""
+            ],
+            [
+              "4",
+              "[@shingara](https://github.com/shingara)/[**whotowho**](https://github.com/shingara/whotowho)",
+              "",
+              "[:arrow_upper_right:](http://whotowho.rubyforge.org)"
+            ],
+            [
+              "4",
+              "[@sunny](https://github.com/sunny)/[**remotransmission**](https://github.com/sunny/remotransmission)",
+              "Command line interface for remote Transmission",
+              ""
+            ],
+            [
+              "4",
+              "[@alx](https://github.com/alx)/[**moebius**](https://github.com/alx/moebius)",
+              "Script to convert Comic Book files (.cbr and .cbz) in PDF for portable reading",
+              "[:arrow_upper_right:](http://alexgirard.com)"
+            ],
+            [
+              "4",
+              "[@sunny](https://github.com/sunny)/[**layout_values**](https://github.com/sunny/layout_values)",
+              "Rails plugin to add helpers to indicate page titles and meta description.",
+              ""
+            ],
+            [
+              "4",
+              "[@alx](https://github.com/alx)/[**hub**](https://github.com/alx/hub)",
+              "Centralize all my publications using script and submodules",
+              "[:arrow_upper_right:](http://alexgirard.com)"
+            ],
+            [
+              "4",
+              "[@shingara](https://github.com/shingara)/[**brute_push**](https://github.com/shingara/brute_push)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@aeden](https://github.com/aeden)/[**feed-processor**](https://github.com/aeden/feed-processor)",
+              "A multi-step feed parser using JRuby, MRI, beanstalk and MongoDB",
+              ""
+            ],
+            [
+              "3",
+              "[@thbar](https://github.com/thbar)/[**indestructable**](https://github.com/thbar/indestructable)",
+              "Un petit script ruby pour réviser les tables de multiplications (WIP)",
+              ""
+            ],
+            [
+              "3",
+              "[@shingara](https://github.com/shingara)/[**cap-project**](https://github.com/shingara/cap-project)",
+              "An little example of rails application for CapGemini presentation",
+              ""
+            ],
+            [
+              "3",
+              "[@Rydgel](https://github.com/Rydgel)/[**Sinatra-Skeleton**](https://github.com/Rydgel/Sinatra-Skeleton)",
+              "Sinatra skeleton, using pgsql, memcache and stuffs.",
+              ""
+            ],
+            [
+              "3",
+              "[@shingara](https://github.com/shingara)/[**typo_converteur**](https://github.com/shingara/typo_converteur)",
+              "A converteur from another blog engine to Typo blog",
+              ""
+            ],
+            [
+              "3",
+              "[@thbar](https://github.com/thbar)/[**ironruby-labs**](https://github.com/thbar/ironruby-labs)",
+              "Experimentations with IronRuby",
+              ""
+            ],
+            [
+              "3",
+              "[@shingara](https://github.com/shingara)/[**pingit**](https://github.com/shingara/pingit)",
+              "A service to ping frequently some URL",
+              ""
+            ],
+            [
+              "3",
+              "[@oleganza](https://github.com/oleganza)/[**declarations**](https://github.com/oleganza/declarations)",
+              "Extremely small, perfectly done dynamic inheritable declarations lib for Ruby. You should use it for DSL macros like \"has_many\", \"before_filter\" etc.",
+              "[:arrow_upper_right:](http://oleganza.com)"
+            ],
+            [
+              "3",
+              "[@simonc](https://github.com/simonc)/[**redcarpet-variables**](https://github.com/simonc/redcarpet-variables)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@thbar](https://github.com/thbar)/[**data-patcher**](https://github.com/thbar/data-patcher)",
+              "Little gem to produce database patchs",
+              ""
+            ],
+            [
+              "3",
+              "[@oleganza](https://github.com/oleganza)/[**literate**](https://github.com/oleganza/literate)",
+              "Literate programming for Ruby",
+              ""
+            ],
+            [
+              "3",
+              "[@shingara](https://github.com/shingara)/[**dojo-doodle**](https://github.com/shingara/dojo-doodle)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@oleganza](https://github.com/oleganza)/[**Coder**](https://github.com/oleganza/Coder)",
+              "NSCoding-inspired library for encoding object graphs in Ruby. Plus optional formatter/decoder for JavaScript.",
+              ""
+            ],
+            [
+              "3",
+              "[@shingara](https://github.com/shingara)/[**base_app_mongoid**](https://github.com/shingara/base_app_mongoid)",
+              "My own base_app to start project with Mongoid/devise/omniauth/cancan/steak",
+              ""
+            ],
+            [
+              "3",
+              "[@oleganza](https://github.com/oleganza)/[**serials**](https://github.com/oleganza/serials)",
+              "Scalable serial numbers database (example of TokyoCabinet usage)",
+              ""
+            ],
+            [
+              "3",
+              "[@shingara](https://github.com/shingara)/[**yoolink-typo-sidebar**](https://github.com/shingara/yoolink-typo-sidebar)",
+              "A yoolink sidebar plugin for typo",
+              ""
+            ],
+            [
+              "3",
+              "[@robin850](https://github.com/robin850)/[**cours**](https://github.com/robin850/cours)",
+              "Cours sur le langage Ruby !",
+              ""
+            ],
+            [
+              "3",
+              "[@shingara](https://github.com/shingara)/[**rspec-formatter**](https://github.com/shingara/rspec-formatter)",
+              "My Own rspec formatter",
+              ""
+            ],
+            [
+              "3",
+              "[@sunny](https://github.com/sunny)/[**difffeed**](https://github.com/sunny/difffeed)",
+              "Makes a feed of the new and deleted files in a path",
+              ""
+            ],
+            [
+              "3",
+              "[@shingara](https://github.com/shingara)/[**therearenews**](https://github.com/shingara/therearenews)",
+              "push a XMPP notification when RSS has new item. It's use superfeedr and blather",
+              ""
+            ],
+            [
+              "3",
+              "[@Florent2](https://github.com/Florent2)/[**larpwriter**](https://github.com/Florent2/larpwriter)",
+              "The complete rewrite of www.larpwriter.com. Work in progress.",
+              ""
+            ],
+            [
+              "3",
+              "[@shingara](https://github.com/shingara)/[**merbership**](https://github.com/shingara/merbership)",
+              "simpliest system to manage member to rubyfrance",
+              ""
+            ],
+            [
+              "3",
+              "[@aeden](https://github.com/aeden)/[**activequeue**](https://github.com/aeden/activequeue)",
+              "ActiveQueue provides a standard interface for sending messages to and  receiving messages from message queues.",
+              ""
+            ],
+            [
+              "3",
+              "[@alx](https://github.com/alx)/[**rotoscop**](https://github.com/alx/rotoscop)",
+              "Rotoscop is a minimalistic CMS that allows you to create pages and put elements inside this page, with different styles and format.",
+              "[:arrow_upper_right:](http://legodata.com)"
+            ],
+            [
+              "3",
+              "[@aeden](https://github.com/aeden)/[**freq**](https://github.com/aeden/freq)",
+              "A library for parsing and using natural language frequency descriptions",
+              ""
+            ],
+            [
+              "3",
+              "[@alx](https://github.com/alx)/[**nginx_merb_vhost**](https://github.com/alx/nginx_merb_vhost)",
+              "Manage Merb Application on different Vhosts served by Nginx using Capistrano",
+              "[:arrow_upper_right:](http://alexgirard.com)"
+            ],
+            [
+              "3",
+              "[@yaf](https://github.com/yaf)/[**Share-your-bill**](https://github.com/yaf/Share-your-bill)",
+              "Build a database with prices and market infos",
+              ""
+            ],
+            [
+              "3",
+              "[@alx](https://github.com/alx)/[**merb-ui**](https://github.com/alx/merb-ui)",
+              "User Interface Components for Merb",
+              "[:arrow_upper_right:](http://uipoet.com/projects)"
+            ],
+            [
+              "3",
+              "[@nono](https://github.com/nono)/[**json_select**](https://github.com/nono/json_select)",
+              "A ruby version of JSONSelect, an experimental selector language for JSON.",
+              "[:arrow_upper_right:](http://jsonselect.org/)"
+            ],
+            [
+              "3",
+              "[@alx](https://github.com/alx)/[**lab-legodata**](https://github.com/alx/lab-legodata)",
+              "Innovation Center from Legodata.com",
+              "[:arrow_upper_right:](http://lab.legodata.com)"
+            ],
+            [
+              "3",
+              "[@dmathieu](https://github.com/dmathieu)/[**permoid**](https://github.com/dmathieu/permoid)",
+              "Add permalinks to your mongoid models",
+              "[:arrow_upper_right:](http://dmathieu.com)"
+            ],
+            [
+              "3",
+              "[@alx](https://github.com/alx)/[**ssh_connect**](https://github.com/alx/ssh_connect)",
+              "ssh_connect is a console bookmark tool to connect quickly to your most used ssh servers.",
+              ""
+            ],
+            [
+              "3",
+              "[@patcito](https://github.com/patcito)/[**mmmblog**](https://github.com/patcito/mmmblog)",
+              "blog based on rails and mongodb",
+              ""
+            ],
+            [
+              "3",
+              "[@alx](https://github.com/alx)/[**Stratfor-GEXF**](https://github.com/alx/Stratfor-GEXF)",
+              "Parse Wikileaks GIFiles list of document to build a social network GEXF",
+              ""
+            ],
+            [
+              "3",
+              "[@glejeune](https://github.com/glejeune)/[**ara**](https://github.com/glejeune/ara)",
+              "Ara is a tiny class that’s allow you to use actors in Ruby",
+              "[:arrow_upper_right:](http://algorithmique.net)"
+            ],
+            [
+              "3",
+              "[@shingara](https://github.com/shingara)/[**sinatra-request-logg…**](https://github.com/shingara/sinatra-request-logger)",
+              "Log your request and error with a Logger",
+              ""
+            ],
+            [
+              "3",
+              "[@jonathantribouharet](https://github.com/jonathantribouharet)/[**jt-rails-generator-u…**](https://github.com/jonathantribouharet/jt-rails-generator-user)",
+              "Generate a scaffold for user authentication in Ruby On Rails.",
+              ""
+            ],
+            [
+              "2",
+              "[@glejeune](https://github.com/glejeune)/[**couchc**](https://github.com/glejeune/couchc)",
+              "couchc is a tiny console for CouchDB",
+              "[:arrow_upper_right:](http://algorithmique.net)"
+            ],
+            [
+              "2",
+              "[@robin850](https://github.com/robin850)/[**dijit-rails**](https://github.com/robin850/dijit-rails)",
+              "The Dijit library with Ruby on Rails",
+              ""
+            ],
+            [
+              "2",
+              "[@olivierlacan](https://github.com/olivierlacan)/[**metaself**](https://github.com/olivierlacan/metaself)",
+              "A simple service to publicly store and exchange metadata about yourself.",
+              "[:arrow_upper_right:](https://metaself.io)"
+            ],
+            [
+              "2",
+              "[@robin850](https://github.com/robin850)/[**dojox-rails**](https://github.com/robin850/dojox-rails)",
+              "Dojox with Ruby on Rails",
+              ""
+            ],
+            [
+              "2",
+              "[@sunny](https://github.com/sunny)/[**raise_js**](https://github.com/sunny/raise_js)",
+              "Raise JavaScript errors as Ruby exceptions in your Rails app",
+              ""
+            ],
+            [
+              "2",
+              "[@julienXX](https://github.com/julienXX)/[**dotfiles**](https://github.com/julienXX/dotfiles)",
+              "Various dot files",
+              ""
+            ],
+            [
+              "2",
+              "[@tibastral](https://github.com/tibastral)/[**mario-platformer-2d**](https://github.com/tibastral/mario-platformer-2d)",
+              "Simple implementation of a 2d platformer in ruby and gosu",
+              ""
+            ],
+            [
+              "2",
+              "[@thbar](https://github.com/thbar)/[**mephisto_amazon**](https://github.com/thbar/mephisto_amazon)",
+              "A starter plugin to provide support for Amazon data retrieval (relies on Amazon-ECS gem).",
+              "[:arrow_upper_right:](http://blog.logeek.fr)"
+            ],
+            [
+              "2",
+              "[@thbar](https://github.com/thbar)/[**demomaking**](https://github.com/thbar/demomaking)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@thbar](https://github.com/thbar)/[**rack-pretty_json**](https://github.com/thbar/rack-pretty_json)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@sunny](https://github.com/sunny)/[**tangram-importer**](https://github.com/sunny/tangram-importer)",
+              "Web API to import contacts from Google, Yahoo!, etc. with no passwords",
+              ""
+            ],
+            [
+              "2",
+              "[@simonc](https://github.com/simonc)/[**gettext_json**](https://github.com/simonc/gettext_json)",
+              "Rails plugin to use GetText translations in javascript scripts",
+              ""
+            ],
+            [
+              "2",
+              "[@sunny](https://github.com/sunny)/[**allocine**](https://github.com/sunny/allocine)",
+              "Allocine.fr parser",
+              "[:arrow_upper_right:](http://webs.lighthouseapp.com/projects/18095-allocine)"
+            ],
+            [
+              "2",
+              "[@nono](https://github.com/nono)/[**dev-links**](https://github.com/nono/dev-links)",
+              "Playing with Redis: a small app for posting links",
+              ""
+            ],
+            [
+              "2",
+              "[@sunny](https://github.com/sunny)/[**emailid**](https://github.com/sunny/emailid)",
+              "Rails OpenID provider authenticating users by their email",
+              ""
+            ],
+            [
+              "2",
+              "[@nono](https://github.com/nono)/[**drivy-jobs**](https://github.com/nono/drivy-jobs)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@glejeune](https://github.com/glejeune)/[**Mixr**](https://github.com/glejeune/Mixr)",
+              "Mixr is a tiny memory object caching system",
+              "[:arrow_upper_right:](http://algorithmique.net)"
+            ],
+            [
+              "2",
+              "[@simonc](https://github.com/simonc)/[**activerecord-auto_de…**](https://github.com/simonc/activerecord-auto_defaults)",
+              "AutoDefaults sets the default values of nil attributes based on the database schema",
+              ""
+            ],
+            [
+              "2",
+              "[@nono](https://github.com/nono)/[**AgileCup-maze**](https://github.com/nono/AgileCup-maze)",
+              "My solution to the first Agile Cup",
+              "[:arrow_upper_right:](http://www.agilecup.org/)"
+            ],
+            [
+              "2",
+              "[@simonc](https://github.com/simonc)/[**ruploy**](https://github.com/simonc/ruploy)",
+              "Ruploy generates init.d scripts to manage Rack apps using RVM",
+              ""
+            ],
+            [
+              "2",
+              "[@Florent2](https://github.com/Florent2)/[**quicklog**](https://github.com/Florent2/quicklog)",
+              "easy logging of a variable value with its label",
+              ""
+            ],
+            [
+              "2",
+              "[@Rydgel](https://github.com/Rydgel)/[**Personal-Website-Rub…**](https://github.com/Rydgel/Personal-Website-Ruby-Version)",
+              "I was bored.",
+              "[:arrow_upper_right:](http://jrm.li)"
+            ],
+            [
+              "2",
+              "[@glejeune](https://github.com/glejeune)/[**Capcode.more**](https://github.com/glejeune/Capcode.more)",
+              "Capcode plugins",
+              "[:arrow_upper_right:](http://algorithmique.net)"
+            ],
+            [
+              "2",
+              "[@patcito](https://github.com/patcito)/[**mmoid**](https://github.com/patcito/mmoid)",
+              "Port of the OpenIDAuthentication rails plugin to MongoMapper.",
+              "[:arrow_upper_right:](http://shapado.com)"
+            ],
+            [
+              "2",
+              "[@aeden](https://github.com/aeden)/[**testable**](https://github.com/aeden/testable)",
+              "An extremely simple way to test next to the method that needs testing.",
+              ""
+            ],
+            [
+              "2",
+              "[@alx](https://github.com/alx)/[**icomme**](https://github.com/alx/icomme)",
+              "E-commerce slice to be integrated inside a Merb application",
+              "[:arrow_upper_right:](http://www.legodata.com)"
+            ],
+            [
+              "2",
+              "[@nono](https://github.com/nono)/[**Ruby-Christmas-Conte…**](https://github.com/nono/Ruby-Christmas-Contest)",
+              "",
+              "[:arrow_upper_right:](http://contest.dimelo.com/)"
+            ],
+            [
+              "2",
+              "[@alx](https://github.com/alx)/[**rfeedfinder-slice**](https://github.com/alx/rfeedfinder-slice)",
+              "rfeedfinder uses RSS autodiscovery, Atom autodiscovery, spidering, URL correction, and Web service queries (whatever it takes) to find the feed. This is the Merb-Slice version of the original gem",
+              "[:arrow_upper_right:](http://rfeedfinder.rubyforge.org)"
+            ],
+            [
+              "2",
+              "[@nono](https://github.com/nono)/[**rulu-demo**](https://github.com/nono/rulu-demo)",
+              "Ruby Lugdunum demo of Goliath",
+              "[:arrow_upper_right:](http://nono.github.com/Presentations/20110626_Goliath/)"
+            ],
+            [
+              "2",
+              "[@alx](https://github.com/alx)/[**gluttonberg**](https://github.com/alx/gluttonberg)",
+              "A content management system built on top of Merb",
+              "[:arrow_upper_right:](http://freerangefuture.com/)"
+            ],
+            [
+              "2",
+              "[@aeden](https://github.com/aeden)/[**openid-redis-store**](https://github.com/aeden/openid-redis-store)",
+              "Simple Redis store for OpenID",
+              "[:arrow_upper_right:](http://railorz.ru)"
+            ],
+            [
+              "2",
+              "[@alx](https://github.com/alx)/[**Tetalab-Status**](https://github.com/alx/Tetalab-Status)",
+              "Tetalab Hackerspace Status API EndPoint",
+              "[:arrow_upper_right:](http://status.tetalab.org)"
+            ],
+            [
+              "2",
+              "[@aeden](https://github.com/aeden)/[**presentations**](https://github.com/aeden/presentations)",
+              "Collatoral material for public presentations",
+              ""
+            ],
+            [
+              "2",
+              "[@alx](https://github.com/alx)/[**rfeedreader**](https://github.com/alx/rfeedreader)",
+              "  Feed parser to read feed and return first posts of this feed. Special parsing from sources like Flickr, Jumcut, Google video, ...",
+              "[:arrow_upper_right:](http://rfeedreader.rubyforge.org)"
+            ],
+            [
+              "2",
+              "[@masterzen](https://github.com/masterzen)/[**blog**](https://github.com/masterzen/blog)",
+              "My Blog source based on octopress",
+              "[:arrow_upper_right:](http://www.masterzen.fr)"
+            ],
+            [
+              "2",
+              "[@alx](https://github.com/alx)/[**tetalab-refinery**](https://github.com/alx/tetalab-refinery)",
+              "Refinery code for tetalab.org",
+              "[:arrow_upper_right:](http://tetalab.org)"
+            ],
+            [
+              "2",
+              "[@tibastral](https://github.com/tibastral)/[**subtitle-downloader**](https://github.com/tibastral/subtitle-downloader)",
+              "automatic subtitle downloader",
+              ""
+            ],
+            [
+              "2",
+              "[@shingara](https://github.com/shingara)/[**dragonfly_resize_and…**](https://github.com/shingara/dragonfly_resize_and_pad_processor)",
+              "A dragonfly Processor to resize with pad",
+              ""
+            ],
+            [
+              "2",
+              "[@jonathantribouharet](https://github.com/jonathantribouharet)/[**jt-rails-toolbox**](https://github.com/jonathantribouharet/jt-rails-toolbox)",
+              "Common libs used for Ruby On Rails development.",
+              ""
+            ],
+            [
+              "2",
+              "[@shingara](https://github.com/shingara)/[**yamlpushmovable**](https://github.com/shingara/yamlpushmovable)",
+              "a little script who can push a Yaml file to movable API",
+              ""
+            ],
+            [
+              "2",
+              "[@jonathantribouharet](https://github.com/jonathantribouharet)/[**jt-rails-tokenizable**](https://github.com/jonathantribouharet/jt-rails-tokenizable)",
+              "Token generation for ActiveRecord models in Ruby On Rails",
+              ""
+            ],
+            [
+              "2",
+              "[@shingara](https://github.com/shingara)/[**shalamarette**](https://github.com/shingara/shalamarette)",
+              "The website of Shalamarette",
+              ""
+            ],
+            [
+              "2",
+              "[@jonathantribouharet](https://github.com/jonathantribouharet)/[**jt-rails-meta**](https://github.com/jonathantribouharet/jt-rails-meta)",
+              "Manage HTML meta tags for SEO in Ruby On Rails",
+              ""
+            ],
+            [
+              "2",
+              "[@shingara](https://github.com/shingara)/[**rubypodder**](https://github.com/shingara/rubypodder)",
+              "a copy of rubypodder project (see rubyforge)",
+              ""
+            ],
+            [
+              "2",
+              "[@jonathantribouharet](https://github.com/jonathantribouharet)/[**paperclip-storage-ht…**](https://github.com/jonathantribouharet/paperclip-storage-http)",
+              "HTTP storage support for paperclip.",
+              ""
+            ],
+            [
+              "2",
+              "[@shingara](https://github.com/shingara)/[**mongodb-chef-recipe**](https://github.com/shingara/mongodb-chef-recipe)",
+              "A chef recipe to install MongoDB",
+              ""
+            ],
+            [
+              "2",
+              "[@julienXX](https://github.com/julienXX)/[**ChromiumUpdater**](https://github.com/julienXX/ChromiumUpdater)",
+              "Updates Chromium OS X with the latest build",
+              ""
+            ],
+            [
+              "2",
+              "[@shingara](https://github.com/shingara)/[**oupsnow-plugins**](https://github.com/shingara/oupsnow-plugins)",
+              "All plugin to oupsnow",
+              ""
+            ],
+            [
+              "2",
+              "[@dmathieu](https://github.com/dmathieu)/[**ember101**](https://github.com/dmathieu/ember101)",
+              "Discover EmberJS",
+              "[:arrow_upper_right:](http://ember101.heroku.com/)"
             ]
           ]
         }
