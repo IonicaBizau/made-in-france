@@ -62,7 +62,8 @@
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -10276,6 +10277,1089 @@
               "[@ornicar](https://github.com/ornicar)/[**dmGithubPlugin**](https://github.com/ornicar/dmGithubPlugin)",
               "Provides php-github-api and some front widgets",
               "[:arrow_upper_right:](http://diem-project.org/plugins/dmgithubplugin)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2361",
+              "[@jeanphix](https://github.com/jeanphix)/[**Ghost.py**](https://github.com/jeanphix/Ghost.py)",
+              "Webkit based scriptable web browser for python. ",
+              "[:arrow_upper_right:](http://ghost-py.readthedocs.org/en/latest/)"
+            ],
+            [
+              "1422",
+              "[@n1nj4sec](https://github.com/n1nj4sec)/[**pupy**](https://github.com/n1nj4sec/pupy)",
+              "Pupy is an opensource, multi-platform (Windows, Linux, OSX, Android), multi function RAT (Remote Administration Tool) mainly written in python. It features a all-in-memory execution guideline and leaves very low footprint. Pupy can communicate using various transports, migrate into processes (reflective injection), load remote python code, python packages and python C-extensions from memory.",
+              ""
+            ],
+            [
+              "1234",
+              "[@Fantomas42](https://github.com/Fantomas42)/[**django-blog-zinnia**](https://github.com/Fantomas42/django-blog-zinnia)",
+              "Simple yet powerful and really extendable application for managing a blog within your Django Web site.",
+              "[:arrow_upper_right:](http://django-blog-zinnia.com/)"
+            ],
+            [
+              "1020",
+              "[@ronnix](https://github.com/ronnix)/[**fabtools**](https://github.com/ronnix/fabtools)",
+              "Tools for writing awesome Fabric files",
+              "[:arrow_upper_right:](http://fabtools.readthedocs.org/)"
+            ],
+            [
+              "753",
+              "[@JonathanSalwan](https://github.com/JonathanSalwan)/[**ROPgadget**](https://github.com/JonathanSalwan/ROPgadget)",
+              "This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC and MIPS architectures. ",
+              "[:arrow_upper_right:](http://www.shell-storm.org/project/ROPgadget/)"
+            ],
+            [
+              "748",
+              "[@tarekziade](https://github.com/tarekziade)/[**boom**](https://github.com/tarekziade/boom)",
+              "A replacement for AB (Apache Bench)",
+              ""
+            ],
+            [
+              "624",
+              "[@aaugustin](https://github.com/aaugustin)/[**django-c10k-demo**](https://github.com/aaugustin/django-c10k-demo)",
+              "10 000 concurrent real-time connections to Django",
+              ""
+            ],
+            [
+              "598",
+              "[@aaugustin](https://github.com/aaugustin)/[**websockets**](https://github.com/aaugustin/websockets)",
+              "WebSocket implementation in Python 3",
+              ""
+            ],
+            [
+              "592",
+              "[@tomchop](https://github.com/tomchop)/[**malcom**](https://github.com/tomchop/malcom)",
+              "Malcom - Malware Communications Analyzer",
+              ""
+            ],
+            [
+              "562",
+              "[@toxinu](https://github.com/toxinu)/[**Sublimall**](https://github.com/toxinu/Sublimall)",
+              "Synchronize your SublimeText configuration",
+              ""
+            ],
+            [
+              "550",
+              "[@n1k0](https://github.com/n1k0)/[**SublimeHighlight**](https://github.com/n1k0/SublimeHighlight)",
+              "A humble SublimeText package for exporting highlighted code as RTF or HTML",
+              "[:arrow_upper_right:](https://github.com/n1k0/SublimeHighlight)"
+            ],
+            [
+              "460",
+              "[@tsileo](https://github.com/tsileo)/[**bakthat**](https://github.com/tsileo/bakthat)",
+              "Bakthat is a MIT licensed backup framework written in Python, it's both a command line tool and a Python module that helps you manage backups on Amazon S3/Glacier and OpenStack Swift. It automatically compress, encrypt (symmetric encryption) and upload your files.",
+              "[:arrow_upper_right:](http://bakthat.readthedocs.org/en/latest/)"
+            ],
+            [
+              "439",
+              "[@wapiflapi](https://github.com/wapiflapi)/[**binglide**](https://github.com/wapiflapi/binglide)",
+              "Visual reverse engineering tool showing some of the current techniques.",
+              ""
+            ],
+            [
+              "334",
+              "[@toxinu](https://github.com/toxinu)/[**pyhn**](https://github.com/toxinu/pyhn)",
+              "Hacker news command line client",
+              ""
+            ],
+            [
+              "333",
+              "[@n1nj4sec](https://github.com/n1nj4sec)/[**memorpy**](https://github.com/n1nj4sec/memorpy)",
+              "Python library using ctypes to search/edit windows programs memory",
+              ""
+            ],
+            [
+              "323",
+              "[@haypo](https://github.com/haypo)/[**pysandbox**](https://github.com/haypo/pysandbox)",
+              "WARNING: pysandbox is BROKEN BY DESIGN, please move to a new sandboxing solution (run python in a sandbox, not the opposite!)",
+              "[:arrow_upper_right:](https://lwn.net/Articles/574215/)"
+            ],
+            [
+              "294",
+              "[@toxinu](https://github.com/toxinu)/[**requirements**](https://github.com/toxinu/requirements)",
+              "Python requirements made easy",
+              ""
+            ],
+            [
+              "230",
+              "[@wapiflapi](https://github.com/wapiflapi)/[**villoc**](https://github.com/wapiflapi/villoc)",
+              "Visualization of heap operations. ",
+              ""
+            ],
+            [
+              "159",
+              "[@n1nj4sec](https://github.com/n1nj4sec)/[**pr0cks**](https://github.com/n1nj4sec/pr0cks)",
+              "python script setting up a transparent proxy to forward all TCP and DNS traffic through a SOCKS / SOCKS5 or HTTP(CONNECT) proxy using iptables -j REDIRECT target",
+              ""
+            ],
+            [
+              "130",
+              "[@aaugustin](https://github.com/aaugustin)/[**django-userlog**](https://github.com/aaugustin/django-userlog)",
+              "Logs users' recent browsing history. Helpful for customer support and merciless spying.",
+              ""
+            ],
+            [
+              "107",
+              "[@jeanphix](https://github.com/jeanphix)/[**Flask-Dashed**](https://github.com/jeanphix/Flask-Dashed)",
+              "Provides simple but efficient admin UI. ",
+              "[:arrow_upper_right:](http://jeanphix.me/Flask-Dashed)"
+            ],
+            [
+              "101",
+              "[@RobinDavid](https://github.com/RobinDavid)/[**Pytesser**](https://github.com/RobinDavid/Pytesser)",
+              "Python wrapper for the tesseract OCR engine. The module is based on OpenCV",
+              ""
+            ],
+            [
+              "98",
+              "[@RobinDavid](https://github.com/RobinDavid)/[**LSB-Steganography**](https://github.com/RobinDavid/LSB-Steganography)",
+              "Python program to steganography files into images using the Least Significant Bit.",
+              ""
+            ],
+            [
+              "90",
+              "[@aaugustin](https://github.com/aaugustin)/[**datedelta**](https://github.com/aaugustin/datedelta)",
+              "Date arithmetic for Humans™",
+              ""
+            ],
+            [
+              "84",
+              "[@RobinDavid](https://github.com/RobinDavid)/[**Motion-detection-Ope…**](https://github.com/RobinDavid/Motion-detection-OpenCV)",
+              "Python/OpenCV script that detect motion on webcam and allow record it to a file",
+              ""
+            ],
+            [
+              "76",
+              "[@ogrisel](https://github.com/ogrisel)/[**spylearn**](https://github.com/ogrisel/spylearn)",
+              "Repo for experiments on pyspark and sklearn",
+              ""
+            ],
+            [
+              "67",
+              "[@haypo](https://github.com/haypo)/[**unicode_book**](https://github.com/haypo/unicode_book)",
+              "Programming with Unicode, book written by Victor Stinner",
+              ""
+            ],
+            [
+              "67",
+              "[@chmouel](https://github.com/chmouel)/[**ftp-cloudfs**](https://github.com/chmouel/ftp-cloudfs)",
+              "Ftp interface to Rackspace Cloud Files",
+              ""
+            ],
+            [
+              "66",
+              "[@haypo](https://github.com/haypo)/[**faulthandler**](https://github.com/haypo/faulthandler)",
+              "Fault handler for Python: display the Python backtrace on SIGSEGV, SIGFPE, SIGABRT, SIGBUS and SIGILL signals",
+              "[:arrow_upper_right:](https://faulthandler.readthedocs.io/)"
+            ],
+            [
+              "62",
+              "[@JonathanSalwan](https://github.com/JonathanSalwan)/[**abf**](https://github.com/JonathanSalwan/abf)",
+              "Abstract Binary Format Manipulation - ELF, PE and Mach-O format",
+              ""
+            ],
+            [
+              "62",
+              "[@aaugustin](https://github.com/aaugustin)/[**django-sesame**](https://github.com/aaugustin/django-sesame)",
+              "URLs with authentication tokens for automatic login",
+              "[:arrow_upper_right:](https://django-sesame.readthedocs.org/)"
+            ],
+            [
+              "59",
+              "[@almet](https://github.com/almet)/[**flask-rest**](https://github.com/almet/flask-rest)",
+              "A simple REST toolkit for Flask",
+              ""
+            ],
+            [
+              "58",
+              "[@tomchop](https://github.com/tomchop)/[**volatility-autoruns**](https://github.com/tomchop/volatility-autoruns)",
+              "Autoruns plugin for the Volatility framework",
+              ""
+            ],
+            [
+              "57",
+              "[@tomchop](https://github.com/tomchop)/[**unxor**](https://github.com/tomchop/unxor)",
+              "unXOR will search a XORed file and try to guess the key using known-plaintext attacks.",
+              "[:arrow_upper_right:](http://tomchop.me/2012/12/yo-dawg-i-heard-you-like-xoring/)"
+            ],
+            [
+              "54",
+              "[@tsileo](https://github.com/tsileo)/[**flask-yeoman**](https://github.com/tsileo/flask-yeoman)",
+              "A Flask blueprint to make create web application using Yeoman and Flask an easy task.",
+              "[:arrow_upper_right:](https://thomassileo.name/blog/2013/12/12/using-yeoman-with-flask/)"
+            ],
+            [
+              "50",
+              "[@thoas](https://github.com/thoas)/[**django-sequere**](https://github.com/thoas/django-sequere)",
+              "A Django application to implement a follow system and a timeline using multiple backends (db, redis, etc.)",
+              ""
+            ],
+            [
+              "48",
+              "[@Fantomas42](https://github.com/Fantomas42)/[**django-xmlrpc**](https://github.com/Fantomas42/django-xmlrpc)",
+              "XML-RPC Server App for the Django framework",
+              ""
+            ],
+            [
+              "48",
+              "[@tsileo](https://github.com/tsileo)/[**dirtools**](https://github.com/tsileo/dirtools)",
+              "Exclude/ignore files in a directory (using .gitignore like syntax), compute hash, search projects for an entire directory tree, gzip compression and track changes in a directory over time.",
+              ""
+            ],
+            [
+              "41",
+              "[@Fantomas42](https://github.com/Fantomas42)/[**django-app-namespace…**](https://github.com/Fantomas42/django-app-namespace-template-loader)",
+              "Template loader allowing you to both extend and override a template at the same time.",
+              ""
+            ],
+            [
+              "41",
+              "[@Fantomas42](https://github.com/Fantomas42)/[**django-livereload**](https://github.com/Fantomas42/django-livereload)",
+              "Livereload with the Django developement server",
+              ""
+            ],
+            [
+              "39",
+              "[@toxinu](https://github.com/toxinu)/[**sublimall-server**](https://github.com/toxinu/sublimall-server)",
+              "Server behind Sublimall SublimeText plugin",
+              ""
+            ],
+            [
+              "38",
+              "[@jvoisin](https://github.com/jvoisin)/[**MAT**](https://github.com/jvoisin/MAT)",
+              "Metadata Anonymisation Toolkit ",
+              "[:arrow_upper_right:](https://mat.boum.org)"
+            ],
+            [
+              "32",
+              "[@haypo](https://github.com/haypo)/[**perf**](https://github.com/haypo/perf)",
+              "Toolkit to run Python benchmarks",
+              "[:arrow_upper_right:](http://perf.readthedocs.io/en/latest/)"
+            ],
+            [
+              "30",
+              "[@thoas](https://github.com/thoas)/[**django-backward**](https://github.com/thoas/django-backward)",
+              "A Django application to store your previous history and action in your session engine",
+              ""
+            ],
+            [
+              "29",
+              "[@aaugustin](https://github.com/aaugustin)/[**django-pymssql**](https://github.com/aaugustin/django-pymssql)",
+              "Django database backend for Microsoft SQL Server that works on non-Windows systems",
+              ""
+            ],
+            [
+              "28",
+              "[@haypo](https://github.com/haypo)/[**faster_cpython**](https://github.com/haypo/faster_cpython)",
+              "Notes on making CPython faster",
+              ""
+            ],
+            [
+              "26",
+              "[@haypo](https://github.com/haypo)/[**fatoptimizer**](https://github.com/haypo/fatoptimizer)",
+              "Static optimizer specializing functions with guards for Python 3.6",
+              "[:arrow_upper_right:](https://fatoptimizer.readthedocs.org/en/latest/)"
+            ],
+            [
+              "26",
+              "[@wapiflapi](https://github.com/wapiflapi)/[**gxf**](https://github.com/wapiflapi/gxf)",
+              "Gdb Extension Framework is a bunch of python code around the gdb api.",
+              ""
+            ],
+            [
+              "25",
+              "[@jd](https://github.com/jd)/[**pifpaf**](https://github.com/jd/pifpaf)",
+              "Python fixtures and daemon managing tools for functional testing",
+              ""
+            ],
+            [
+              "25",
+              "[@tsileo](https://github.com/tsileo)/[**cube-client**](https://github.com/tsileo/cube-client)",
+              "A Python client for Cube: Time Series Data Collection & Analysis",
+              ""
+            ],
+            [
+              "24",
+              "[@Fantomas42](https://github.com/Fantomas42)/[**django-sekh**](https://github.com/Fantomas42/django-sekh)",
+              "Highlight the keywords of a page if a visitor is coming from a search engine.",
+              "[:arrow_upper_right:](http://fantomas.willbreak.it)"
+            ],
+            [
+              "24",
+              "[@ogrisel](https://github.com/ogrisel)/[**dbpediakit**](https://github.com/ogrisel/dbpediakit)",
+              "Python utilities to do work with the DBpedia dumps for analytics.",
+              ""
+            ],
+            [
+              "23",
+              "[@Fantomas42](https://github.com/Fantomas42)/[**django-emoticons**](https://github.com/Fantomas42/django-emoticons)",
+              "A usefull and incredible Django application that allow you to use emoticons in your templates :)",
+              ""
+            ],
+            [
+              "23",
+              "[@haypo](https://github.com/haypo)/[**sixer**](https://github.com/haypo/sixer)",
+              "Add Python 3 support to Python 2 applications using the six module.",
+              ""
+            ],
+            [
+              "22",
+              "[@thoas](https://github.com/thoas)/[**django-metadata**](https://github.com/thoas/django-metadata)",
+              "Attach metadata to any Django models using redis",
+              ""
+            ],
+            [
+              "21",
+              "[@ogrisel](https://github.com/ogrisel)/[**oglearn**](https://github.com/ogrisel/oglearn)",
+              "ogrisel's utility extensions for scikit-learn",
+              ""
+            ],
+            [
+              "21",
+              "[@tsileo](https://github.com/tsileo)/[**incremental-backups-…**](https://github.com/tsileo/incremental-backups-tools)",
+              "Storage agnostic incremental backups tools, building blocks for creating incremental backups utilities.",
+              ""
+            ],
+            [
+              "21",
+              "[@wapiflapi](https://github.com/wapiflapi)/[**wsym**](https://github.com/wapiflapi/wsym)",
+              "Adds symbols to a ELF file.",
+              ""
+            ],
+            [
+              "20",
+              "[@tshirtman](https://github.com/tshirtman)/[**ultimate-smash-frien…**](https://github.com/tshirtman/ultimate-smash-friends)",
+              "a smash-bros like game",
+              ""
+            ],
+            [
+              "20",
+              "[@aaugustin](https://github.com/aaugustin)/[**django-sequences**](https://github.com/aaugustin/django-sequences)",
+              "Generate gap-less sequences of integer values.",
+              ""
+            ],
+            [
+              "20",
+              "[@yohanboniface](https://github.com/yohanboniface)/[**sulci**](https://github.com/yohanboniface/sulci)",
+              "Sulci is a French textmining toolkit based on Libération corpus and thesaurus.",
+              "[:arrow_upper_right:](http://sulci.enix.org)"
+            ],
+            [
+              "19",
+              "[@tsileo](https://github.com/tsileo)/[**txwatcher**](https://github.com/tsileo/txwatcher)",
+              "A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API  and perform custom callbacks.",
+              ""
+            ],
+            [
+              "18",
+              "[@yohanboniface](https://github.com/yohanboniface)/[**Carto-sublime**](https://github.com/yohanboniface/Carto-sublime)",
+              "Carto syntax highlighter and autocompletion for Sublime Text editor",
+              ""
+            ],
+            [
+              "18",
+              "[@RobinDavid](https://github.com/RobinDavid)/[**Captacha-basic-recog…**](https://github.com/RobinDavid/Captacha-basic-recognition)",
+              "Python module that intent to crack basic captcha engines using OpenCV and Pytesser",
+              ""
+            ],
+            [
+              "17",
+              "[@thoas](https://github.com/thoas)/[**django-rq-mail**](https://github.com/thoas/django-rq-mail)",
+              "Store mails with waiting and active queues and send them asynchronously",
+              "[:arrow_upper_right:](https://django-rq-mail.readthedocs.org)"
+            ],
+            [
+              "17",
+              "[@RobinDavid](https://github.com/RobinDavid)/[**OpenCV-tutorials**](https://github.com/RobinDavid/OpenCV-tutorials)",
+              "Contain the hole source code of my OpenCV tutorial",
+              "[:arrow_upper_right:](http://www.robindavid.fr/opencv-tutorial)"
+            ],
+            [
+              "17",
+              "[@aaugustin](https://github.com/aaugustin)/[**django-transaction-s…**](https://github.com/aaugustin/django-transaction-signals)",
+              "Transaction signals for Django. Don't miss the README!",
+              ""
+            ],
+            [
+              "16",
+              "[@aaugustin](https://github.com/aaugustin)/[**myks-gallery**](https://github.com/aaugustin/myks-gallery)",
+              "Simple photo gallery for Django websites",
+              ""
+            ],
+            [
+              "15",
+              "[@tarekziade](https://github.com/tarekziade)/[**NginxTest**](https://github.com/tarekziade/NginxTest)",
+              "Some helpers to write functional tests against an Nginx server",
+              ""
+            ],
+            [
+              "15",
+              "[@toxinu](https://github.com/toxinu)/[**sushi**](https://github.com/toxinu/sushi)",
+              "Sushi is package builder based on template.",
+              ""
+            ],
+            [
+              "15",
+              "[@mseknibilel](https://github.com/mseknibilel)/[**OpenStack-Install-an…**](https://github.com/mseknibilel/OpenStack-Install-and-Understand-Guide)",
+              "",
+              ""
+            ],
+            [
+              "14",
+              "[@tsileo](https://github.com/tsileo)/[**pycgminer**](https://github.com/tsileo/pycgminer)",
+              "Python wrapper for cgminer RPC API.",
+              "[:arrow_upper_right:](http://thomassileo.com/blog/2013/09/17/playing-with-python-and-cgminer-rpc-api/)"
+            ],
+            [
+              "14",
+              "[@jeanphix](https://github.com/jeanphix)/[**flask-dashed-demo**](https://github.com/jeanphix/flask-dashed-demo)",
+              "",
+              ""
+            ],
+            [
+              "14",
+              "[@almet](https://github.com/almet)/[**django-auth-ldap**](https://github.com/almet/django-auth-ldap)",
+              "git clone of https://bitbucket.org/psagers/django-aut… with some patches for the latest django",
+              ""
+            ],
+            [
+              "13",
+              "[@jvoisin](https://github.com/jvoisin)/[**yara_rules**](https://github.com/jvoisin/yara_rules)",
+              "Some yara rules and tools",
+              ""
+            ],
+            [
+              "13",
+              "[@thoas](https://github.com/thoas)/[**django-separatedvalu…**](https://github.com/thoas/django-separatedvaluesfield)",
+              "Custom field for Django to separate multiple values in database with a separator and retrieve them as list",
+              ""
+            ],
+            [
+              "13",
+              "[@tsileo](https://github.com/tsileo)/[**eve-mocker**](https://github.com/tsileo/eve-mocker)",
+              "Mocking tool for Eve powered REST API.",
+              ""
+            ],
+            [
+              "13",
+              "[@thoas](https://github.com/thoas)/[**django-sluggable**](https://github.com/thoas/django-sluggable)",
+              "Manage your slugs and redirect old slugs to the new one",
+              "[:arrow_upper_right:](django-sluggable.rtfd.org)"
+            ],
+            [
+              "12",
+              "[@Fantomas42](https://github.com/Fantomas42)/[**django-feedgrabber**](https://github.com/Fantomas42/django-feedgrabber)",
+              "A RSS/Atom feeds grabber, for your Django websites.",
+              "[:arrow_upper_right:](http://fantomas.willbreak.it)"
+            ],
+            [
+              "11",
+              "[@ronnix](https://github.com/ronnix)/[**pymongres**](https://github.com/ronnix/pymongres)",
+              "Document-oriented API for PostgreSQL 9.3+",
+              ""
+            ],
+            [
+              "11",
+              "[@wapiflapi](https://github.com/wapiflapi)/[**binexpect**](https://github.com/wapiflapi/binexpect)",
+              "A python module that monkey patches pexpect mainly for binary transfers.",
+              ""
+            ],
+            [
+              "11",
+              "[@haypo](https://github.com/haypo)/[**bytecode**](https://github.com/haypo/bytecode)",
+              "Python module to modify bytecode",
+              ""
+            ],
+            [
+              "11",
+              "[@toxinu](https://github.com/toxinu)/[**ubik**](https://github.com/toxinu/ubik)",
+              "Ubik is an elegant package manager for Unix",
+              ""
+            ],
+            [
+              "11",
+              "[@chmouel](https://github.com/chmouel)/[**irssi-xmpp-notify**](https://github.com/chmouel/irssi-xmpp-notify)",
+              "XMPP Notification plugin for IRSSI",
+              ""
+            ],
+            [
+              "10",
+              "[@thoas](https://github.com/thoas)/[**python-leetchi**](https://github.com/thoas/python-leetchi)",
+              "A client library written in python to work with leetchi api",
+              "[:arrow_upper_right:](https://python-leetchi.readthedocs.org/)"
+            ],
+            [
+              "10",
+              "[@yohanboniface](https://github.com/yohanboniface)/[**falcon-multipart**](https://github.com/yohanboniface/falcon-multipart)",
+              "[Experimental] Parse multipart/form-data in falcon",
+              ""
+            ],
+            [
+              "10",
+              "[@ogrisel](https://github.com/ogrisel)/[**pycon-pydata-sprint**](https://github.com/ogrisel/pycon-pydata-sprint)",
+              "Experimental work for using IPython.parallel with scikit-learn",
+              ""
+            ],
+            [
+              "9",
+              "[@ogrisel](https://github.com/ogrisel)/[**codemaker**](https://github.com/ogrisel/codemaker)",
+              "Neural nets-based utility to build low dimensional codes or/and sparse codes",
+              ""
+            ],
+            [
+              "9",
+              "[@wapiflapi](https://github.com/wapiflapi)/[**hx**](https://github.com/wapiflapi/hx)",
+              "Alternative hexdump.",
+              ""
+            ],
+            [
+              "8",
+              "[@toxinu](https://github.com/toxinu)/[**minne**](https://github.com/toxinu/minne)",
+              "A personnal links shelf",
+              ""
+            ],
+            [
+              "8",
+              "[@RobinDavid](https://github.com/RobinDavid)/[**pystack**](https://github.com/RobinDavid/pystack)",
+              "Pystack, is a python framework that allow to create small TCP/IP stacks in an easy manner in order to obtain a wanted behavior.",
+              "[:arrow_upper_right:](http://www.robindavid.fr/pystack)"
+            ],
+            [
+              "8",
+              "[@thoas](https://github.com/thoas)/[**django-discussions**](https://github.com/thoas/django-discussions)",
+              "Messaging system for your users",
+              "[:arrow_upper_right:](http://django-discussions.rtfd.org/)"
+            ],
+            [
+              "8",
+              "[@tshirtman](https://github.com/tshirtman)/[**kivy_service_osc**](https://github.com/tshirtman/kivy_service_osc)",
+              "simple UI/Service communication using osc on python-for-android",
+              ""
+            ],
+            [
+              "8",
+              "[@n1k0](https://github.com/n1k0)/[**djortunes**](https://github.com/n1k0/djortunes)",
+              "Fortunes manager written in Django.",
+              "[:arrow_upper_right:](http://github.com/n1k0/djortunes)"
+            ],
+            [
+              "8",
+              "[@almet](https://github.com/almet)/[**gnome-background-gen…**](https://github.com/almet/gnome-background-generator)",
+              "Utilities to manage gnome wallpapers",
+              "[:arrow_upper_right:](http://pypi.python.org/pypi/gnome-background-generator)"
+            ],
+            [
+              "8",
+              "[@thoas](https://github.com/thoas)/[**django-online**](https://github.com/thoas/django-online)",
+              "Standalone application to know if a django user is online or not",
+              ""
+            ],
+            [
+              "8",
+              "[@jd](https://github.com/jd)/[**lwn2pocket**](https://github.com/jd/lwn2pocket)",
+              "Push LWN.net Weekly Edition to Pocket",
+              ""
+            ],
+            [
+              "8",
+              "[@thoas](https://github.com/thoas)/[**django-metasettings**](https://github.com/thoas/django-metasettings)",
+              "A reusable Django application to control the currency rate and favorite language code, inspired by etsy",
+              ""
+            ],
+            [
+              "7",
+              "[@almet](https://github.com/almet)/[**semantic-bookclub**](https://github.com/almet/semantic-bookclub)",
+              "Semantic Web MSc project - flask application using SuRF and rdflib to create a semantic book club",
+              ""
+            ],
+            [
+              "7",
+              "[@Fantomas42](https://github.com/Fantomas42)/[**sudoku-solver**](https://github.com/Fantomas42/sudoku-solver)",
+              "Library and scripts for solving Sudoku puzzles.",
+              "[:arrow_upper_right:](http://sudoku.willbreak.it/)"
+            ],
+            [
+              "7",
+              "[@Fantomas42](https://github.com/Fantomas42)/[**easy-extract**](https://github.com/Fantomas42/easy-extract)",
+              "Easy extraction of archives collections",
+              ""
+            ],
+            [
+              "7",
+              "[@almet](https://github.com/almet)/[**mozilla-sphinx-theme**](https://github.com/almet/mozilla-sphinx-theme)",
+              "A sandstone mozilla theme for sphinx",
+              ""
+            ],
+            [
+              "7",
+              "[@aaugustin](https://github.com/aaugustin)/[**dcus13rt**](https://github.com/aaugustin/dcus13rt)",
+              "Demo and code samples for DjangoCon US 2013",
+              ""
+            ],
+            [
+              "7",
+              "[@toxinu](https://github.com/toxinu)/[**carotte**](https://github.com/toxinu/carotte)",
+              "Carotte is a very lightweight Celery on zmq.",
+              ""
+            ],
+            [
+              "7",
+              "[@ronnix](https://github.com/ronnix)/[**oneid**](https://github.com/ronnix/oneid)",
+              "OneID — NameCoin-based identity",
+              "[:arrow_upper_right:](http://oneid.io)"
+            ],
+            [
+              "7",
+              "[@tarekziade](https://github.com/tarekziade)/[**signpic**](https://github.com/tarekziade/signpic)",
+              "script to sign pictures",
+              ""
+            ],
+            [
+              "6",
+              "[@RobinDavid](https://github.com/RobinDavid)/[**pyADS**](https://github.com/RobinDavid/pyADS)",
+              "Python module to manipulate NTFS Alternate Data Stream (ADS) in Python",
+              ""
+            ],
+            [
+              "6",
+              "[@ogrisel](https://github.com/ogrisel)/[**wheelhouse-uploader**](https://github.com/ogrisel/wheelhouse-uploader)",
+              "Script to help maintain a wheelhouse folder on a cloud storage.",
+              ""
+            ],
+            [
+              "6",
+              "[@almet](https://github.com/almet)/[**infuse**](https://github.com/almet/infuse)",
+              "A context aware web recommendation system",
+              "[:arrow_upper_right:](http://infuse.notmyidea.org)"
+            ],
+            [
+              "6",
+              "[@ronnix](https://github.com/ronnix)/[**fabtools.recipes.gra…**](https://github.com/ronnix/fabtools.recipes.graphite)",
+              "Fabric task to install graphite, using fabtools",
+              ""
+            ],
+            [
+              "6",
+              "[@tsileo](https://github.com/tsileo)/[**pyblinkm**](https://github.com/tsileo/pyblinkm)",
+              "Drive a BlinkM with Python via I2C using python-smbus on Raspberry Pi.",
+              ""
+            ],
+            [
+              "6",
+              "[@thoas](https://github.com/thoas)/[**django-events-watche…**](https://github.com/thoas/django-events-watcher)",
+              "A basic django application to log information with a data model",
+              ""
+            ],
+            [
+              "6",
+              "[@yohanboniface](https://github.com/yohanboniface)/[**pytest-falcon**](https://github.com/yohanboniface/pytest-falcon)",
+              "Pytest helpers for testing Falcon applications",
+              ""
+            ],
+            [
+              "6",
+              "[@Fantomas42](https://github.com/Fantomas42)/[**mots-vides**](https://github.com/Fantomas42/mots-vides)",
+              "Python library for managing stop words in many languages.",
+              ""
+            ],
+            [
+              "6",
+              "[@chmouel](https://github.com/chmouel)/[**cloudservers-api-dem…**](https://github.com/chmouel/cloudservers-api-demo)",
+              "RackSpace Cloud Server API demos",
+              "[:arrow_upper_right:](http://rackspacecloud.com/)"
+            ],
+            [
+              "6",
+              "[@Fantomas42](https://github.com/Fantomas42)/[**django-minipoll**](https://github.com/Fantomas42/django-minipoll)",
+              "A simple app for making polls easily on your django website.",
+              "[:arrow_upper_right:](http://fantomas.willbreak.it)"
+            ],
+            [
+              "6",
+              "[@yohanboniface](https://github.com/yohanboniface)/[**falcon-oauth**](https://github.com/yohanboniface/falcon-oauth)",
+              "Oauth wrapper around https://github.com/idan/oauthlib/ for Falcon.",
+              ""
+            ],
+            [
+              "6",
+              "[@Fantomas42](https://github.com/Fantomas42)/[**veliberator**](https://github.com/Fantomas42/veliberator)",
+              "Veliberator provides a Python API for getting informations about the stations of the Velib' network.",
+              "[:arrow_upper_right:](http://veliberator.com)"
+            ],
+            [
+              "6",
+              "[@ogrisel](https://github.com/ogrisel)/[**python-winbuilder**](https://github.com/ogrisel/python-winbuilder)",
+              "Tools to script a build environment on Windows for Python project",
+              ""
+            ],
+            [
+              "6",
+              "[@chmouel](https://github.com/chmouel)/[**python-garmin-upload**](https://github.com/chmouel/python-garmin-upload)",
+              "Upload your tcx file to Garmin connect from python",
+              ""
+            ],
+            [
+              "6",
+              "[@RobinDavid](https://github.com/RobinDavid)/[**pytts**](https://github.com/RobinDavid/pytts)",
+              "Text-To-Speech multi-platform in python. It uses Google translate as engine.",
+              ""
+            ],
+            [
+              "6",
+              "[@chmouel](https://github.com/chmouel)/[**python-swiftclient**](https://github.com/chmouel/python-swiftclient)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@tshirtman](https://github.com/tshirtman)/[**kpritz**](https://github.com/tshirtman/kpritz)",
+              "A spritz clone in kivy.",
+              ""
+            ],
+            [
+              "5",
+              "[@almet](https://github.com/almet)/[**feedgenerator**](https://github.com/almet/feedgenerator)",
+              "standalone version of django's feedgenerator module",
+              ""
+            ],
+            [
+              "5",
+              "[@jvoisin](https://github.com/jvoisin)/[**pyste**](https://github.com/jvoisin/pyste)",
+              "A simple pastebin powered by flask and pygments",
+              ""
+            ],
+            [
+              "5",
+              "[@thoas](https://github.com/thoas)/[**django-data-exporter**](https://github.com/thoas/django-data-exporter)",
+              "[ABANDONED] Export asynchronously your data from your models",
+              ""
+            ],
+            [
+              "5",
+              "[@yohanboniface](https://github.com/yohanboniface)/[**psycopg-postgis**](https://github.com/yohanboniface/psycopg-postgis)",
+              "PostGIS helpers for psycopg2",
+              ""
+            ],
+            [
+              "5",
+              "[@tshirtman](https://github.com/tshirtman)/[**taskdroid**](https://github.com/tshirtman/taskdroid)",
+              "android client for task",
+              ""
+            ],
+            [
+              "4",
+              "[@haypo](https://github.com/haypo)/[**macfly**](https://github.com/haypo/macfly)",
+              "Macfly is a tool allowing to run one or more programs with a shifted clock compared to system clock. The programs have the same shift and are synchronized at the same time. ",
+              ""
+            ],
+            [
+              "4",
+              "[@thoas](https://github.com/thoas)/[**django-fairepart**](https://github.com/thoas/django-fairepart)",
+              "A generic application to import your contact from facebook, google, etc.",
+              ""
+            ],
+            [
+              "4",
+              "[@almet](https://github.com/almet)/[**brasseries**](https://github.com/almet/brasseries)",
+              "Liste de brasseries françaises",
+              "[:arrow_upper_right:](http://umap.openstreetmap.fr/fr/map/brasseries-locales-francaises_13206)"
+            ],
+            [
+              "4",
+              "[@jeanphix](https://github.com/jeanphix)/[**mixup**](https://github.com/jeanphix/mixup)",
+              "Mixup is a set of sass mixins inspired by twitter bootstrap.",
+              "[:arrow_upper_right:](http://jeanphix.me/mixup/)"
+            ],
+            [
+              "4",
+              "[@thoas](https://github.com/thoas)/[**pybbm**](https://github.com/thoas/pybbm)",
+              "A fork of pybbm designed for high traffic websites",
+              ""
+            ],
+            [
+              "4",
+              "[@jeanphix](https://github.com/jeanphix)/[**mongodm**](https://github.com/jeanphix/mongodm)",
+              "just a mongodb Object Document Mapper, not a query layer",
+              ""
+            ],
+            [
+              "4",
+              "[@Fantomas42](https://github.com/Fantomas42)/[**nose-sfd**](https://github.com/Fantomas42/nose-sfd)",
+              "nose plugin for testing Django projects in a faster way.",
+              ""
+            ],
+            [
+              "4",
+              "[@Yomguithereal](https://github.com/Yomguithereal)/[**colifrapy**](https://github.com/Yomguithereal/colifrapy)",
+              "Command Line Framework for Python",
+              "[:arrow_upper_right:](http://colifrapy.readthedocs.org/)"
+            ],
+            [
+              "4",
+              "[@tarekziade](https://github.com/tarekziade)/[**pcard**](https://github.com/tarekziade/pcard)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@agramfort](https://github.com/agramfort)/[**cython_demo**](https://github.com/agramfort/cython_demo)",
+              "A demo of cython",
+              ""
+            ],
+            [
+              "3",
+              "[@Fantomas42](https://github.com/Fantomas42)/[**buildout-versions-ch…**](https://github.com/Fantomas42/buildout-versions-checker)",
+              "Parse a zc.buildout versions file, and check if any updates are present.",
+              ""
+            ],
+            [
+              "3",
+              "[@tarekziade](https://github.com/tarekziade)/[**onerpc**](https://github.com/tarekziade/onerpc)",
+              "RPC through ZeroMQ - using ZeroRPC but with one (or two) extra things",
+              ""
+            ],
+            [
+              "3",
+              "[@jeanphix](https://github.com/jeanphix)/[**WTAlchemy**](https://github.com/jeanphix/WTAlchemy)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@almet](https://github.com/almet)/[**experiments**](https://github.com/almet/experiments)",
+              "Various experiments (semantic web, python, c++, crypto, and some other things ;))",
+              ""
+            ],
+            [
+              "3",
+              "[@almet](https://github.com/almet)/[**dropit-common**](https://github.com/almet/dropit-common)",
+              "The dropit repo common wich contain documentation and couchdb related stuff",
+              "[:arrow_upper_right:](http://dropit.notmyidea.org)"
+            ],
+            [
+              "3",
+              "[@tomchop](https://github.com/tomchop)/[**metastamp**](https://github.com/tomchop/metastamp)",
+              "Extract metadata from files in directory",
+              ""
+            ],
+            [
+              "3",
+              "[@chmouel](https://github.com/chmouel)/[**swift-control-header…**](https://github.com/chmouel/swift-control-headers)",
+              "OpenStack Swift Header Controls middleware.",
+              ""
+            ],
+            [
+              "3",
+              "[@tsileo](https://github.com/tsileo)/[**globster**](https://github.com/tsileo/globster)",
+              "Tools for converting globs to regular expressions.",
+              ""
+            ],
+            [
+              "3",
+              "[@yohanboniface](https://github.com/yohanboniface)/[**leboncoin2geojson**](https://github.com/yohanboniface/leboncoin2geojson)",
+              "When you want your results from Le Bon Coin in a map. Not official at all. Do not abuse. Alpha.",
+              ""
+            ],
+            [
+              "3",
+              "[@RobinDavid](https://github.com/RobinDavid)/[**Python-programs**](https://github.com/RobinDavid/Python-programs)",
+              "Contains various python programs and proof of concept.",
+              ""
+            ],
+            [
+              "3",
+              "[@tshirtman](https://github.com/tshirtman)/[**snakenest**](https://github.com/tshirtman/snakenest)",
+              "a forum engine written using flask and mongodb",
+              ""
+            ],
+            [
+              "3",
+              "[@almet](https://github.com/almet)/[**afpy-blog**](https://github.com/almet/afpy-blog)",
+              "Le blog de l'Afpy !",
+              ""
+            ],
+            [
+              "3",
+              "[@n1k0](https://github.com/n1k0)/[**checkio-solutions**](https://github.com/n1k0/checkio-solutions)",
+              "My solutions for the check.io webgame",
+              "[:arrow_upper_right:](http://www.checkio.org/)"
+            ],
+            [
+              "2",
+              "[@RobinDavid](https://github.com/RobinDavid)/[**LyricsTagger**](https://github.com/RobinDavid/LyricsTagger)",
+              "Python program, that automaticaly tag lyrics in MP3 files.",
+              ""
+            ],
+            [
+              "2",
+              "[@ogrisel](https://github.com/ogrisel)/[**ipython-azure**](https://github.com/ogrisel/ipython-azure)",
+              "Utilities to deploy a IPython parallel cluster on Windows Azure",
+              ""
+            ],
+            [
+              "2",
+              "[@ogrisel](https://github.com/ogrisel)/[**lsh_glove**](https://github.com/ogrisel/lsh_glove)",
+              "Script to build various LSH / ANN indices on glove word embeddings",
+              ""
+            ],
+            [
+              "2",
+              "[@tsileo](https://github.com/tsileo)/[**yammpress**](https://github.com/tsileo/yammpress)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@ogrisel](https://github.com/ogrisel)/[**instrumentalist**](https://github.com/ogrisel/instrumentalist)",
+              "Python scripts to read XBee sensor data and push it to a couchdb database",
+              ""
+            ],
+            [
+              "2",
+              "[@toxinu](https://github.com/toxinu)/[**isit**](https://github.com/toxinu/isit)",
+              "Python environment discoverer",
+              ""
+            ],
+            [
+              "2",
+              "[@jeanphix](https://github.com/jeanphix)/[**dj-pq**](https://github.com/jeanphix/dj-pq)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@jeanphix](https://github.com/jeanphix)/[**ecs**](https://github.com/jeanphix/ecs)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@jeanphix](https://github.com/jeanphix)/[**Humans**](https://github.com/jeanphix/Humans)",
+              "Add humans to your SQLAlchemy based webapps.",
+              ""
+            ],
+            [
+              "2",
+              "[@almet](https://github.com/almet)/[**notifyosd-http**](https://github.com/almet/notifyosd-http)",
+              "A (really simple) HTTP interface for Notify OSD",
+              ""
+            ],
+            [
+              "2",
+              "[@chmouel](https://github.com/chmouel)/[**python-oauth-dailybu…**](https://github.com/chmouel/python-oauth-dailyburn)",
+              "Python library to dailyburn using oauth autentication",
+              ""
+            ],
+            [
+              "2",
+              "[@tarekziade](https://github.com/tarekziade)/[**wsgi-bench**](https://github.com/tarekziade/wsgi-bench)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@almet](https://github.com/almet)/[**coding-dojo**](https://github.com/almet/coding-dojo)",
+              "Dépot pour les coding dojos de la CNR (et autres)",
+              ""
+            ],
+            [
+              "2",
+              "[@almet](https://github.com/almet)/[**webappserver**](https://github.com/almet/webappserver)",
+              "Serve your webapp locally, with the right Content-Type headers.",
+              ""
+            ],
+            [
+              "2",
+              "[@tshirtman](https://github.com/tshirtman)/[**kivy-mesmerize-demo**](https://github.com/tshirtman/kivy-mesmerize-demo)",
+              "a demonstration of kivy opengl use with canvas instructions and propreties",
+              ""
+            ],
+            [
+              "2",
+              "[@almet](https://github.com/almet)/[**pypiclient**](https://github.com/almet/pypiclient)",
+              "A simple XML-RPC client for PyPI (The Python Package Index)",
+              "[:arrow_upper_right:](http://pypi.python.org)"
+            ],
+            [
+              "2",
+              "[@yohanboniface](https://github.com/yohanboniface)/[**carte-fluviale**](https://github.com/yohanboniface/carte-fluviale)",
+              "#TODO",
+              "[:arrow_upper_right:](http://fluv.io)"
+            ],
+            [
+              "2",
+              "[@n1k0](https://github.com/n1k0)/[**casperjs-docs**](https://github.com/n1k0/casperjs-docs)",
+              "Sphinx documentation for CasperJS",
+              "[:arrow_upper_right:](http://casperjs.readthedocs.org/)"
+            ],
+            [
+              "2",
+              "[@thoas](https://github.com/thoas)/[**django-gravatar**](https://github.com/thoas/django-gravatar)",
+              "Templatetag to get Gravatar URL's from email addresses",
+              ""
+            ],
+            [
+              "2",
+              "[@aaugustin](https://github.com/aaugustin)/[**django-tz-demo**](https://github.com/aaugustin/django-tz-demo)",
+              "Demo showcasing Django's time zone support features",
+              ""
+            ],
+            [
+              "2",
+              "[@toxinu](https://github.com/toxinu)/[**django-bagou**](https://github.com/toxinu/django-bagou)",
+              "Websocket for Django",
+              "[:arrow_upper_right:](http://django-bagou.readthedocs.org/en/latest/)"
+            ],
+            [
+              "2",
+              "[@Yomguithereal](https://github.com/Yomguithereal)/[**furuikeya**](https://github.com/Yomguithereal/furuikeya)",
+              "Procedural Haiku generation with Twitter API 1.1",
+              ""
+            ],
+            [
+              "2",
+              "[@aaugustin](https://github.com/aaugustin)/[**mtefd**](https://github.com/aaugustin/mtefd)",
+              "Multiple Template Engines for Django [ARCHIVED]",
+              "[:arrow_upper_right:](http://myks.org/en/multiple-template-engines-for-django/)"
+            ],
+            [
+              "2",
+              "[@aaugustin](https://github.com/aaugustin)/[**myks-contact**](https://github.com/aaugustin/myks-contact)",
+              "Simple contact form for Django websites",
+              ""
+            ],
+            [
+              "2",
+              "[@chmouel](https://github.com/chmouel)/[**nautilus-cloud-files…**](https://github.com/chmouel/nautilus-cloud-files-plugin)",
+              "Nautilus Plugin to upload to Rackspace Cloud Files",
+              "[:arrow_upper_right:](http://blog.chmouel.com/)"
+            ],
+            [
+              "2",
+              "[@Fantomas42](https://github.com/Fantomas42)/[**templer.django-proje…**](https://github.com/Fantomas42/templer.django-project-app)",
+              "Templer extension for creating Django applications within projects.",
+              ""
+            ],
+            [
+              "2",
+              "[@tshirtman](https://github.com/tshirtman)/[**remote_control**](https://github.com/tshirtman/remote_control)",
+              "a (mobile) client + server to remote control your pc using server-side configured commands.",
+              ""
             ]
           ]
         }
