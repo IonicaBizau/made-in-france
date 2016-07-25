@@ -49,7 +49,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[CSS](#css)"
+          "[CSS](#css)",
+          "[HTML](#html)"
         ]
       },
       {
@@ -4122,6 +4123,45 @@
               "[@KOWLOR](https://github.com/KOWLOR)/[**kowlumn**](https://github.com/KOWLOR/kowlumn)",
               "Multi nestable grid-system",
               "[:arrow_upper_right:](http://kowlor.github.io/kowlumn/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "HTML #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "30",
+              "[@sylvaindurand](https://github.com/sylvaindurand)/[**sylvaindurand.org**](https://github.com/sylvaindurand/sylvaindurand.org)",
+              "Personal website, mostly about programming.",
+              "[:arrow_upper_right:](https://www.sylvaindurand.org)"
+            ],
+            [
+              "15",
+              "[@dtschump](https://github.com/dtschump)/[**gmic-community**](https://github.com/dtschump/gmic-community)",
+              "Community contributions to the G'MIC software",
+              "[:arrow_upper_right:](http://gmic.eu)"
+            ],
+            [
+              "10",
+              "[@guedou](https://github.com/guedou)/[**bam**](https://github.com/guedou/bam)",
+              "The BGP Atlas Monitor",
+              ""
+            ],
+            [
+              "3",
+              "[@AGirlWhoCode](https://github.com/AGirlWhoCode)/[**LekaWebsite**](https://github.com/AGirlWhoCode/LekaWebsite)",
+              "Files to be added to leka.io-beta",
+              ""
             ]
           ]
         }
