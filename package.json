@@ -55,7 +55,8 @@
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
-          "[CoffeeScript](#coffeescript)"
+          "[CoffeeScript](#coffeescript)",
+          "[Go](#go)"
         ]
       },
       {
@@ -5879,6 +5880,201 @@
               "2",
               "[@wdavidw](https://github.com/wdavidw)/[**node-shell-http-fore…**](https://github.com/wdavidw/node-shell-http-forever)",
               "Shell plugin to start/stop an HTTP server using forever",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Go #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "163",
+              "[@nleof](https://github.com/nleof)/[**goyesql**](https://github.com/nleof/goyesql)",
+              "Go + Yesql",
+              ""
+            ],
+            [
+              "147",
+              "[@etix](https://github.com/etix)/[**mirrorbits**](https://github.com/etix/mirrorbits)",
+              "Mirrorbits is a geographical download redirector written in Go for distributing files efficiently across a set of mirrors.",
+              ""
+            ],
+            [
+              "92",
+              "[@vrischmann](https://github.com/vrischmann)/[**envconfig**](https://github.com/vrischmann/envconfig)",
+              "Small library to read your configuration from environment variables",
+              ""
+            ],
+            [
+              "72",
+              "[@remyoudompheng](https://github.com/remyoudompheng)/[**go-misc**](https://github.com/remyoudompheng/go-misc)",
+              "Miscellaneous Go toys",
+              ""
+            ],
+            [
+              "70",
+              "[@matm](https://github.com/matm)/[**gocov-html**](https://github.com/matm/gocov-html)",
+              "Produces HTML output from gocov, a coverage testing tool for the Go programming language",
+              ""
+            ],
+            [
+              "42",
+              "[@etix](https://github.com/etix)/[**stoppableListener**](https://github.com/etix/stoppableListener)",
+              "A Go helper package to gracefully stop a net/http server.",
+              ""
+            ],
+            [
+              "36",
+              "[@mqu](https://github.com/mqu)/[**openldap**](https://github.com/mqu/openldap)",
+              "Openldap (LDAP) binding for Golang (go)",
+              ""
+            ],
+            [
+              "22",
+              "[@remyoudompheng](https://github.com/remyoudompheng)/[**gigot**](https://github.com/remyoudompheng/gigot)",
+              "Gigot is a Go implementation of Git storage layer.",
+              ""
+            ],
+            [
+              "19",
+              "[@remyoudompheng](https://github.com/remyoudompheng)/[**go-vectops**](https://github.com/remyoudompheng/go-vectops)",
+              "Vgo is a compiler for vector expressions. It generates SSE2 code for amd64.",
+              ""
+            ],
+            [
+              "18",
+              "[@remyoudompheng](https://github.com/remyoudompheng)/[**bigfft**](https://github.com/remyoudompheng/bigfft)",
+              "Big integer multiplication library for Go using Fast Fourier transform",
+              ""
+            ],
+            [
+              "18",
+              "[@vrischmann](https://github.com/vrischmann)/[**go-metrics-influxdb**](https://github.com/vrischmann/go-metrics-influxdb)",
+              "This is a reporter for the go-metrics library which will post the metrics to InfluxDB",
+              ""
+            ],
+            [
+              "14",
+              "[@vrischmann](https://github.com/vrischmann)/[**rdbtools**](https://github.com/vrischmann/rdbtools)",
+              "A Redis RDB parser",
+              ""
+            ],
+            [
+              "11",
+              "[@mqu](https://github.com/mqu)/[**go-notify**](https://github.com/mqu/go-notify)",
+              "GO bindings for the C library libnotify",
+              ""
+            ],
+            [
+              "9",
+              "[@remyoudompheng](https://github.com/remyoudompheng)/[**go-netlink**](https://github.com/remyoudompheng/go-netlink)",
+              "A go library implementing parts of the Linux netlink protocol",
+              ""
+            ],
+            [
+              "7",
+              "[@vrischmann](https://github.com/vrischmann)/[**ghmirror**](https://github.com/vrischmann/ghmirror)",
+              "Webhook for your GitHub repositories which automatically keeps a local copy in sync",
+              ""
+            ],
+            [
+              "5",
+              "[@remyoudompheng](https://github.com/remyoudompheng)/[**go-liblzma**](https://github.com/remyoudompheng/go-liblzma)",
+              "Go bindings for XZ Utils/liblzma",
+              ""
+            ],
+            [
+              "5",
+              "[@vrischmann](https://github.com/vrischmann)/[**karl**](https://github.com/vrischmann/karl)",
+              "Kafka protocol and mock server library in Go",
+              ""
+            ],
+            [
+              "4",
+              "[@vrischmann](https://github.com/vrischmann)/[**logr**](https://github.com/vrischmann/logr)",
+              "logr is a small log rotating struct compatible with io.Writer, suitable for the default log package",
+              ""
+            ],
+            [
+              "4",
+              "[@remyoudompheng](https://github.com/remyoudompheng)/[**go-aurjson**](https://github.com/remyoudompheng/go-aurjson)",
+              "Small client for Archlinux's AUR-JSON interface",
+              ""
+            ],
+            [
+              "3",
+              "[@etix](https://github.com/etix)/[**estcequonmesurveille**](https://github.com/etix/estcequonmesurveille)",
+              "http://estcequonmesurveille.fr/",
+              ""
+            ],
+            [
+              "3",
+              "[@matm](https://github.com/matm)/[**scytale**](https://github.com/matm/scytale)",
+              "Wrapper Go library and tools for easy (ZIP) file encryption",
+              ""
+            ],
+            [
+              "2",
+              "[@vrischmann](https://github.com/vrischmann)/[**cassandredis**](https://github.com/vrischmann/cassandredis)",
+              "Redis to Cassandra bridge",
+              ""
+            ],
+            [
+              "2",
+              "[@vrischmann](https://github.com/vrischmann)/[**koff**](https://github.com/vrischmann/koff)",
+              "koff is a small tool to get information about Kafka offsets.",
+              ""
+            ],
+            [
+              "2",
+              "[@deniswernert](https://github.com/deniswernert)/[**go-fstab**](https://github.com/deniswernert/go-fstab)",
+              "Simple fstab parser for Go",
+              ""
+            ],
+            [
+              "2",
+              "[@vrischmann](https://github.com/vrischmann)/[**katcrawl**](https://github.com/vrischmann/katcrawl)",
+              "Search on https://kat.cr in the command line.",
+              ""
+            ],
+            [
+              "2",
+              "[@remyoudompheng](https://github.com/remyoudompheng)/[**remotepgp**](https://github.com/remyoudompheng/remotepgp)",
+              "A small Go service to PGP-sign remote files without download.",
+              ""
+            ],
+            [
+              "2",
+              "[@remyoudompheng](https://github.com/remyoudompheng)/[**gocash**](https://github.com/remyoudompheng/gocash)",
+              "gocash is a personal accounting interface similar to gnucash",
+              ""
+            ],
+            [
+              "2",
+              "[@deniswernert](https://github.com/deniswernert)/[**udev**](https://github.com/deniswernert/udev)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@vayan](https://github.com/vayan)/[**gomin**](https://github.com/vayan/gomin)",
+              "Minimize JS & CSS",
+              ""
+            ],
+            [
+              "2",
+              "[@remyoudompheng](https://github.com/remyoudompheng)/[**go-dns**](https://github.com/remyoudompheng/go-dns)",
+              "Go module for DNS queries",
               ""
             ]
           ]
