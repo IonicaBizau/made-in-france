@@ -54,7 +54,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
-          "[Clojure](#clojure)"
+          "[Clojure](#clojure)",
+          "[CoffeeScript](#coffeescript)"
         ]
       },
       {
@@ -5659,6 +5660,225 @@
               "2",
               "[@cgrand](https://github.com/cgrand)/[**trainings.geneva.201…**](https://github.com/cgrand/trainings.geneva.2012)",
               "Ressources issues des formations Clojure données du 13 au 15 mai 2012",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CoffeeScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "181",
+              "[@wdavidw](https://github.com/wdavidw)/[**node-csv-parse**](https://github.com/wdavidw/node-csv-parse)",
+              "CSV parsing implementing the Node.js `stream.Transform` API",
+              "[:arrow_upper_right:](http://csv.adaltas.com/parse)"
+            ],
+            [
+              "167",
+              "[@wdavidw](https://github.com/wdavidw)/[**node-shell**](https://github.com/wdavidw/node-shell)",
+              "Nice looking shell applications with pluggable middlewares for Node.js",
+              "[:arrow_upper_right:](http://www.adaltas.com/projects/node-shell)"
+            ],
+            [
+              "151",
+              "[@wdavidw](https://github.com/wdavidw)/[**node-hbase**](https://github.com/wdavidw/node-hbase)",
+              "Asynchronous HBase client for NodeJs using REST",
+              "[:arrow_upper_right:](http://www.adaltas.com)"
+            ],
+            [
+              "89",
+              "[@wdavidw](https://github.com/wdavidw)/[**node-http-status**](https://github.com/wdavidw/node-http-status)",
+              "Utility to interact with HTTP status code in Node.js",
+              "[:arrow_upper_right:](http://www.adaltas.com/projects/node-http-status/)"
+            ],
+            [
+              "60",
+              "[@wdavidw](https://github.com/wdavidw)/[**node-connect-coffee-…**](https://github.com/wdavidw/node-connect-coffee-script)",
+              "Connect middleware to serve CoffeeScript files",
+              "[:arrow_upper_right:](http://www.adaltas.com/blog/2012/07/24/coffee-script-connect-middleware/)"
+            ],
+            [
+              "56",
+              "[@moul](https://github.com/moul)/[**iocat**](https://github.com/moul/iocat)",
+              ":wrench: Socket.io & WebSocket netcat-like utility",
+              "[:arrow_upper_right:](https://npmjs.org/package/iocat)"
+            ],
+            [
+              "51",
+              "[@wdavidw](https://github.com/wdavidw)/[**node-ron**](https://github.com/wdavidw/node-ron)",
+              "Redis object relational mapper for NodeJs with a minimum of magic",
+              "[:arrow_upper_right:](http://www.adaltas.com/projects/node-ron/)"
+            ],
+            [
+              "42",
+              "[@wdavidw](https://github.com/wdavidw)/[**node-csv-stringify**](https://github.com/wdavidw/node-csv-stringify)",
+              "CSV stringifier implementing the Node.js `stream.Transform` API",
+              "[:arrow_upper_right:](http://csv.adaltas.com/stringify)"
+            ],
+            [
+              "23",
+              "[@wdavidw](https://github.com/wdavidw)/[**node-pad**](https://github.com/wdavidw/node-pad)",
+              "Left and right string padding for NodeJs",
+              "[:arrow_upper_right:](http://www.adaltas.com)"
+            ],
+            [
+              "21",
+              "[@wdavidw](https://github.com/wdavidw)/[**node-stream-transfor…**](https://github.com/wdavidw/node-stream-transform)",
+              "Object transformations implementing the Node.js `stream.Transform` API",
+              "[:arrow_upper_right:](http://csv.adaltas.com/transform)"
+            ],
+            [
+              "20",
+              "[@wdavidw](https://github.com/wdavidw)/[**node-csv-generate**](https://github.com/wdavidw/node-csv-generate)",
+              "CSV and object generation implementing the Node.js `stream.Readable` API",
+              "[:arrow_upper_right:](http://csv.adaltas.com/generate)"
+            ],
+            [
+              "17",
+              "[@wdavidw](https://github.com/wdavidw)/[**node-each**](https://github.com/wdavidw/node-each)",
+              "Chained and parallel async iterator in one elegant function",
+              "[:arrow_upper_right:](http://www.adaltas.com/projects/node-each)"
+            ],
+            [
+              "11",
+              "[@moul](https://github.com/moul)/[**xbmc-remote-keyboard**](https://github.com/moul/xbmc-remote-keyboard)",
+              ":video_camera: Send local keyboard presses to a remote XBMC/Kodi through JSON RPC api (javascript, coffee, ncurses)",
+              "[:arrow_upper_right:](https://npmjs.org/package/xbmc-remote-keyboard)"
+            ],
+            [
+              "8",
+              "[@moul](https://github.com/moul)/[**node-leboncoin**](https://github.com/moul/node-leboncoin)",
+              ":wrench: leboncoin.fr nodejs library",
+              "[:arrow_upper_right:](https://npmjs.org/package/leboncoin)"
+            ],
+            [
+              "7",
+              "[@jeanlaurent](https://github.com/jeanlaurent)/[**CucumberAndZombie**](https://github.com/jeanlaurent/CucumberAndZombie)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@moul](https://github.com/moul)/[**tapas-icecast-analyt…**](https://github.com/moul/tapas-icecast-analytics)",
+              "Icecast Web Analytics using Tapas (nodejs)",
+              ""
+            ],
+            [
+              "6",
+              "[@moul](https://github.com/moul)/[**node-slumber**](https://github.com/moul/node-slumber)",
+              ":wrench: Port of Python's slumber library -- (RESTful API library)",
+              "[:arrow_upper_right:](https://npmjs.org/package/slumber)"
+            ],
+            [
+              "5",
+              "[@moul](https://github.com/moul)/[**domaintool**](https://github.com/moul/domaintool)",
+              "Blazing fast domain names finder",
+              ""
+            ],
+            [
+              "4",
+              "[@moul](https://github.com/moul)/[**connect-tcp**](https://github.com/moul/connect-tcp)",
+              "TCP version of SenchaLabs's Connect middleware layer for Node.js",
+              ""
+            ],
+            [
+              "4",
+              "[@moul](https://github.com/moul)/[**term.js-cli**](https://github.com/moul/term.js-cli)",
+              ":wrench: A command line interface client for term.js / tty.js",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/term.js-cli)"
+            ],
+            [
+              "3",
+              "[@moul](https://github.com/moul)/[**magnetoscope.js**](https://github.com/moul/magnetoscope.js)",
+              "Browser event record & replay library",
+              ""
+            ],
+            [
+              "3",
+              "[@moul](https://github.com/moul)/[**github-art**](https://github.com/moul/github-art)",
+              ":art: Github statistics calendar timeline art",
+              ""
+            ],
+            [
+              "3",
+              "[@moul](https://github.com/moul)/[**sync.js**](https://github.com/moul/sync.js)",
+              "Synchronize actions on multiple devices using javascript (browser, node.js)",
+              "[:arrow_upper_right:](http://moul.github.com/sync.js/)"
+            ],
+            [
+              "3",
+              "[@moul](https://github.com/moul)/[**votejs**](https://github.com/moul/votejs)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@wdavidw](https://github.com/wdavidw)/[**node-ssh2-exec**](https://github.com/wdavidw/node-ssh2-exec)",
+              "Transparent use of `child_process.exec` and `ssh2.prototype.exec`",
+              ""
+            ],
+            [
+              "3",
+              "[@ouvanous](https://github.com/ouvanous)/[**n4store**](https://github.com/ouvanous/n4store)",
+              "Simple 4store http client for nodejs",
+              ""
+            ],
+            [
+              "2",
+              "[@moul](https://github.com/moul)/[**node-onlinenet**](https://github.com/moul/node-onlinenet)",
+              "Online.net API node.js client",
+              "[:arrow_upper_right:](https://npmjs.org/package/onlinenet)"
+            ],
+            [
+              "2",
+              "[@moul](https://github.com/moul)/[**node-epitech-intrane…**](https://github.com/moul/node-epitech-intranet)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@moul](https://github.com/moul)/[**node-freewifi**](https://github.com/moul/node-freewifi)",
+              "Connection to the FreeWifi network (by the french internet and mobile provider free.fr)",
+              "[:arrow_upper_right:](https://npmjs.org/package/freewifi)"
+            ],
+            [
+              "2",
+              "[@anykeyh](https://github.com/anykeyh)/[**cafeine**](https://github.com/anykeyh/cafeine)",
+              "Describe basics behaviours, and focus on business code.",
+              "[:arrow_upper_right:](http://anykeyh.github.com/cafeine)"
+            ],
+            [
+              "2",
+              "[@jbmusso](https://github.com/jbmusso)/[**mongoose-emailable**](https://github.com/jbmusso/mongoose-emailable)",
+              "Mongoose plugin for email with confirmation and express route",
+              ""
+            ],
+            [
+              "2",
+              "[@jbmusso](https://github.com/jbmusso)/[**mongoose-notifiable**](https://github.com/jbmusso/mongoose-notifiable)",
+              "Mongoose plugin making a model able to send custom notifications over different transports when custom events occur",
+              ""
+            ],
+            [
+              "2",
+              "[@jerome-quere](https://github.com/jerome-quere)/[**JStd**](https://github.com/jerome-quere/JStd)",
+              "A standard library for JavaScript.",
+              ""
+            ],
+            [
+              "2",
+              "[@wdavidw](https://github.com/wdavidw)/[**node-shell-http-fore…**](https://github.com/wdavidw/node-shell-http-forever)",
+              "Shell plugin to start/stop an HTTP server using forever",
               ""
             ]
           ]
