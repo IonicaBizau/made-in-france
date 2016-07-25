@@ -60,7 +60,8 @@
           "[Haskell](#haskell)",
           "[Lua](#lua)",
           "[Matlab](#matlab)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[Perl](#perl)"
         ]
       },
       {
@@ -7922,6 +7923,927 @@
               "[@ygini](https://github.com/ygini)/[**rrmail**](https://github.com/ygini/rrmail)",
               "E-mail rerouting system made by a for OS X System Administrator.",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Perl #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "72",
+              "[@book](https://github.com/book)/[**Act**](https://github.com/book/Act)",
+              "A Conference Toolkit (Git conversion of the Subversion repository)",
+              "[:arrow_upper_right:](http://act.mongueurs.net/)"
+            ],
+            [
+              "70",
+              "[@dolmen](https://github.com/dolmen)/[**github-keygen**](https://github.com/dolmen/github-keygen)",
+              "Easy creation of secure SSH configuration for your Github account(s)",
+              ""
+            ],
+            [
+              "68",
+              "[@book](https://github.com/book)/[**perlsecret**](https://github.com/book/perlsecret)",
+              "The perl secret operators",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/perlsecret/)"
+            ],
+            [
+              "66",
+              "[@sukria](https://github.com/sukria)/[**WebKeePass**](https://github.com/sukria/WebKeePass)",
+              "Web interface over a KeePass database",
+              ""
+            ],
+            [
+              "44",
+              "[@ldidry](https://github.com/ldidry)/[**lstu**](https://github.com/ldidry/lstu)",
+              "Lightweight URL shortener",
+              ""
+            ],
+            [
+              "40",
+              "[@dod38fr](https://github.com/dod38fr)/[**config-model**](https://github.com/dod38fr/config-model)",
+              "Perl module to create configuration editor wtih semantic validation",
+              ""
+            ],
+            [
+              "32",
+              "[@jquelin](https://github.com/jquelin)/[**dist-zilla-plugin-gi…**](https://github.com/jquelin/dist-zilla-plugin-git)",
+              "dist::zilla plugin to update your git repository after release",
+              "[:arrow_upper_right:](https://metacpan.org/release/Dist-Zilla-Plugin-Git)"
+            ],
+            [
+              "31",
+              "[@dolmen](https://github.com/dolmen)/[**angel-PS1**](https://github.com/dolmen/angel-PS1)",
+              "Your fancy shell prompt fed by your guardian angel",
+              ""
+            ],
+            [
+              "30",
+              "[@Ovid](https://github.com/Ovid)/[**example-test-trainin…**](https://github.com/Ovid/example-test-training-material)",
+              "Sample Code From Ovid's Introductory Testing Course",
+              "[:arrow_upper_right:](http://www.allaroundtheworld.fr/)"
+            ],
+            [
+              "26",
+              "[@Ovid](https://github.com/Ovid)/[**DB--Color**](https://github.com/Ovid/DB--Color)",
+              "Syntax highlighting the Perl debugger",
+              ""
+            ],
+            [
+              "23",
+              "[@book](https://github.com/book)/[**Git-Repository**](https://github.com/book/Git-Repository)",
+              "Perl interface to Git repositories",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Git-Repository/)"
+            ],
+            [
+              "22",
+              "[@Ovid](https://github.com/Ovid)/[**hop**](https://github.com/Ovid/hop)",
+              "Higher Order Perl modules on the CPAN",
+              ""
+            ],
+            [
+              "21",
+              "[@dams](https://github.com/dams)/[**curses-toolkit**](https://github.com/dams/curses-toolkit)",
+              "Curses::Toolkit perl module",
+              ""
+            ],
+            [
+              "21",
+              "[@Ovid](https://github.com/Ovid)/[**Role-Basic**](https://github.com/Ovid/Role-Basic)",
+              "Roles in Perl. Nothing else.",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Role-Basic/)"
+            ],
+            [
+              "19",
+              "[@ludomp](https://github.com/ludomp)/[**opendj-utils**](https://github.com/ludomp/opendj-utils)",
+              "Set of utilities for OpenDJ LDAP directory services",
+              ""
+            ],
+            [
+              "16",
+              "[@book](https://github.com/book)/[**HTTP-Proxy**](https://github.com/book/HTTP-Proxy)",
+              "A pure Perl HTTP proxy ",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/HTTP-Proxy/)"
+            ],
+            [
+              "15",
+              "[@book](https://github.com/book)/[**git-gadgets**](https://github.com/book/git-gadgets)",
+              "Small gadgets for use with git (and that do not fit in an alias)",
+              ""
+            ],
+            [
+              "13",
+              "[@jquelin](https://github.com/jquelin)/[**games-pandemic**](https://github.com/jquelin/games-pandemic)",
+              "a cooperative pandemic board game written in perl",
+              "[:arrow_upper_right:](https://metacpan.org/release/Games-Pandemic)"
+            ],
+            [
+              "13",
+              "[@sukria](https://github.com/sukria)/[**Broadway**](https://github.com/sukria/Broadway)",
+              "a strange and insane project where dancers go live",
+              ""
+            ],
+            [
+              "13",
+              "[@eiro](https://github.com/eiro)/[**p5-perlude**](https://github.com/eiro/p5-perlude)",
+              "Shell and Powershell  pipes, haskell keywords mixed with the awesomeness of perl. forget shell scrpting now!",
+              ""
+            ],
+            [
+              "13",
+              "[@t00sh](https://github.com/t00sh)/[**ctf**](https://github.com/t00sh/ctf)",
+              "Exploits used on hacking CTF's",
+              ""
+            ],
+            [
+              "13",
+              "[@Ovid](https://github.com/Ovid)/[**Corinna**](https://github.com/Ovid/Corinna)",
+              "Generate Perl classes from XML schemas",
+              ""
+            ],
+            [
+              "12",
+              "[@jquelin](https://github.com/jquelin)/[**games-risk**](https://github.com/jquelin/games-risk)",
+              "classical 'risk' board game in perl",
+              "[:arrow_upper_right:](https://metacpan.org/release/Games-Risk)"
+            ],
+            [
+              "12",
+              "[@fperrad](https://github.com/fperrad)/[**ljlinenoise**](https://github.com/fperrad/ljlinenoise)",
+              "Line editing in pure LuaJIT",
+              "[:arrow_upper_right:](http://fperrad.github.io/ljlinenoise)"
+            ],
+            [
+              "11",
+              "[@jquelin](https://github.com/jquelin)/[**dist-zilla-plugin-te…**](https://github.com/jquelin/dist-zilla-plugin-test-compile)",
+              "common tests to check syntax of your modules",
+              "[:arrow_upper_right:](https://metacpan.org/release/Dist-Zilla-Plugin-Test-Compile)"
+            ],
+            [
+              "10",
+              "[@shtouff](https://github.com/shtouff)/[**logtail**](https://github.com/shtouff/logtail)",
+              "read log files and push them to redis using logstash/JSON format",
+              ""
+            ],
+            [
+              "10",
+              "[@fperrad](https://github.com/fperrad)/[**markdown**](https://github.com/fperrad/markdown)",
+              "Markdown on Parrot",
+              "[:arrow_upper_right:](http://trac.parrot.org/parrot/wiki/Languages)"
+            ],
+            [
+              "10",
+              "[@book](https://github.com/book)/[**Test-Database**](https://github.com/book/Test-Database)",
+              "Perl extension to provide database handles in a test environment",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Test-Database/)"
+            ],
+            [
+              "9",
+              "[@Ovid](https://github.com/Ovid)/[**dbix-class-easyfixtu…**](https://github.com/Ovid/dbix-class-easyfixture)",
+              "Easily create DBIx::Class fixtures.",
+              ""
+            ],
+            [
+              "9",
+              "[@Ovid](https://github.com/Ovid)/[**AI-Logic**](https://github.com/Ovid/AI-Logic)",
+              "Continuation-based logic programming",
+              ""
+            ],
+            [
+              "9",
+              "[@book](https://github.com/book)/[**Git-FastExport**](https://github.com/book/Git-FastExport)",
+              "A module to parse the output of git-fast-export",
+              ""
+            ],
+            [
+              "8",
+              "[@Ovid](https://github.com/Ovid)/[**App-Prove-Plugin-Pro…**](https://github.com/Ovid/App-Prove-Plugin-ProgressBar)",
+              "A progress bar for 'prove'",
+              "[:arrow_upper_right:](http://blogs.perl.org/users/ovid/2010/05/making-testharness-output-a-progress-bar.html)"
+            ],
+            [
+              "8",
+              "[@sukria](https://github.com/sukria)/[**Dancer-Plugin-Mobile…**](https://github.com/sukria/Dancer-Plugin-MobileDevice)",
+              "plugin for building mobile-aware app with Dancer",
+              ""
+            ],
+            [
+              "8",
+              "[@Ovid](https://github.com/Ovid)/[**app--prove--history**](https://github.com/Ovid/app--prove--history)",
+              "Save Test Suite Results To A Database",
+              ""
+            ],
+            [
+              "8",
+              "[@dams](https://github.com/dams)/[**riak-client**](https://github.com/dams/riak-client)",
+              "Perl Riak Client",
+              ""
+            ],
+            [
+              "8",
+              "[@book](https://github.com/book)/[**BackPAN-Index**](https://github.com/book/BackPAN-Index)",
+              "Provide an index of BACKPAN",
+              "[:arrow_upper_right:](https://metacpan.org/release/BackPAN-Index)"
+            ],
+            [
+              "8",
+              "[@Ovid](https://github.com/Ovid)/[**test-aggregate**](https://github.com/Ovid/test-aggregate)",
+              "Aggregate Tests In a Single Process (vastly improved performance)",
+              ""
+            ],
+            [
+              "8",
+              "[@sukria](https://github.com/sukria)/[**Dancer-Plugin-REST**](https://github.com/sukria/Dancer-Plugin-REST)",
+              "Dancer plugin to make easy RESTful webservice with Dancer",
+              ""
+            ],
+            [
+              "8",
+              "[@fperrad](https://github.com/fperrad)/[**ArduinoTap**](https://github.com/fperrad/ArduinoTap)",
+              "an Unit Testing library",
+              ""
+            ],
+            [
+              "8",
+              "[@celogeek](https://github.com/celogeek)/[**MooX-Options**](https://github.com/celogeek/MooX-Options)",
+              "Add option and new_with_options to Moo object",
+              ""
+            ],
+            [
+              "7",
+              "[@Ovid](https://github.com/Ovid)/[**aliased**](https://github.com/Ovid/aliased)",
+              "Alias class names to shorter names",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/aliased/)"
+            ],
+            [
+              "7",
+              "[@t00sh](https://github.com/t00sh)/[**sc-make**](https://github.com/t00sh/sc-make)",
+              "Tool for automating shellcode creation.",
+              ""
+            ],
+            [
+              "7",
+              "[@Ovid](https://github.com/Ovid)/[**test--most**](https://github.com/Ovid/test--most)",
+              "Test::Most -- The most commonly needed testing functionality in Perl",
+              ""
+            ],
+            [
+              "7",
+              "[@Ovid](https://github.com/Ovid)/[**code-cutnpaste**](https://github.com/Ovid/code-cutnpaste)",
+              "Find cut-n-pasted Perl code",
+              ""
+            ],
+            [
+              "7",
+              "[@book](https://github.com/book)/[**System-Command**](https://github.com/book/System-Command)",
+              "Object for running system commands",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/System-Command)"
+            ],
+            [
+              "6",
+              "[@Ovid](https://github.com/Ovid)/[**dbix-class-report**](https://github.com/Ovid/dbix-class-report)",
+              "Create arbitrary DBIx::Class resultsets on the fly",
+              ""
+            ],
+            [
+              "6",
+              "[@dams](https://github.com/dams)/[**bot-basicbot-pluggab…**](https://github.com/dams/bot-basicbot-pluggable-module-rt)",
+              "RT IRC bot",
+              "[:arrow_upper_right:](http://search.cpan.org/perldoc?Bot::BasicBot::Pluggable::Module::RT)"
+            ],
+            [
+              "6",
+              "[@jquelin](https://github.com/jquelin)/[**audio-mpd**](https://github.com/jquelin/audio-mpd)",
+              "perl module to talk to MPD (Music Player Daemon) servers",
+              "[:arrow_upper_right:](https://metacpan.org/release/Audio-MPD)"
+            ],
+            [
+              "6",
+              "[@dolmen](https://github.com/dolmen)/[**p5-Dist-Zilla-Plugin…**](https://github.com/dolmen/p5-Dist-Zilla-Plugin-ReportVersions-Tiny)",
+              "A Dist::Zilla plugin that reports CPAN module dependency versions during testing",
+              "[:arrow_upper_right:](https://metacpan.org/module/Dist::Zilla::Plugin::ReportVersions::Tiny)"
+            ],
+            [
+              "6",
+              "[@Ovid](https://github.com/Ovid)/[**MooseX--Role--Strict**](https://github.com/Ovid/MooseX--Role--Strict)",
+              "use strict 'roles'",
+              ""
+            ],
+            [
+              "6",
+              "[@dams](https://github.com/dams)/[**Dancer-Plugin-FlashM…**](https://github.com/dams/Dancer-Plugin-FlashMessage)",
+              "Plugin for Dancer to display flash messages",
+              ""
+            ],
+            [
+              "6",
+              "[@sukria](https://github.com/sukria)/[**Test-TinyMocker**](https://github.com/sukria/Test-TinyMocker)",
+              "Minimal yet very useful mocker for Perl",
+              ""
+            ],
+            [
+              "5",
+              "[@book](https://github.com/book)/[**CPANio**](https://github.com/book/CPANio)",
+              "CPAN.io",
+              "[:arrow_upper_right:](http://cpan.io/)"
+            ],
+            [
+              "5",
+              "[@jquelin](https://github.com/jquelin)/[**dist-zilla-plugin-te…**](https://github.com/jquelin/dist-zilla-plugin-test-perl-critic)",
+              "tests to check your code against best practices",
+              "[:arrow_upper_right:](https://metacpan.org/release/Dist-Zilla-Plugin-CriticTests)"
+            ],
+            [
+              "5",
+              "[@sukria](https://github.com/sukria)/[**Nagios-Plugin-LVS**](https://github.com/sukria/Nagios-Plugin-LVS)",
+              "Nagios plugin for monitoring LVS connections, based on Nagios::Plugin",
+              ""
+            ],
+            [
+              "5",
+              "[@sukria](https://github.com/sukria)/[**Dancer-Session-Cooki…**](https://github.com/sukria/Dancer-Session-Cookie)",
+              "Dancer session engine based on encrypted cookies",
+              ""
+            ],
+            [
+              "5",
+              "[@shtouff](https://github.com/shtouff)/[**nagios-plugins**](https://github.com/shtouff/nagios-plugins)",
+              "My Nagios Plugins",
+              ""
+            ],
+            [
+              "5",
+              "[@Ovid](https://github.com/Ovid)/[**class--sniff**](https://github.com/Ovid/class--sniff)",
+              "Looks for \"Code Smells\" in Perl object hierarchies.",
+              ""
+            ],
+            [
+              "5",
+              "[@Ovid](https://github.com/Ovid)/[**Config-INI**](https://github.com/Ovid/Config-INI)",
+              "A INI reader/writer in Perl 6",
+              ""
+            ],
+            [
+              "5",
+              "[@dams](https://github.com/dams)/[**io-socket-timeout**](https://github.com/dams/io-socket-timeout)",
+              "Add read / write timeout to perl IO::Socket ",
+              ""
+            ],
+            [
+              "5",
+              "[@Ovid](https://github.com/Ovid)/[**openshift-perl**](https://github.com/Ovid/openshift-perl)",
+              "An example of using Perl on OpenShift (Red Hat's PaaS cloud service)",
+              ""
+            ],
+            [
+              "5",
+              "[@Ovid](https://github.com/Ovid)/[**unknown**](https://github.com/Ovid/unknown)",
+              "Add the \"unknown\" keyword to Perl 5 (three value logic)",
+              ""
+            ],
+            [
+              "5",
+              "[@book](https://github.com/book)/[**App-Wallflower**](https://github.com/book/App-Wallflower)",
+              "Sorry I can't dance, I'm holding on to my friend's purse",
+              "[:arrow_upper_right:](http://metacpan.org/release/App-Wallflower)"
+            ],
+            [
+              "4",
+              "[@book](https://github.com/book)/[**SVN-Dump**](https://github.com/book/SVN-Dump)",
+              "A Perl interface to Subversion dumps",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/SVN-Dump/)"
+            ],
+            [
+              "4",
+              "[@eiro](https://github.com/eiro)/[**p5-marc-mir**](https://github.com/eiro/p5-marc-mir)",
+              "Perl lib for MARC Intermediate Representation ",
+              ""
+            ],
+            [
+              "4",
+              "[@fperrad](https://github.com/fperrad)/[**graph-versions**](https://github.com/fperrad/graph-versions)",
+              "",
+              "[:arrow_upper_right:](http://fperrad.github.com/graph-versions)"
+            ],
+            [
+              "4",
+              "[@jquelin](https://github.com/jquelin)/[**poe-component-client…**](https://github.com/jquelin/poe-component-client-mpd)",
+              "a full-blown poe-aware mpd client library",
+              "[:arrow_upper_right:](https://metacpan.org/release/POE-Component-Client-MPD)"
+            ],
+            [
+              "4",
+              "[@book](https://github.com/book)/[**mail2tweet**](https://github.com/book/mail2tweet)",
+              "Tweet the subject and first URL of an email",
+              ""
+            ],
+            [
+              "4",
+              "[@ldidry](https://github.com/ldidry)/[**munin-plugins**](https://github.com/ldidry/munin-plugins)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@Ovid](https://github.com/Ovid)/[**Test-Kit**](https://github.com/Ovid/Test-Kit)",
+              "Test::Kit - Build your own testing modules",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Test-Kit/)"
+            ],
+            [
+              "4",
+              "[@sukria](https://github.com/sukria)/[**Dancer-Session-Memca…**](https://github.com/sukria/Dancer-Session-Memcached)",
+              "Dancer session engine for Cache::Memcached",
+              ""
+            ],
+            [
+              "4",
+              "[@sukria](https://github.com/sukria)/[**Coat**](https://github.com/sukria/Coat)",
+              "Lightweight meta-class for Perl 5 based on Moose ",
+              ""
+            ],
+            [
+              "4",
+              "[@celogeek](https://github.com/celogeek)/[**MoviesOrganizer**](https://github.com/celogeek/MoviesOrganizer)",
+              "Organize your movie file specially for Boxee",
+              ""
+            ],
+            [
+              "4",
+              "[@dod38fr](https://github.com/dod38fr)/[**cme-perl**](https://github.com/dod38fr/cme-perl)",
+              "Check or fix configuration data with Config::Model",
+              ""
+            ],
+            [
+              "4",
+              "[@dams](https://github.com/dams)/[**Bloomd-Client**](https://github.com/dams/Bloomd-Client)",
+              "Perl client to the bloomd project ( armon/bloomd )",
+              ""
+            ],
+            [
+              "3",
+              "[@sukria](https://github.com/sukria)/[**Coat-Persistent**](https://github.com/sukria/Coat-Persistent)",
+              "Lightweight and portable database interface (ORM) for Perl based on Ruby's ActiveRecord API",
+              ""
+            ],
+            [
+              "3",
+              "[@Ovid](https://github.com/Ovid)/[**Escape-**](https://github.com/Ovid/Escape-)",
+              "Escape (tentative name): Resources for would-be expats.",
+              ""
+            ],
+            [
+              "3",
+              "[@CCrashBandicot](https://github.com/CCrashBandicot)/[**Revslider**](https://github.com/CCrashBandicot/Revslider)",
+              "EDB-ID: 35385  Auto Exploiter Revslider Upload Vulnerability",
+              ""
+            ],
+            [
+              "3",
+              "[@jquelin](https://github.com/jquelin)/[**dist-zilla-pluginbun…**](https://github.com/jquelin/dist-zilla-pluginbundle-author-jquelin)",
+              "build & release a distribution like jquelin",
+              "[:arrow_upper_right:](http://metacpan.org/dist/Dist-Zilla-PluginBundle-Author-JQUELIN)"
+            ],
+            [
+              "3",
+              "[@jquelin](https://github.com/jquelin)/[**dist-zilla-plugin-pr…**](https://github.com/jquelin/dist-zilla-plugin-prepender)",
+              "prepend lines at the top of your perl files",
+              "[:arrow_upper_right:](https://metacpan.org/release/Dist-Zilla-Plugin-Prepender)"
+            ],
+            [
+              "3",
+              "[@ramnes](https://github.com/ramnes)/[**hilightcmd**](https://github.com/ramnes/hilightcmd)",
+              "Irssi script that calls a system command when you're hilighted",
+              ""
+            ],
+            [
+              "3",
+              "[@jquelin](https://github.com/jquelin)/[**cpanplus-dist-mageia**](https://github.com/jquelin/cpanplus-dist-mageia)",
+              "a cpanplus backend to build mageia rpms",
+              "[:arrow_upper_right:](https://metacpan.org/release/CPANPLUS-Dist-Mageia)"
+            ],
+            [
+              "3",
+              "[@dod38fr](https://github.com/dod38fr)/[**sdlx-extensions**](https://github.com/dod38fr/sdlx-extensions)",
+              "Some SDL extensions like surface transitions.",
+              ""
+            ],
+            [
+              "3",
+              "[@book](https://github.com/book)/[**WWW-Mailman**](https://github.com/book/WWW-Mailman)",
+              "Interact with Mailman's web interface from a Perl program",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/WWW-Mailman/)"
+            ],
+            [
+              "3",
+              "[@book](https://github.com/book)/[**Bot-BasicBot-Pluggab…**](https://github.com/book/Bot-BasicBot-Pluggable-Module-CoreList)",
+              "IRC frontend to Module::CoreList",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Bot-BasicBot-Pluggable-Module-CoreList)"
+            ],
+            [
+              "3",
+              "[@book](https://github.com/book)/[**Acme-MetaSyntactic-T…**](https://github.com/book/Acme-MetaSyntactic-Themes)",
+              "The original Acme::MetaSyntactic themes",
+              ""
+            ],
+            [
+              "3",
+              "[@fperrad](https://github.com/fperrad)/[**chart-plot-canvas**](https://github.com/fperrad/chart-plot-canvas)",
+              "Plot two dimensional data in an Tk Canvas",
+              "[:arrow_upper_right:](http://search.cpan.org/~perrad/Chart-Plot-Canvas/)"
+            ],
+            [
+              "3",
+              "[@book](https://github.com/book)/[**Acme-CPANAuthors-Boo…**](https://github.com/book/Acme-CPANAuthors-Booking)",
+              "Booking.com CPAN authors",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Acme-CPANAuthors-Booking/)"
+            ],
+            [
+              "3",
+              "[@maddingue](https://github.com/maddingue)/[**Book-BestOfCPAN**](https://github.com/maddingue/Book-BestOfCPAN)",
+              "The best modules of the CPAN",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Book-BestOfCPAN/)"
+            ],
+            [
+              "3",
+              "[@book](https://github.com/book)/[**Papery**](https://github.com/book/Papery)",
+              "The thin layer between what you write and what you publish",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Papery/)"
+            ],
+            [
+              "3",
+              "[@celogeek](https://github.com/celogeek)/[**dist-zilla-pluginbun…**](https://github.com/celogeek/dist-zilla-pluginbundle-author-celogeek)",
+              "My dzil bundle",
+              ""
+            ],
+            [
+              "3",
+              "[@ldidry](https://github.com/ldidry)/[**padconsole**](https://github.com/ldidry/padconsole)",
+              "Manage your etherpad from the console",
+              ""
+            ],
+            [
+              "3",
+              "[@Ovid](https://github.com/Ovid)/[**dbix-class-objects**](https://github.com/Ovid/dbix-class-objects)",
+              "Use proper objects as proxies for DBIx::Class results",
+              ""
+            ],
+            [
+              "3",
+              "[@fperrad](https://github.com/fperrad)/[**cvs-metrics**](https://github.com/fperrad/cvs-metrics)",
+              "Utilities for process cvs log",
+              "[:arrow_upper_right:](http://search.cpan.org/~perrad/CVS-Metrics/)"
+            ],
+            [
+              "3",
+              "[@sukria](https://github.com/sukria)/[**Dancer-Template-Micr…**](https://github.com/sukria/Dancer-Template-MicroTemplate)",
+              "Dancer template engine for Text::MicroTemplate",
+              ""
+            ],
+            [
+              "3",
+              "[@dolmen](https://github.com/dolmen)/[**json-mojibake-fixer**](https://github.com/dolmen/json-mojibake-fixer)",
+              "A filter that fixes double encoded characters in JSON",
+              ""
+            ],
+            [
+              "3",
+              "[@jquelin](https://github.com/jquelin)/[**tk-sugar**](https://github.com/jquelin/tk-sugar)",
+              "Sugar syntax for Tk",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Tk-Sugar)"
+            ],
+            [
+              "3",
+              "[@dams](https://github.com/dams)/[**Dancer-Plugin-Params…**](https://github.com/dams/Dancer-Plugin-Params-Normalization)",
+              "Dancer Plugin to easily normalize query parameters",
+              ""
+            ],
+            [
+              "3",
+              "[@dams](https://github.com/dams)/[**moox-lvalueattribute**](https://github.com/dams/moox-lvalueattribute)",
+              "Lvalue attributes support for Moo, the light Perl object system",
+              ""
+            ],
+            [
+              "3",
+              "[@Ovid](https://github.com/Ovid)/[**Test-Class-Most**](https://github.com/Ovid/Test-Class-Most)",
+              "Making test classes even easier to use in Perl",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Test-Class-Most/)"
+            ],
+            [
+              "3",
+              "[@maddingue](https://github.com/maddingue)/[**FastLoad**](https://github.com/maddingue/FastLoad)",
+              "experiment for faster loading of Perl modules",
+              ""
+            ],
+            [
+              "3",
+              "[@fperrad](https://github.com/fperrad)/[**wap-saxdriver-wbxml**](https://github.com/fperrad/wap-saxdriver-wbxml)",
+              "SAX parser for WBXML file ",
+              "[:arrow_upper_right:](http://search.cpan.org/~perrad/WAP-SAXDriver-wbxml/)"
+            ],
+            [
+              "3",
+              "[@fperrad](https://github.com/fperrad)/[**wap-wbxml**](https://github.com/fperrad/wap-wbxml)",
+              "Binarization of XML file",
+              "[:arrow_upper_right:](http://search.cpan.org/~perrad/WAP-wbxml/)"
+            ],
+            [
+              "3",
+              "[@dod38fr](https://github.com/dod38fr)/[**config-model-debconf…**](https://github.com/dod38fr/config-model-debconf-ui)",
+              "Experimental interface between debconf and Config::Molde",
+              ""
+            ],
+            [
+              "3",
+              "[@sukria](https://github.com/sukria)/[**Boxee-Remote**](https://github.com/sukria/Boxee-Remote)",
+              "Webapp that provides remote controll over a Boxee media center",
+              ""
+            ],
+            [
+              "3",
+              "[@dolmen](https://github.com/dolmen)/[**p5-Ostinelli-HTTP-be…**](https://github.com/dolmen/p5-Ostinelli-HTTP-benchmark)",
+              "Environment easy benchmarking of Perl HTTP servers with Ostinelli's HTTP benchmark",
+              "[:arrow_upper_right:](http://www.ostinelli.net/a-comparison-between-misultin-mochiweb-cowboy-nodejs-and-tornadoweb/)"
+            ],
+            [
+              "2",
+              "[@dod38fr](https://github.com/dod38fr)/[**config-model-openssh**](https://github.com/dod38fr/config-model-openssh)",
+              "Edit and validate OpenSSH configuration (system and user)",
+              ""
+            ],
+            [
+              "2",
+              "[@celogeek](https://github.com/celogeek)/[**perl-jedi**](https://github.com/celogeek/perl-jedi)",
+              "Jedi Web Framework",
+              ""
+            ],
+            [
+              "2",
+              "[@maddingue](https://github.com/maddingue)/[**SNMP-Extension-PassP…**](https://github.com/maddingue/SNMP-Extension-PassPersist)",
+              "Generic pass/pass_persist extension framework for Net-SNMP",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/SNMP-Extension-PassPersist/)"
+            ],
+            [
+              "2",
+              "[@maddingue](https://github.com/maddingue)/[**DBD-Nagios**](https://github.com/maddingue/DBD-Nagios)",
+              "Fetch Nagios information through Livestatus query language",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/DBD-Nagios/)"
+            ],
+            [
+              "2",
+              "[@celogeek](https://github.com/celogeek)/[**Net-HTTP-Spore-Middl…**](https://github.com/celogeek/Net-HTTP-Spore-Middleware-Header)",
+              "Middleware to send header on each spore request",
+              ""
+            ],
+            [
+              "2",
+              "[@maddingue](https://github.com/maddingue)/[**Acme-CPANAuthors-Fre…**](https://github.com/maddingue/Acme-CPANAuthors-French)",
+              "We are French-speaking CPAN authors / Nous sommes des auteurs CPAN francophones",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Acme-CPANAuthors-French/)"
+            ],
+            [
+              "2",
+              "[@shtouff](https://github.com/shtouff)/[**munin-plugins**](https://github.com/shtouff/munin-plugins)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@maddingue](https://github.com/maddingue)/[**DBIx-Connect-FromCon…**](https://github.com/maddingue/DBIx-Connect-FromConfig)",
+              "Creates a DBI connection from a configuration file",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/DBIx-Connect-FromConfig/)"
+            ],
+            [
+              "2",
+              "[@eiro](https://github.com/eiro)/[**p5-encode-iso5426**](https://github.com/eiro/p5-encode-iso5426)",
+              "iso-5426.ucm and Encode::ISO5426 sources",
+              ""
+            ],
+            [
+              "2",
+              "[@maddingue](https://github.com/maddingue)/[**RackMan**](https://github.com/maddingue/RackMan)",
+              "Perl modules for connecting to a RackTables database",
+              "[:arrow_upper_right:](https://metacpan.org/release/RackMan)"
+            ],
+            [
+              "2",
+              "[@dolmen](https://github.com/dolmen)/[**p5-App-spore**](https://github.com/dolmen/p5-App-spore)",
+              "A command-line client for web services APIs, based on SPORE descriptions",
+              "[:arrow_upper_right:](https://github.com/SPORE/)"
+            ],
+            [
+              "2",
+              "[@ldidry](https://github.com/ldidry)/[**etherpad-admin**](https://github.com/ldidry/etherpad-admin)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@jquelin](https://github.com/jquelin)/[**task-dist-zilla**](https://github.com/jquelin/task-dist-zilla)",
+              "task to install dist-zilla and all its plugins",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Task-Dist-Zilla)"
+            ],
+            [
+              "2",
+              "[@maddingue](https://github.com/maddingue)/[**Syntax-GivenWhen**](https://github.com/maddingue/Syntax-GivenWhen)",
+              "Add support for the given/when keywords in Perl 5.8",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Syntax-GivenWhen/)"
+            ],
+            [
+              "2",
+              "[@book](https://github.com/book)/[**Log-Procmail**](https://github.com/book/Log-Procmail)",
+              "Perl extension for reading procmail logfiles",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Log-Procmail/)"
+            ],
+            [
+              "2",
+              "[@dams](https://github.com/dams)/[**p5-Moo-Lax**](https://github.com/dams/p5-Moo-Lax)",
+              "Perl5 module to avoid Moo to use strictures",
+              ""
+            ],
+            [
+              "2",
+              "[@book](https://github.com/book)/[**Regexp-Log**](https://github.com/book/Regexp-Log)",
+              "A base class for log files regexp builders",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Regexp-Log/)"
+            ],
+            [
+              "2",
+              "[@dams](https://github.com/dams)/[**typepad_to_jekyll**](https://github.com/dams/typepad_to_jekyll)",
+              "Tools to migrate your blog from Typepad to Jekyll",
+              ""
+            ],
+            [
+              "2",
+              "[@book](https://github.com/book)/[**Acme-MetaSyntactic**](https://github.com/book/Acme-MetaSyntactic)",
+              "Themed metasyntactic variables names",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Acme-MetaSyntactic/)"
+            ],
+            [
+              "2",
+              "[@dams](https://github.com/dams)/[**poe-wheel-gnupg**](https://github.com/dams/poe-wheel-gnupg)",
+              "Provides a GPG interface to your POE Session",
+              ""
+            ],
+            [
+              "2",
+              "[@book](https://github.com/book)/[**URI-Title**](https://github.com/book/URI-Title)",
+              "Get the titles of things on the web in a sensible way",
+              ""
+            ],
+            [
+              "2",
+              "[@maddingue](https://github.com/maddingue)/[**POE-Component-NetSNM…**](https://github.com/maddingue/POE-Component-NetSNMP-agent)",
+              "AgentX clients with NetSNMP::agent and POE",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/POE-Component-NetSNMP-agent/)"
+            ],
+            [
+              "2",
+              "[@book](https://github.com/book)/[**git-test-repo-tool**](https://github.com/book/git-test-repo-tool)",
+              "Tool to build a repository of special cases (for testing purposes)",
+              ""
+            ],
+            [
+              "2",
+              "[@maddingue](https://github.com/maddingue)/[**config-extend-mysql**](https://github.com/maddingue/config-extend-mysql)",
+              "Extend your favourite .INI parser module to read MySQL configuration file",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Config-Extend-MySQL/)"
+            ],
+            [
+              "2",
+              "[@jquelin](https://github.com/jquelin)/[**app-cpan2pkg**](https://github.com/jquelin/app-cpan2pkg)",
+              "generating native linux packages from cpan",
+              "[:arrow_upper_right:](https://metacpan.org/release/App-CPAN2Pkg)"
+            ],
+            [
+              "2",
+              "[@fperrad](https://github.com/fperrad)/[**corba-idl**](https://github.com/fperrad/corba-idl)",
+              "",
+              "[:arrow_upper_right:](http://search.cpan.org/~perrad/CORBA-IDL/)"
+            ],
+            [
+              "2",
+              "[@jquelin](https://github.com/jquelin)/[**dist-zilla-plugin-au…**](https://github.com/jquelin/dist-zilla-plugin-autoprereq)",
+              "dist::zilla plugin to automatically extract prereqs from your modules",
+              "[:arrow_upper_right:](https://metacpan.org/release/Dist-Zilla-Plugin-AutoPrereq)"
+            ],
+            [
+              "2",
+              "[@fperrad](https://github.com/fperrad)/[**corba-xs**](https://github.com/fperrad/corba-xs)",
+              "",
+              "[:arrow_upper_right:](http://search.cpan.org/~perrad/CORBA-XS/)"
+            ],
+            [
+              "2",
+              "[@jquelin](https://github.com/jquelin)/[**app-magpie**](https://github.com/jquelin/app-magpie)",
+              "mageia perl integration easy",
+              "[:arrow_upper_right:](https://metacpan.org/release/App-Magpie)"
+            ],
+            [
+              "2",
+              "[@fperrad](https://github.com/fperrad)/[**xml-handler-dtd2html**](https://github.com/fperrad/xml-handler-dtd2html)",
+              "SAX2 handler for generate a HTML documentation from a DTD",
+              "[:arrow_upper_right:](http://search.cpan.org/~perrad/XML-Handler-Dtd2Html/)"
+            ],
+            [
+              "2",
+              "[@jquelin](https://github.com/jquelin)/[**module-packaged-gene…**](https://github.com/jquelin/module-packaged-generator)",
+              "build list of modules packaged by a linux distribution",
+              "[:arrow_upper_right:](https://metacpan.org/release/Module-Packaged-Generator)"
+            ],
+            [
+              "2",
+              "[@fperrad](https://github.com/fperrad)/[**chart-plot-tagged**](https://github.com/fperrad/chart-plot-tagged)",
+              "Plot with tags",
+              ""
+            ],
+            [
+              "2",
+              "[@dolmen](https://github.com/dolmen)/[**p5-Number-Phone-FR**](https://github.com/dolmen/p5-Number-Phone-FR)",
+              "Validation de numéros de téléphone en France (Perl)",
+              "[:arrow_upper_right:](https://metacpan.org/module/Number::Phone::FR)"
+            ],
+            [
+              "2",
+              "[@Ovid](https://github.com/Ovid)/[**scott-adams-games**](https://github.com/Ovid/scott-adams-games)",
+              "A pure Perl Scott Adams game driver.",
+              ""
+            ],
+            [
+              "2",
+              "[@dolmen](https://github.com/dolmen)/[**parse-nm**](https://github.com/dolmen/parse-nm)",
+              "Run and parse 'nm' command output with filter callbacks",
+              ""
+            ],
+            [
+              "2",
+              "[@Ovid](https://github.com/Ovid)/[**DB-Pluggable-Dumper**](https://github.com/Ovid/DB-Pluggable-Dumper)",
+              "Add Data::Dumper support to the Perl debugger via 'xx'",
+              ""
+            ],
+            [
+              "2",
+              "[@dod38fr](https://github.com/dod38fr)/[**config-model-backend…**](https://github.com/dod38fr/config-model-backend-augeas)",
+              "Bridge between Config::Model and RedHat's Augeas project",
+              ""
+            ],
+            [
+              "2",
+              "[@Ovid](https://github.com/Ovid)/[**sub-override**](https://github.com/Ovid/sub-override)",
+              "Sub::Override - safely and easily override subroutines in perl",
+              ""
+            ],
+            [
+              "2",
+              "[@dod38fr](https://github.com/dod38fr)/[**config-model-itself**](https://github.com/dod38fr/config-model-itself)",
+              "GUI to edit and validate configuration models ",
+              ""
+            ],
+            [
+              "2",
+              "[@Ovid](https://github.com/Ovid)/[**test-class-mop**](https://github.com/Ovid/test-class-mop)",
+              "Reimplementing Test::Class using p5-mop-redux",
+              ""
+            ],
+            [
+              "2",
+              "[@dod38fr](https://github.com/dod38fr)/[**config-model-approx**](https://github.com/dod38fr/config-model-approx)",
+              "Edit and validate approx configuration file",
+              ""
+            ],
+            [
+              "2",
+              "[@Ovid](https://github.com/Ovid)/[**Pod-Parser-GroffMom**](https://github.com/Ovid/Pod-Parser-GroffMom)",
+              "A Pod Parser which produces output sutable for 'groff -mom'",
+              ""
+            ],
+            [
+              "2",
+              "[@CCrashBandicot](https://github.com/CCrashBandicot)/[**exploit**](https://github.com/CCrashBandicot/exploit)",
+              "0day found by me -",
+              "[:arrow_upper_right:](https://www.exploit-db.com/author/?a=7871)"
+            ],
+            [
+              "2",
+              "[@peczenyj](https://github.com/peczenyj)/[**Acme-Lelek**](https://github.com/peczenyj/Acme-Lelek)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@Ovid](https://github.com/Ovid)/[**Test-JSON**](https://github.com/Ovid/Test-JSON)",
+              "Perl support for testing JSON",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Test-JSON/)"
             ]
           ]
         }
