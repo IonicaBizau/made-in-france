@@ -66,7 +66,8 @@
           "[Python](#python)",
           "[R](#r)",
           "[Ruby](#ruby)",
-          "[Scala](#scala)"
+          "[Scala](#scala)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -13171,6 +13172,237 @@
               "2",
               "[@newca12](https://github.com/newca12)/[**TMDb-async-client**](https://github.com/newca12/TMDb-async-client)",
               "Scala async wrapper for TMDb (The Movie Database) API",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "72",
+              "[@nicolargo](https://github.com/nicolargo)/[**debianpostinstall**](https://github.com/nicolargo/debianpostinstall)",
+              "Script pour automatiser l'installation de machine sous Debian",
+              ""
+            ],
+            [
+              "49",
+              "[@Deevad](https://github.com/Deevad)/[**peppercarrot**](https://github.com/Deevad/peppercarrot)",
+              "Tools, Scenarios, character descriptions, world, main repository of the Pepper&Carrot open webcomic project",
+              ""
+            ],
+            [
+              "34",
+              "[@nicolargo](https://github.com/nicolargo)/[**chromium-on-mac**](https://github.com/nicolargo/chromium-on-mac)",
+              "Install/Update Chromium on Mac OS X",
+              ""
+            ],
+            [
+              "31",
+              "[@edouard-lopez](https://github.com/edouard-lopez)/[**yeoman-zsh-plugin**](https://github.com/edouard-lopez/yeoman-zsh-plugin)",
+              " Yeoman plugin for Oh My ZSH, compatible with yeoman version ≥1.0 (options and command auto-completion).",
+              ""
+            ],
+            [
+              "30",
+              "[@vdemeester](https://github.com/vdemeester)/[**docker-volume-ipfs**](https://github.com/vdemeester/docker-volume-ipfs)",
+              "This is an open source volume plugin that allows using an ipfs filesystem as a volume.",
+              ""
+            ],
+            [
+              "23",
+              "[@nicolargo](https://github.com/nicolargo)/[**openvpnscripts**](https://github.com/nicolargo/openvpnscripts)",
+              "Shell scripts to control an OpenVPN server",
+              ""
+            ],
+            [
+              "21",
+              "[@tomsquest](https://github.com/tomsquest)/[**dotfiles**](https://github.com/tomsquest/dotfiles)",
+              "Config files for zsh, vim and many more. Heavily commented",
+              ""
+            ],
+            [
+              "20",
+              "[@vdemeester](https://github.com/vdemeester)/[**java-config**](https://github.com/vdemeester/java-config)",
+              "mirror of my personal java-related configuration, managed using vcsh and mr",
+              ""
+            ],
+            [
+              "19",
+              "[@nicolargo](https://github.com/nicolargo)/[**nagiosautoinstall**](https://github.com/nicolargo/nagiosautoinstall)",
+              "Installation automatique de Nagios depuis les sources",
+              "[:arrow_upper_right:](http://blog.nicolargo.com/2010/01/script-dinstallation-automatique-de-nagios.html)"
+            ],
+            [
+              "17",
+              "[@nicolargo](https://github.com/nicolargo)/[**shinkenautoinstall**](https://github.com/nicolargo/shinkenautoinstall)",
+              "Script d'installation automatique de Shinken/Thruk",
+              "[:arrow_upper_right:](http://blog.nicolargo.com/2011/04/script-dinstallation-automatique-de-shinkenthruk.html)"
+            ],
+            [
+              "14",
+              "[@nicolargo](https://github.com/nicolargo)/[**gstpipelinearena**](https://github.com/nicolargo/gstpipelinearena)",
+              "GStreamer pipeline arena",
+              "[:arrow_upper_right:](http://blog.nicolargo.com/gstreamer)"
+            ],
+            [
+              "13",
+              "[@seblu](https://github.com/seblu)/[**archivetools**](https://github.com/seblu/archivetools)",
+              "Arch Linux Archive Tools",
+              "[:arrow_upper_right:](http://ala.seblu.net/)"
+            ],
+            [
+              "10",
+              "[@seblu](https://github.com/seblu)/[**archutils**](https://github.com/seblu/archutils)",
+              "Collection of tools for Archlinux",
+              ""
+            ],
+            [
+              "10",
+              "[@jdauphant](https://github.com/jdauphant)/[**ansible-ubuntu-deskt…**](https://github.com/jdauphant/ansible-ubuntu-desktop)",
+              "Provision an custom Ubuntu Desktop with Ansible",
+              ""
+            ],
+            [
+              "10",
+              "[@Deevad](https://github.com/Deevad)/[**compilscripts**](https://github.com/Deevad/compilscripts)",
+              "( Unmaintained ) Old script to compile Krita, Mypaint, and Vc lib",
+              ""
+            ],
+            [
+              "8",
+              "[@nicolargo](https://github.com/nicolargo)/[**loicinstaller**](https://github.com/nicolargo/loicinstaller)",
+              "This script installs, updates and runs LOIC on Linux.",
+              ""
+            ],
+            [
+              "7",
+              "[@nicolargo](https://github.com/nicolargo)/[**glancesautoinstall**](https://github.com/nicolargo/glancesautoinstall)",
+              "Glances Auto Install script",
+              ""
+            ],
+            [
+              "7",
+              "[@nicolargo](https://github.com/nicolargo)/[**docker-influxdb-graf…**](https://github.com/nicolargo/docker-influxdb-grafana)",
+              "Docker-compose files for a simple InfluxDB + Grafana stack",
+              ""
+            ],
+            [
+              "7",
+              "[@jdauphant](https://github.com/jdauphant)/[**ansible-role-intelli…**](https://github.com/jdauphant/ansible-role-intellij)",
+              "Ansible role to install IntelliJ IDEA Community Edition",
+              ""
+            ],
+            [
+              "6",
+              "[@nicolargo](https://github.com/nicolargo)/[**myscreencast**](https://github.com/nicolargo/myscreencast)",
+              "Shell script based on GStreamer to build screencast in H.264/AAC, WebM and Vorbis/Theora format)",
+              "[:arrow_upper_right:](http://blog.nicolargo.com/2010/04/myscreencast-comment-faire-du-screencast-avec-gstreamer.html)"
+            ],
+            [
+              "6",
+              "[@edouard-lopez](https://github.com/edouard-lopez)/[**sshuttle-helper**](https://github.com/edouard-lopez/sshuttle-helper)",
+              "`sshuttle-helper` simplify the use of `sshuttle` by adding a LSB service to your system called `proxy-ssh`.",
+              ""
+            ],
+            [
+              "5",
+              "[@edouard-lopez](https://github.com/edouard-lopez)/[**monitor-http-server**](https://github.com/edouard-lopez/monitor-http-server)",
+              "Simple script to monitor if servers are responding (status 200) or not",
+              ""
+            ],
+            [
+              "4",
+              "[@jdauphant](https://github.com/jdauphant)/[**ansible-role-skeleto…**](https://github.com/jdauphant/ansible-role-skeleton)",
+              "Skeleton for a Ansible Role",
+              ""
+            ],
+            [
+              "4",
+              "[@nicolargo](https://github.com/nicolargo)/[**simulwan**](https://github.com/nicolargo/simulwan)",
+              "WAN simulator script for Linux kernel",
+              ""
+            ],
+            [
+              "4",
+              "[@vdemeester](https://github.com/vdemeester)/[**git-config**](https://github.com/vdemeester/git-config)",
+              "personal git configuration, managed using vcsh and mr",
+              ""
+            ],
+            [
+              "4",
+              "[@jdauphant](https://github.com/jdauphant)/[**ansible-role-spark**](https://github.com/jdauphant/ansible-role-spark)",
+              "Ansible role to manage Spark from the official github",
+              ""
+            ],
+            [
+              "3",
+              "[@jdauphant](https://github.com/jdauphant)/[**ansible-syntax-examp…**](https://github.com/jdauphant/ansible-syntax-examples)",
+              "Simple or advance syntax examples for ansible",
+              ""
+            ],
+            [
+              "3",
+              "[@vdemeester](https://github.com/vdemeester)/[**ansibles**](https://github.com/vdemeester/ansibles)",
+              "My personnal playbooks (for bootstrap and maintaining my desktops, laptops and servers)",
+              ""
+            ],
+            [
+              "3",
+              "[@jdauphant](https://github.com/jdauphant)/[**ansible-role-playfra…**](https://github.com/jdauphant/ansible-role-playframework)",
+              "Ansible role to manage Play Framework",
+              ""
+            ],
+            [
+              "2",
+              "[@edouard-lopez](https://github.com/edouard-lopez)/[**pdf2djvu-ocr**](https://github.com/edouard-lopez/pdf2djvu-ocr)",
+              "Script to help convert from scanned PDF to DjVu+OCR. Dependencies: pdfsandwich tesseract pdf2djvu",
+              ""
+            ],
+            [
+              "2",
+              "[@seblu](https://github.com/seblu)/[**mailboot**](https://github.com/seblu/mailboot)",
+              "A simple way to get a mail when your computer boot or reboot",
+              ""
+            ],
+            [
+              "2",
+              "[@TaurusOlson](https://github.com/TaurusOlson)/[**dotfiles**](https://github.com/TaurusOlson/dotfiles)",
+              "My dotfiles",
+              ""
+            ],
+            [
+              "2",
+              "[@h2o64](https://github.com/h2o64)/[**deodex**](https://github.com/h2o64/deodex)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@nicolargo](https://github.com/nicolargo)/[**blogostat**](https://github.com/nicolargo/blogostat)",
+              "Quelques scripts pour obtenir des stats sur la blogosphère FR",
+              ""
+            ],
+            [
+              "2",
+              "[@nicolargo](https://github.com/nicolargo)/[**sjitter**](https://github.com/nicolargo/sjitter)",
+              "Sjitter is a command line client/server to measure jitter (based on RFC 1889), one way UDP delay and bandwidth.",
+              "[:arrow_upper_right:](http://www.nicolargo.com/dev/sjitter/)"
+            ],
+            [
+              "2",
+              "[@vdemeester](https://github.com/vdemeester)/[**sh-config**](https://github.com/vdemeester/sh-config)",
+              "personal shells configuration, managed using vcsh and mr",
               ""
             ]
           ]
