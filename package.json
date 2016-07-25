@@ -53,7 +53,8 @@
           "[HTML](#html)",
           "[C](undefined)",
           "[C++](#c-2)",
-          "[ActionScript](#actionscript)"
+          "[ActionScript](#actionscript)",
+          "[Clojure](#clojure)"
         ]
       },
       {
@@ -5380,6 +5381,285 @@
               "[@vincent-petithory](https://github.com/vincent-petithory)/[**astre**](https://github.com/vincent-petithory/astre)",
               "A Unit testing library that can be extended in many ways",
               "[:arrow_upper_right:](http://astre.lunar-dev.net/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Clojure #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "1305",
+              "[@cgrand](https://github.com/cgrand)/[**enlive**](https://github.com/cgrand/enlive)",
+              "a selector-based (à la CSS) templating and transformation system for Clojure",
+              "[:arrow_upper_right:](http://wiki.github.com/cgrand/enlive)"
+            ],
+            [
+              "251",
+              "[@cgrand](https://github.com/cgrand)/[**moustache**](https://github.com/cgrand/moustache)",
+              "a micro web framework/internal DSL to wire Ring handlers and middlewares",
+              ""
+            ],
+            [
+              "226",
+              "[@cgrand](https://github.com/cgrand)/[**enliven**](https://github.com/cgrand/enliven)",
+              "Enlive next: faster, better, broader",
+              ""
+            ],
+            [
+              "184",
+              "[@cgrand](https://github.com/cgrand)/[**parsley**](https://github.com/cgrand/parsley)",
+              "a DSL for creating total and truly incremental parsers in Clojure",
+              ""
+            ],
+            [
+              "139",
+              "[@cgrand](https://github.com/cgrand)/[**seqexp**](https://github.com/cgrand/seqexp)",
+              "Regexp for sequences!",
+              ""
+            ],
+            [
+              "127",
+              "[@ngrunwald](https://github.com/ngrunwald)/[**ring-middleware-form…**](https://github.com/ngrunwald/ring-middleware-format)",
+              "Ring middleware for parsing parameters and emitting responses in JSON or other formats",
+              ""
+            ],
+            [
+              "99",
+              "[@cgrand](https://github.com/cgrand)/[**sjacket**](https://github.com/cgrand/sjacket)",
+              "Structural code transformations for the masses.",
+              ""
+            ],
+            [
+              "87",
+              "[@cgrand](https://github.com/cgrand)/[**xforms**](https://github.com/cgrand/xforms)",
+              "Extra transducers and reducing fns for Clojure",
+              ""
+            ],
+            [
+              "87",
+              "[@cgrand](https://github.com/cgrand)/[**spreadmap**](https://github.com/cgrand/spreadmap)",
+              "Evil project to turn excel spreadsheets in persistent reactive structures.",
+              ""
+            ],
+            [
+              "87",
+              "[@cgrand](https://github.com/cgrand)/[**megaref**](https://github.com/cgrand/megaref)",
+              "STM ref types that allow for more concurrency on associative values.",
+              ""
+            ],
+            [
+              "70",
+              "[@cgrand](https://github.com/cgrand)/[**regex**](https://github.com/cgrand/regex)",
+              "a regex DSL for those who prefer verbose composable regexes to terse ones",
+              ""
+            ],
+            [
+              "50",
+              "[@ngrunwald](https://github.com/ngrunwald)/[**gavagai**](https://github.com/ngrunwald/gavagai)",
+              "Fast Clojure library to convert deep Java objects structures to native Clojure.",
+              ""
+            ],
+            [
+              "39",
+              "[@cgrand](https://github.com/cgrand)/[**sqrel**](https://github.com/cgrand/sqrel)",
+              "The SQL library that won't drive you nuts.",
+              ""
+            ],
+            [
+              "36",
+              "[@cgrand](https://github.com/cgrand)/[**utils**](https://github.com/cgrand/utils)",
+              "useful functions and extensible macros",
+              ""
+            ],
+            [
+              "27",
+              "[@ngrunwald](https://github.com/ngrunwald)/[**clj-elasticsearch**](https://github.com/ngrunwald/clj-elasticsearch)",
+              "Clojure client for the ElasticSearch Java API",
+              ""
+            ],
+            [
+              "26",
+              "[@hiram-madelaine](https://github.com/hiram-madelaine)/[**om-inputs**](https://github.com/hiram-madelaine/om-inputs)",
+              "A generic Om component to handle inputs",
+              ""
+            ],
+            [
+              "26",
+              "[@cgrand](https://github.com/cgrand)/[**replay**](https://github.com/cgrand/replay)",
+              "Instant test suites from repl transcript.",
+              ""
+            ],
+            [
+              "21",
+              "[@cgrand](https://github.com/cgrand)/[**indexed-set**](https://github.com/cgrand/indexed-set)",
+              "A set implementation which supports unicity constraints and maintains summaries (indexes).",
+              ""
+            ],
+            [
+              "16",
+              "[@ngrunwald](https://github.com/ngrunwald)/[**datasplash**](https://github.com/ngrunwald/datasplash)",
+              "Clojure API for a more dynamic Google Dataflow",
+              ""
+            ],
+            [
+              "14",
+              "[@ngrunwald](https://github.com/ngrunwald)/[**clj-rome**](https://github.com/ngrunwald/clj-rome)",
+              "A Clojure wrapper for the ROME feed parsing and manipulation library",
+              ""
+            ],
+            [
+              "14",
+              "[@fdserr](https://github.com/fdserr)/[**clotilde**](https://github.com/fdserr/clotilde)",
+              "The Linda process coordination language written in Clojure.",
+              ""
+            ],
+            [
+              "10",
+              "[@ngrunwald](https://github.com/ngrunwald)/[**ultra-csv**](https://github.com/ngrunwald/ultra-csv)",
+              "All in one pixie fairy sparkling Clojure tool for easily reading and writing csv files",
+              ""
+            ],
+            [
+              "8",
+              "[@ngrunwald](https://github.com/ngrunwald)/[**clj-spore**](https://github.com/ngrunwald/clj-spore)",
+              "Clojure implementation of the Spore ReST specification.",
+              ""
+            ],
+            [
+              "8",
+              "[@cgrand](https://github.com/cgrand)/[**parsnip**](https://github.com/cgrand/parsnip)",
+              "parsley is dead, long live parsnip!",
+              ""
+            ],
+            [
+              "7",
+              "[@gmazelier](https://github.com/gmazelier)/[**jobesque**](https://github.com/gmazelier/jobesque)",
+              "Jobesque is a simple Clojure job scheduler, built on top of cron4j.",
+              ""
+            ],
+            [
+              "7",
+              "[@ngrunwald](https://github.com/ngrunwald)/[**stanford-nlp-tools**](https://github.com/ngrunwald/stanford-nlp-tools)",
+              "Clojure wrapper around the Stanford NLP tools",
+              ""
+            ],
+            [
+              "7",
+              "[@hiram-madelaine](https://github.com/hiram-madelaine)/[**codemirror-parinfer**](https://github.com/hiram-madelaine/codemirror-parinfer)",
+              "A Parinfer mode for the CodeMirror editor",
+              ""
+            ],
+            [
+              "5",
+              "[@ngrunwald](https://github.com/ngrunwald)/[**clj-mapdb**](https://github.com/ngrunwald/clj-mapdb)",
+              "Clojure idiomatic wrapper for MapDB embedded database",
+              ""
+            ],
+            [
+              "5",
+              "[@ngrunwald](https://github.com/ngrunwald)/[**clj-htmlunit**](https://github.com/ngrunwald/clj-htmlunit)",
+              "HTMLUnit wrapper for Clojure",
+              ""
+            ],
+            [
+              "4",
+              "[@cgrand](https://github.com/cgrand)/[**sandbox**](https://github.com/cgrand/sandbox)",
+              "expeiments, works in progress etc.",
+              ""
+            ],
+            [
+              "4",
+              "[@thefourhorsemen](https://github.com/thefourhorsemen)/[**radar**](https://github.com/thefourhorsemen/radar)",
+              "Clojure application to draw a radar.",
+              ""
+            ],
+            [
+              "3",
+              "[@ngrunwald](https://github.com/ngrunwald)/[**clj-treetagger**](https://github.com/ngrunwald/clj-treetagger)",
+              "Thin functional wrapper for the tt4j Java wrapper of the Treetagger POS tagger",
+              ""
+            ],
+            [
+              "3",
+              "[@gmazelier](https://github.com/gmazelier)/[**ring-accept-param**](https://github.com/gmazelier/ring-accept-param)",
+              "Ring middleware that augments :params according to the specified Accept request-header field.",
+              ""
+            ],
+            [
+              "3",
+              "[@ngrunwald](https://github.com/ngrunwald)/[**clj-jdbm**](https://github.com/ngrunwald/clj-jdbm)",
+              "Clojure wrapper for the jdbm embedded store",
+              ""
+            ],
+            [
+              "3",
+              "[@cfalguiere](https://github.com/cfalguiere)/[**Demo-Incanter-Devoxx…**](https://github.com/cfalguiere/Demo-Incanter-Devoxx-France)",
+              "Code pour la présentation",
+              ""
+            ],
+            [
+              "3",
+              "[@ngrunwald](https://github.com/ngrunwald)/[**pumila**](https://github.com/ngrunwald/pumila)",
+              "Lighter Clojure replacement for Netflix hystrix latency and fault tolerance library",
+              ""
+            ],
+            [
+              "2",
+              "[@ngrunwald](https://github.com/ngrunwald)/[**clj-joq-client**](https://github.com/ngrunwald/clj-joq-client)",
+              "\"Implementation of the joq client protocol in Clojure\"",
+              ""
+            ],
+            [
+              "2",
+              "[@ngrunwald](https://github.com/ngrunwald)/[**test-async-fetch**](https://github.com/ngrunwald/test-async-fetch)",
+              "testing asynchronous http fetch",
+              ""
+            ],
+            [
+              "2",
+              "[@jirkamarsik](https://github.com/jirkamarsik)/[**esa-wordseg**](https://github.com/jirkamarsik/esa-wordseg)",
+              "An implementation of the ESA unsupervised word segmentation algorithm in Clojure.",
+              "[:arrow_upper_right:](http://www.mitpressjournals.org/doi/pdfplus/10.1162/COLI_a_00058)"
+            ],
+            [
+              "2",
+              "[@Datasio](https://github.com/Datasio)/[**mesos-pallet**](https://github.com/Datasio/mesos-pallet)",
+              "Example of mesos-crate use in pallet project",
+              ""
+            ],
+            [
+              "2",
+              "[@Datasio](https://github.com/Datasio)/[**mesos-crate**](https://github.com/Datasio/mesos-crate)",
+              "Pallet crate for mesos",
+              ""
+            ],
+            [
+              "2",
+              "[@bhuron](https://github.com/bhuron)/[**paip**](https://github.com/bhuron/paip)",
+              "A port of Paradigms of AI programming to Clojure",
+              ""
+            ],
+            [
+              "2",
+              "[@zenmodeler](https://github.com/zenmodeler)/[**spexec**](https://github.com/zenmodeler/spexec)",
+              "Clojure BDD library",
+              ""
+            ],
+            [
+              "2",
+              "[@cgrand](https://github.com/cgrand)/[**trainings.geneva.201…**](https://github.com/cgrand/trainings.geneva.2012)",
+              "Ressources issues des formations Clojure données du 13 au 15 mai 2012",
+              ""
             ]
           ]
         }
