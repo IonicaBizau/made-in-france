@@ -59,7 +59,8 @@
           "[Go](#go)",
           "[Haskell](#haskell)",
           "[Lua](#lua)",
-          "[Matlab](#matlab)"
+          "[Matlab](#matlab)",
+          "[Objective-C](#objective-c)"
         ]
       },
       {
@@ -7023,6 +7024,903 @@
               "2",
               "[@Simon-Lacoste-Julien](https://github.com/Simon-Lacoste-Julien)/[**linearFW**](https://github.com/Simon-Lacoste-Julien/linearFW)",
               "Frank-Wolfe optimization variants with a linear convergence rate",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Objective-C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3543",
+              "[@fpillet](https://github.com/fpillet)/[**NSLogger**](https://github.com/fpillet/NSLogger)",
+              "A modern, flexible logging tool",
+              ""
+            ],
+            [
+              "2877",
+              "[@alikaragoz](https://github.com/alikaragoz)/[**MCSwipeTableViewCell**](https://github.com/alikaragoz/MCSwipeTableViewCell)",
+              ":point_up_2: Convenient UITableViewCell subclass that implements a swippable content to trigger actions (similar to the Mailbox app).",
+              ""
+            ],
+            [
+              "2398",
+              "[@AliSoftware](https://github.com/AliSoftware)/[**OHHTTPStubs**](https://github.com/AliSoftware/OHHTTPStubs)",
+              "Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!",
+              ""
+            ],
+            [
+              "1851",
+              "[@nicolaschengdev](https://github.com/nicolaschengdev)/[**WYPopoverController**](https://github.com/nicolaschengdev/WYPopoverController)",
+              "WYPopoverController is for the presentation of content in popover on iPhone / iPad devices. Very customizable.",
+              ""
+            ],
+            [
+              "1510",
+              "[@AliSoftware](https://github.com/AliSoftware)/[**OHAttributedLabel**](https://github.com/AliSoftware/OHAttributedLabel)",
+              "UILabel that supports NSAttributedString",
+              "[:arrow_upper_right:](https://github.com/AliSoftware/OHAttributedLabel/wiki)"
+            ],
+            [
+              "1180",
+              "[@groue](https://github.com/groue)/[**GRMustache**](https://github.com/groue/GRMustache)",
+              "Flexible and production-ready Mustache templates for MacOS Cocoa and iOS",
+              "[:arrow_upper_right:](http://mustache.github.com/)"
+            ],
+            [
+              "1007",
+              "[@StefanLage](https://github.com/StefanLage)/[**SLPagingView**](https://github.com/StefanLage/SLPagingView)",
+              "Navigation bar system allowing to do a Tinder like or Twitter like",
+              ""
+            ],
+            [
+              "862",
+              "[@autresphere](https://github.com/autresphere)/[**ASMediaFocusManager**](https://github.com/autresphere/ASMediaFocusManager)",
+              "iOS library to animate your image and video thumbnails to fullscreen.",
+              ""
+            ],
+            [
+              "773",
+              "[@lgaches](https://github.com/lgaches)/[**BeaconEmitter**](https://github.com/lgaches/BeaconEmitter)",
+              "Turn your Mac as an iBeacon",
+              ""
+            ],
+            [
+              "753",
+              "[@yannickl](https://github.com/yannickl)/[**YLProgressBar**](https://github.com/yannickl/YLProgressBar)",
+              "UIProgressView replacement with an highly and fully customizable animated progress bar in pure Core Graphics",
+              "[:arrow_upper_right:](http://yannickloriot.com/library/ios/ylprogressbar/)"
+            ],
+            [
+              "691",
+              "[@yannickl](https://github.com/yannickl)/[**YLMoment**](https://github.com/yannickl/YLMoment)",
+              "Parsing, validating, manipulating, and formatting dates easily in Objective-C (API inspired by moment.js)",
+              "[:arrow_upper_right:](http://yannickl.github.io/YLMoment)"
+            ],
+            [
+              "640",
+              "[@maxep](https://github.com/maxep)/[**MXParallaxHeader**](https://github.com/maxep/MXParallaxHeader)",
+              "Simple parallax header for UIScrollView",
+              ""
+            ],
+            [
+              "551",
+              "[@abiaad](https://github.com/abiaad)/[**PAAImageView**](https://github.com/abiaad/PAAImageView)",
+              "Rounded async imageview downloader based on AFNetworking 2 and lightly cached",
+              ""
+            ],
+            [
+              "548",
+              "[@mattlawer](https://github.com/mattlawer)/[**BButton**](https://github.com/mattlawer/BButton)",
+              "BButton is a subclass of UIButton that looks like the bootstrap buttons.",
+              ""
+            ],
+            [
+              "517",
+              "[@maxep](https://github.com/maxep)/[**MXSegmentedPager**](https://github.com/maxep/MXSegmentedPager)",
+              "Segmented pager view with Parallax header",
+              ""
+            ],
+            [
+              "482",
+              "[@kirualex](https://github.com/kirualex)/[**SprityBird**](https://github.com/kirualex/SprityBird)",
+              "A small clone of Flappy Bird for iOS using SpriteKit framework",
+              ""
+            ],
+            [
+              "460",
+              "[@parmanoir](https://github.com/parmanoir)/[**jscocoa**](https://github.com/parmanoir/jscocoa)",
+              "Write Cocoa applications in Javascript",
+              "[:arrow_upper_right:](http://inexdo.com/JSCocoa)"
+            ],
+            [
+              "456",
+              "[@autresphere](https://github.com/autresphere)/[**ASDepthModal**](https://github.com/autresphere/ASDepthModal)",
+              "An Objective-C class that adds a sense of depth to your modal popup views.",
+              ""
+            ],
+            [
+              "450",
+              "[@mattlawer](https://github.com/mattlawer)/[**MBSwitch**](https://github.com/mattlawer/MBSwitch)",
+              "An iOS7 style UISwitch for iOS < 7",
+              ""
+            ],
+            [
+              "408",
+              "[@yannickl](https://github.com/yannickl)/[**QRCodeReaderViewCont…**](https://github.com/yannickl/QRCodeReaderViewController)",
+              "Simple QRCode reader for iOS 7 and over",
+              ""
+            ],
+            [
+              "385",
+              "[@alikaragoz](https://github.com/alikaragoz)/[**AKASegmentedControl**](https://github.com/alikaragoz/AKASegmentedControl)",
+              ":chocolate_bar: Fully customizable Segmented Control for iOS",
+              ""
+            ],
+            [
+              "338",
+              "[@AliSoftware](https://github.com/AliSoftware)/[**UIImage-Resize**](https://github.com/AliSoftware/UIImage-Resize)",
+              "Category to add some resizing methods to the UIImage class, to resize it to a given CGSize — or fit in a CGSize keeping aspect ratio",
+              ""
+            ],
+            [
+              "314",
+              "[@kirualex](https://github.com/kirualex)/[**KAProgressLabel**](https://github.com/kirualex/KAProgressLabel)",
+              "Minimal circular progress label",
+              ""
+            ],
+            [
+              "295",
+              "[@mattlawer](https://github.com/mattlawer)/[**appstat**](https://github.com/mattlawer/appstat)",
+              "Get AppStore apps stats",
+              ""
+            ],
+            [
+              "258",
+              "[@StefanLage](https://github.com/StefanLage)/[**SLParallaxController**](https://github.com/StefanLage/SLParallaxController)",
+              "Create Parallax effect between UITableView & UIMapView - like FourSquare",
+              ""
+            ],
+            [
+              "215",
+              "[@yannickl](https://github.com/yannickl)/[**CCControlExtension**](https://github.com/yannickl/CCControlExtension)",
+              "Collection of classes to make the design of controls easier for Cocos2d-for-iPhone",
+              "[:arrow_upper_right:](http://yannickloriot.com/2013/02/the-control-extension-for-cocos2d/)"
+            ],
+            [
+              "195",
+              "[@remirobert](https://github.com/remirobert)/[**RRMessageController**](https://github.com/remirobert/RRMessageController)",
+              ":iphone::memo: RRMessageController  is a UIViewController, allows you to write a message with photos as attachment.",
+              ""
+            ],
+            [
+              "186",
+              "[@nverinaud](https://github.com/nverinaud)/[**NVSlideMenuControlle…**](https://github.com/nverinaud/NVSlideMenuController)",
+              "A slide menu done right for iOS.",
+              ""
+            ],
+            [
+              "184",
+              "[@kirualex](https://github.com/kirualex)/[**KASlideShow**](https://github.com/kirualex/KASlideShow)",
+              "Ultra-basic slideshow for iOS (ARC only). ",
+              ""
+            ],
+            [
+              "166",
+              "[@nverinaud](https://github.com/nverinaud)/[**NVUIGradientButton**](https://github.com/nverinaud/NVUIGradientButton)",
+              "A beautiful customizable iOS button, flat on iOS 7, with gradient on earlier versions.",
+              ""
+            ],
+            [
+              "143",
+              "[@tibo](https://github.com/tibo)/[**BlockRSSParser**](https://github.com/tibo/BlockRSSParser)",
+              "AFNetworkingXMLRequestOperation based RSS parser",
+              ""
+            ],
+            [
+              "136",
+              "[@autresphere](https://github.com/autresphere)/[**ASAnyCurlController**](https://github.com/autresphere/ASAnyCurlController)",
+              "iOS curl transitions from any corner and in any direction.",
+              ""
+            ],
+            [
+              "120",
+              "[@mattlawer](https://github.com/mattlawer)/[**MBSliderView**](https://github.com/mattlawer/MBSliderView)",
+              "An iOS control that looks like the 'Slide to unlock' slider",
+              ""
+            ],
+            [
+              "119",
+              "[@Dimillian](https://github.com/Dimillian)/[**DMCustomModalViewCon…**](https://github.com/Dimillian/DMCustomModalViewController)",
+              "A UIViewController which take a root view controller and present it modally with a nice animation",
+              ""
+            ],
+            [
+              "110",
+              "[@ygini](https://github.com/ygini)/[**EstimoteEditor**](https://github.com/ygini/EstimoteEditor)",
+              "This simple tool made for Estimote beacons allowing you to read data and edit minor and major numbers.",
+              ""
+            ],
+            [
+              "106",
+              "[@mattlawer](https://github.com/mattlawer)/[**iOS6-Private-Framewo…**](https://github.com/mattlawer/iOS6-Private-Frameworks)",
+              "iOS6 Private Frameworks",
+              ""
+            ],
+            [
+              "103",
+              "[@AliSoftware](https://github.com/AliSoftware)/[**OHAutoNIBi18n**](https://github.com/AliSoftware/OHAutoNIBi18n)",
+              "Automate the Localization/Translation of your XIB & interface without any additional code nor IBOutlet!",
+              ""
+            ],
+            [
+              "100",
+              "[@Dimillian](https://github.com/Dimillian)/[**DMCustomTransitions**](https://github.com/Dimillian/DMCustomTransitions)",
+              "Some custom transitions for iOS 7 ",
+              ""
+            ],
+            [
+              "96",
+              "[@maxep](https://github.com/maxep)/[**MXParallaxBackground**](https://github.com/maxep/MXParallaxBackground)",
+              "MXParallaxBackground is a simple background class for UIScrolView.",
+              ""
+            ],
+            [
+              "82",
+              "[@AliSoftware](https://github.com/AliSoftware)/[**OHAttributedStringAd…**](https://github.com/AliSoftware/OHAttributedStringAdditions)",
+              "NSAttributedString Additions that add convenience methods to manipulate attributed strings easily",
+              ""
+            ],
+            [
+              "75",
+              "[@AliSoftware](https://github.com/AliSoftware)/[**OHGridView**](https://github.com/AliSoftware/OHGridView)",
+              "View that display cells as a grid. Uses quite the same API as UITableView",
+              ""
+            ],
+            [
+              "69",
+              "[@ygini](https://github.com/ygini)/[**Hello-IT**](https://github.com/ygini/Hello-IT)",
+              "Self support apps provided by IT services to end users.",
+              ""
+            ],
+            [
+              "68",
+              "[@mattlawer](https://github.com/mattlawer)/[**iOS5-Private-Framewo…**](https://github.com/mattlawer/iOS5-Private-Frameworks)",
+              "iOS5 Private Frameworks",
+              ""
+            ],
+            [
+              "66",
+              "[@yannickl](https://github.com/yannickl)/[**Box2D-Examples**](https://github.com/yannickl/Box2D-Examples)",
+              "Box2D examples (Ragdoll, Buoyancy, etc.)  for Cocos2D for iPhone",
+              ""
+            ],
+            [
+              "61",
+              "[@StefanLage](https://github.com/StefanLage)/[**XLocation**](https://github.com/StefanLage/XLocation)",
+              "An Xcode plugin which lets you add easily a new location (GPX file) in your current xcode project using a map point or from an address",
+              ""
+            ],
+            [
+              "59",
+              "[@autresphere](https://github.com/autresphere)/[**ASTouchVisualizer**](https://github.com/autresphere/ASTouchVisualizer)",
+              "A dead simple Objective-C class to show multitouch events (for video tutorials).",
+              ""
+            ],
+            [
+              "53",
+              "[@alikaragoz](https://github.com/alikaragoz)/[**AIDatePickerControll…**](https://github.com/alikaragoz/AIDatePickerController)",
+              ":date: UIDatePicker modally presented with iOS 7 custom transitions.",
+              ""
+            ],
+            [
+              "48",
+              "[@tibo](https://github.com/tibo)/[**Redmine-Feedbacks**](https://github.com/tibo/Redmine-Feedbacks)",
+              "Get Feedbacks from your iOS App directly to the bug tracker in Redmine",
+              ""
+            ],
+            [
+              "41",
+              "[@AliSoftware](https://github.com/AliSoftware)/[**OHSwipeWheel**](https://github.com/AliSoftware/OHSwipeWheel)",
+              "A widget to choose between multiple values by swiping an horizontal wheel. This is kinda like a UIPickerView but rolling horizontally and that takes much less space",
+              ""
+            ],
+            [
+              "38",
+              "[@Dimillian](https://github.com/Dimillian)/[**DMFilterView**](https://github.com/Dimillian/DMFilterView)",
+              "A UIView Subclass which add itself at the bottom of any view.",
+              ""
+            ],
+            [
+              "37",
+              "[@iMokhles](https://github.com/iMokhles)/[**EGYWebViewController**](https://github.com/iMokhles/EGYWebViewController)",
+              "In-App Browser for iOS Apps Support UIActivity ;)",
+              ""
+            ],
+            [
+              "33",
+              "[@kirualex](https://github.com/kirualex)/[**KALayoutHelper**](https://github.com/kirualex/KALayoutHelper)",
+              "Allowing to add a subview relatively to previously added subviews (either vertically or horizontally)",
+              ""
+            ],
+            [
+              "32",
+              "[@AliSoftware](https://github.com/AliSoftware)/[**OHPDFImage**](https://github.com/AliSoftware/OHPDFImage)",
+              "A library to easily load PDF files as UIImages",
+              ""
+            ],
+            [
+              "31",
+              "[@iMokhles](https://github.com/iMokhles)/[**Tweaks-for-SideLoade…**](https://github.com/iMokhles/Tweaks-for-SideLoaded-Apps)",
+              "non jailbroken device tweaks for ( WhatsApp - Snapchat - Instagram )",
+              ""
+            ],
+            [
+              "30",
+              "[@mattlawer](https://github.com/mattlawer)/[**NotiView**](https://github.com/mattlawer/NotiView)",
+              "A CoreGraphics notification view inspired by @iHaz3 & @abart997",
+              ""
+            ],
+            [
+              "30",
+              "[@AliSoftware](https://github.com/AliSoftware)/[**Xcode-Utils**](https://github.com/AliSoftware/Xcode-Utils)",
+              "A set of useful templates, macros, etc. to use with the Apple Developer Tools",
+              ""
+            ],
+            [
+              "29",
+              "[@remirobert](https://github.com/remirobert)/[**RRCamera**](https://github.com/remirobert/RRCamera)",
+              "RRCamera is a camera handler for iOS with crop feature.",
+              ""
+            ],
+            [
+              "29",
+              "[@kirualex](https://github.com/kirualex)/[**KAStatusBar**](https://github.com/kirualex/KAStatusBar)",
+              "An ultra-light status bar status bar notification/alert library",
+              ""
+            ],
+            [
+              "28",
+              "[@iMokhles](https://github.com/iMokhles)/[**CAPostEditorViewCont…**](https://github.com/iMokhles/CAPostEditorViewController)",
+              "simple compose view controller with a lot of customizations properties",
+              ""
+            ],
+            [
+              "28",
+              "[@AliSoftware](https://github.com/AliSoftware)/[**OHStackView**](https://github.com/AliSoftware/OHStackView)",
+              "This class automatically stack its subviews and relayout them when one of them change its size.",
+              ""
+            ],
+            [
+              "28",
+              "[@ygini](https://github.com/ygini)/[**ARD-Inspector**](https://github.com/ygini/ARD-Inspector)",
+              "This tools allow you to decrypt the Apple Remote Desktop database (with the need of the Master Password) and access to the registered password.",
+              ""
+            ],
+            [
+              "28",
+              "[@StefanLage](https://github.com/StefanLage)/[**XQuit**](https://github.com/StefanLage/XQuit)",
+              "XCode plugin allowing to not quit Xcode instantly / awkwardly",
+              ""
+            ],
+            [
+              "27",
+              "[@AliSoftware](https://github.com/AliSoftware)/[**OHActionSheet**](https://github.com/AliSoftware/OHActionSheet)",
+              "UIActionSheet subclass that uses blocks to handle its callback (which make the code much more easier and readable)",
+              ""
+            ],
+            [
+              "25",
+              "[@padcms](https://github.com/padcms)/[**PadCMS-CocoaTouch-Co…**](https://github.com/padcms/PadCMS-CocoaTouch-Core)",
+              "Core CocoaTouch classes for PadCMS project",
+              ""
+            ],
+            [
+              "23",
+              "[@tibo](https://github.com/tibo)/[**ReplayRequest**](https://github.com/tibo/ReplayRequest)",
+              "Translate your NSURLRequest to a curl request to debug your API calls",
+              ""
+            ],
+            [
+              "23",
+              "[@autresphere](https://github.com/autresphere)/[**ASBPlayerSubtitling**](https://github.com/autresphere/ASBPlayerSubtitling)",
+              "AVPlayer subtitle behavior for iOS.",
+              ""
+            ],
+            [
+              "23",
+              "[@PsychoH13](https://github.com/PsychoH13)/[**C-ObjC-Blocks**](https://github.com/PsychoH13/C-ObjC-Blocks)",
+              "Runtime functions to support Apple's Blocks feature added to C, Objective-C and C++. And other niceties...",
+              ""
+            ],
+            [
+              "22",
+              "[@AliSoftware](https://github.com/AliSoftware)/[**OHAlertView-OHAction…**](https://github.com/AliSoftware/OHAlertView-OHActionSheet)",
+              "This repo is obsolete. Use OHAlertView and OHActionSheet repos now.",
+              ""
+            ],
+            [
+              "22",
+              "[@autresphere](https://github.com/autresphere)/[**ASBPlayerScrubbing**](https://github.com/autresphere/ASBPlayerScrubbing)",
+              "AVPlayer scrubber behavior for iOS",
+              ""
+            ],
+            [
+              "21",
+              "[@remirobert](https://github.com/remirobert)/[**gif-creator-ios**](https://github.com/remirobert/gif-creator-ios)",
+              "iOS Application for create animated gif with the library photos",
+              ""
+            ],
+            [
+              "20",
+              "[@AliSoftware](https://github.com/AliSoftware)/[**OHURLLoader**](https://github.com/AliSoftware/OHURLLoader)",
+              "Class that uses blocks (new to iOS4/OSX 10.6) to make URL requests/downloads much more easier",
+              ""
+            ],
+            [
+              "19",
+              "[@iMokhles](https://github.com/iMokhles)/[**IMSign**](https://github.com/iMokhles/IMSign)",
+              "advanced app signer with tweaking app feature",
+              ""
+            ],
+            [
+              "19",
+              "[@ygini](https://github.com/ygini)/[**cocoa-courses-fr**](https://github.com/ygini/cocoa-courses-fr)",
+              "Support de cours Cocoa en français",
+              ""
+            ],
+            [
+              "18",
+              "[@alikaragoz](https://github.com/alikaragoz)/[**Flickr-Search**](https://github.com/alikaragoz/Flickr-Search)",
+              "Simple iOS app which consumes the Flickr Search API",
+              ""
+            ],
+            [
+              "18",
+              "[@AliSoftware](https://github.com/AliSoftware)/[**OHAlertView**](https://github.com/AliSoftware/OHAlertView)",
+              "UIAlertView subclass that uses blocks to handle its callback (which make the code much more easier and readable) ",
+              ""
+            ],
+            [
+              "17",
+              "[@ygini](https://github.com/ygini)/[**ObjectiveREST**](https://github.com/ygini/ObjectiveREST)",
+              "A simple project to provide REST capabilities to CoreData applications.",
+              ""
+            ],
+            [
+              "17",
+              "[@Dimillian](https://github.com/Dimillian)/[**DMSocialContactsList**](https://github.com/Dimillian/DMSocialContactsList)",
+              "An objective-c contacts picker example which fetch local and Facebook contacts, merge and sort them. Plus handle selection. Useful to send SMS, Email, Facebook invitation.",
+              ""
+            ],
+            [
+              "17",
+              "[@alikaragoz](https://github.com/alikaragoz)/[**Relative-Time-Update**](https://github.com/alikaragoz/Relative-Time-Update)",
+              "A simple demo project showing how to implement the automatic time update in a UITableViewCells",
+              ""
+            ],
+            [
+              "16",
+              "[@alikaragoz](https://github.com/alikaragoz)/[**AKCircleMaskTransiti…**](https://github.com/alikaragoz/AKCircleMaskTransitionController)",
+              "Custom view controller transition using a circular mask",
+              ""
+            ],
+            [
+              "15",
+              "[@maxep](https://github.com/maxep)/[**MXPagerView**](https://github.com/maxep/MXPagerView)",
+              "Pager view with reusable page and storyboard support.",
+              ""
+            ],
+            [
+              "15",
+              "[@iMokhles](https://github.com/iMokhles)/[**iMoUDIDChanger**](https://github.com/iMokhles/iMoUDIDChanger)",
+              "change your device UDID within Xcode (Require Opee)",
+              ""
+            ],
+            [
+              "14",
+              "[@Dimillian](https://github.com/Dimillian)/[**DMRESTRequest-objc**](https://github.com/Dimillian/DMRESTRequest-objc)",
+              "Super simple objective-c REST request wrapper. ",
+              ""
+            ],
+            [
+              "14",
+              "[@yannickl](https://github.com/yannickl)/[**YLFlowingMenu**](https://github.com/yannickl/YLFlowingMenu)",
+              "The Objective-C counterpart of FlowingMenu",
+              "[:arrow_upper_right:](https://github.com/yannickl/FlowingMenu)"
+            ],
+            [
+              "13",
+              "[@kirualex](https://github.com/kirualex)/[**ColourLove**](https://github.com/kirualex/ColourLove)",
+              "A sample app for iOS",
+              ""
+            ],
+            [
+              "13",
+              "[@AliSoftware](https://github.com/AliSoftware)/[**AliJSONRPC**](https://github.com/AliSoftware/AliJSONRPC)",
+              "A JSON-RPC Framework for Cocoa. Supports JSON-RPC 1.0, 1.1 and 2.0",
+              "[:arrow_upper_right:](http://wiki.github.com/AliSoftware/AliJSONRPC/)"
+            ],
+            [
+              "12",
+              "[@yannickl](https://github.com/yannickl)/[**YLTCPBroadcaster**](https://github.com/yannickl/YLTCPBroadcaster)",
+              "Fast and easy-to-use network scanner to locate every host with a given open port",
+              "[:arrow_upper_right:](http://yannickloriot.com/library/ios/yltcpbroadcaster/)"
+            ],
+            [
+              "12",
+              "[@mattlawer](https://github.com/mattlawer)/[**KillBackground**](https://github.com/mattlawer/KillBackground)",
+              "Kill all your iOS apps that runs in background.",
+              ""
+            ],
+            [
+              "12",
+              "[@maxep](https://github.com/maxep)/[**PicoKit**](https://github.com/maxep/PicoKit)",
+              "A light iOS web service client framework.",
+              ""
+            ],
+            [
+              "12",
+              "[@iMokhles](https://github.com/iMokhles)/[**TheosUI**](https://github.com/iMokhles/TheosUI)",
+              "theos User Interface to make creating tweaks, apps, libraries etc on iOS easy",
+              ""
+            ],
+            [
+              "12",
+              "[@remirobert](https://github.com/remirobert)/[**RRCustomPageControll…**](https://github.com/remirobert/RRCustomPageController)",
+              "Custom PageViewController for iOS",
+              ""
+            ],
+            [
+              "11",
+              "[@maxep](https://github.com/maxep)/[**DiscogsAPI**](https://github.com/maxep/DiscogsAPI)",
+              "An Objective-C interface for Discogs API v2.0",
+              ""
+            ],
+            [
+              "11",
+              "[@iMokhles](https://github.com/iMokhles)/[**In-Tweak-Purchase**](https://github.com/iMokhles/In-Tweak-Purchase)",
+              "in-tweak purchase system works with Paypal-SDK and using Parse framework to save informations",
+              ""
+            ],
+            [
+              "10",
+              "[@iMokhles](https://github.com/iMokhles)/[**RevealMenu**](https://github.com/iMokhles/RevealMenu)",
+              "the way it should be",
+              ""
+            ],
+            [
+              "9",
+              "[@Dimillian](https://github.com/Dimillian)/[**DMGesturedNavigation…**](https://github.com/Dimillian/DMGesturedNavigationController)",
+              "",
+              ""
+            ],
+            [
+              "9",
+              "[@tibo](https://github.com/tibo)/[**TLLNameFromDevice**](https://github.com/tibo/TLLNameFromDevice)",
+              "Simple UIDevice category which make you able to retrieve the user firstname and lastname from the device name.",
+              ""
+            ],
+            [
+              "9",
+              "[@remirobert](https://github.com/remirobert)/[**BaoMonkey**](https://github.com/remirobert/BaoMonkey)",
+              "iOS game.",
+              "[:arrow_upper_right:](http://www.baomonkey.com)"
+            ],
+            [
+              "8",
+              "[@ygini](https://github.com/ygini)/[**GHUpdate**](https://github.com/ygini/GHUpdate)",
+              "Framework allow OS X app update via Github release API. If latest release name is different that the current version number, the update is started.",
+              ""
+            ],
+            [
+              "8",
+              "[@iMokhles](https://github.com/iMokhles)/[**FavoriteTweaks**](https://github.com/iMokhles/FavoriteTweaks)",
+              "Put your favourites tweaks in one place.",
+              ""
+            ],
+            [
+              "8",
+              "[@tibo](https://github.com/tibo)/[**GHUnit-Template**](https://github.com/tibo/GHUnit-Template)",
+              "GHUnit test case template",
+              ""
+            ],
+            [
+              "7",
+              "[@iMokhles](https://github.com/iMokhles)/[**SysSecInfoLoader**](https://github.com/iMokhles/SysSecInfoLoader)",
+              "as apple will pull this app from AppStore ( i decided to release it as side load version ) [ FREE to stop fraudster little bit )",
+              ""
+            ],
+            [
+              "7",
+              "[@iMokhles](https://github.com/iMokhles)/[**MyOwnTweaks**](https://github.com/iMokhles/MyOwnTweaks)",
+              "all my OpenIN and CopyTXT Free Tweaks, is open source now ( have fun ) and don't steal.",
+              ""
+            ],
+            [
+              "7",
+              "[@autresphere](https://github.com/autresphere)/[**ASFormatterCache**](https://github.com/autresphere/ASFormatterCache)",
+              "An iOS cache that gives easy access to reusable date formatters and auto-update formatters on locale change.",
+              ""
+            ],
+            [
+              "7",
+              "[@iMokhles](https://github.com/iMokhles)/[**WAEnhancer**](https://github.com/iMokhles/WAEnhancer)",
+              "most wanted features for WhatsApp",
+              ""
+            ],
+            [
+              "7",
+              "[@mattlawer](https://github.com/mattlawer)/[**iPhone-4S-SpringBoar…**](https://github.com/mattlawer/iPhone-4S-SpringBoard-Headers)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@PsychoH13](https://github.com/PsychoH13)/[**KeyValueObserving-Bl…**](https://github.com/PsychoH13/KeyValueObserving-Blocks)",
+              "Add the possibility to observe key-value changes using a block.",
+              ""
+            ],
+            [
+              "6",
+              "[@padcms](https://github.com/padcms)/[**PadCMS-CocoaTouch-Sa…**](https://github.com/padcms/PadCMS-CocoaTouch-SampleApplication)",
+              "PadCMS CocoaTouch sample (demo) project",
+              ""
+            ],
+            [
+              "6",
+              "[@PsychoH13](https://github.com/PsychoH13)/[**PSYDataAdditions**](https://github.com/PsychoH13/PSYDataAdditions)",
+              "NSData and NSMutableData method additions",
+              ""
+            ],
+            [
+              "6",
+              "[@AliSoftware](https://github.com/AliSoftware)/[**ObjcSwitch**](https://github.com/AliSoftware/ObjcSwitch)",
+              "A category to allow you to use the \"switch/case\"-like syntax with NSObjects (and not just integers/enums!)",
+              ""
+            ],
+            [
+              "6",
+              "[@remirobert](https://github.com/remirobert)/[**RRColorAverageBanner**](https://github.com/remirobert/RRColorAverageBanner)",
+              "Banner with color average of a UIImage, inside a UIImageView for display a title or something else.",
+              ""
+            ],
+            [
+              "5",
+              "[@kirualex](https://github.com/kirualex)/[**KANibHelper**](https://github.com/kirualex/KANibHelper)",
+              "Automatic Nib handling for 3.5 and 4 inches screens",
+              ""
+            ],
+            [
+              "5",
+              "[@iMokhles](https://github.com/iMokhles)/[**WallActivity**](https://github.com/iMokhles/WallActivity)",
+              "UIActivity subclass to set iOS Wallpaper ( uses some private APIs )",
+              ""
+            ],
+            [
+              "5",
+              "[@nverinaud](https://github.com/nverinaud)/[**NinePatch-Laboratory**](https://github.com/nverinaud/NinePatch-Laboratory)",
+              "A prototype for nine patch images on iOS.",
+              ""
+            ],
+            [
+              "5",
+              "[@AliSoftware](https://github.com/AliSoftware)/[**KeyPathObserver**](https://github.com/AliSoftware/KeyPathObserver)",
+              "Execute blocks when a given property changes (this is KVO, the block-style way)",
+              ""
+            ],
+            [
+              "5",
+              "[@iMokhles](https://github.com/iMokhles)/[**WAE9Loader**](https://github.com/iMokhles/WAE9Loader)",
+              "WAEnhancer9 sideload version ( FULL version )",
+              ""
+            ],
+            [
+              "4",
+              "[@iMokhles](https://github.com/iMokhles)/[**ResetIcons**](https://github.com/iMokhles/ResetIcons)",
+              "reset homescreen icons using flipswitch ;)",
+              ""
+            ],
+            [
+              "4",
+              "[@iMokhles](https://github.com/iMokhles)/[**NoSandX**](https://github.com/iMokhles/NoSandX)",
+              "Access filesystem from Sandbox",
+              ""
+            ],
+            [
+              "4",
+              "[@iMokhles](https://github.com/iMokhles)/[**iPhone5S-iOS8.1-SBHe…**](https://github.com/iMokhles/iPhone5S-iOS8.1-SBHeaders)",
+              "iOS8.1 SpringBoard Header (iPhone5S)",
+              ""
+            ],
+            [
+              "4",
+              "[@StefanLage](https://github.com/StefanLage)/[**ScreenRecorder**](https://github.com/StefanLage/ScreenRecorder)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@remirobert](https://github.com/remirobert)/[**RRGIFAlertPanel**](https://github.com/remirobert/RRGIFAlertPanel)",
+              ":shipit: Xcode plugin for replace the AlertPanel build succeeded and failed by an animated GIF of your choice !",
+              ""
+            ],
+            [
+              "4",
+              "[@iMokhles](https://github.com/iMokhles)/[**InstaOpenIN**](https://github.com/iMokhles/InstaOpenIN)",
+              "share instagram images/videos to other apps",
+              ""
+            ],
+            [
+              "4",
+              "[@abiaad](https://github.com/abiaad)/[**PAASwitch**](https://github.com/abiaad/PAASwitch)",
+              "iOS lazy switch",
+              ""
+            ],
+            [
+              "4",
+              "[@remirobert](https://github.com/remirobert)/[**Naruto-shippuden-iOS**](https://github.com/remirobert/Naruto-shippuden-iOS)",
+              "Application iOS, for download and watch Naruto shippuden anime",
+              ""
+            ],
+            [
+              "4",
+              "[@abiaad](https://github.com/abiaad)/[**PAAShortnr**](https://github.com/abiaad/PAAShortnr)",
+              "Destroy your long URL with a Bit.ly shortener iOS class",
+              ""
+            ],
+            [
+              "4",
+              "[@iMokhles](https://github.com/iMokhles)/[**iMoDevTools**](https://github.com/iMokhles/iMoDevTools)",
+              "useful library for developers / make ur life easier :) and reduce your code.",
+              ""
+            ],
+            [
+              "4",
+              "[@iMokhles](https://github.com/iMokhles)/[**DevelopersLib**](https://github.com/iMokhles/DevelopersLib)",
+              "this is an iMoDevTools clone for everyone :) ( An advanced library for developers!!)",
+              ""
+            ],
+            [
+              "3",
+              "[@iMokhles](https://github.com/iMokhles)/[**iOS9-QuickReply-Demo**](https://github.com/iMokhles/iOS9-QuickReply-Demo)",
+              "test the new iOS9 Notification Action Behavior : UIUserNotificationActionBehaviorTextInpu…",
+              ""
+            ],
+            [
+              "3",
+              "[@iMokhles](https://github.com/iMokhles)/[**ShareTweak**](https://github.com/iMokhles/ShareTweak)",
+              "Share tweaks information with others",
+              ""
+            ],
+            [
+              "3",
+              "[@tibo](https://github.com/tibo)/[**Cocoaheads-Doxygen**](https://github.com/tibo/Cocoaheads-Doxygen)",
+              "Présentation Cocoaheads Bordeaux du 09/12/2010 sur la documentation",
+              ""
+            ],
+            [
+              "3",
+              "[@iMokhles](https://github.com/iMokhles)/[**WhatsAtor**](https://github.com/iMokhles/WhatsAtor)",
+              "Good Example To Create Activator Listener And Use 3rd-Party In Cydia Tweak",
+              ""
+            ],
+            [
+              "3",
+              "[@iMokhles](https://github.com/iMokhles)/[**whatsappwidget**](https://github.com/iMokhles/whatsappwidget)",
+              "WhatsApp Widget For (ProWidgets)",
+              ""
+            ],
+            [
+              "3",
+              "[@iMokhles](https://github.com/iMokhles)/[**iPhone5S-iOS8.1-SBHe…**](https://github.com/iMokhles/iPhone5S-iOS8.1-SBHeaders-2)",
+              "iOS8.1 SpringBoard Header (iPhone5S) Part - 2",
+              ""
+            ],
+            [
+              "3",
+              "[@mattlawer](https://github.com/mattlawer)/[**SlideCenter**](https://github.com/mattlawer/SlideCenter)",
+              "iOS ≥ 5.0 Notification Center Widget",
+              ""
+            ],
+            [
+              "3",
+              "[@iMokhles](https://github.com/iMokhles)/[**Camera.app-Headers-i…**](https://github.com/iMokhles/Camera.app-Headers-iOS-6.1.5)",
+              "Camera iOS 6.1.5 Headers",
+              ""
+            ],
+            [
+              "3",
+              "[@iMokhles](https://github.com/iMokhles)/[**WAQuoteMessage**](https://github.com/iMokhles/WAQuoteMessage)",
+              "enable hidden WhatsApp feature Reply to specific message",
+              ""
+            ],
+            [
+              "3",
+              "[@iMokhles](https://github.com/iMokhles)/[**WhatsApp-Call-Choose…**](https://github.com/iMokhles/WhatsApp-Call-Chooser)",
+              "choose between cellular call and whatsapp call",
+              ""
+            ],
+            [
+              "3",
+              "[@iMokhles](https://github.com/iMokhles)/[**INGEnhancer**](https://github.com/iMokhles/INGEnhancer)",
+              "instagram enhancer tweak ( Share/Save images and videos ) - Copy comments texts - zoom photos",
+              ""
+            ],
+            [
+              "3",
+              "[@iMokhles](https://github.com/iMokhles)/[**PSColorPicker**](https://github.com/iMokhles/PSColorPicker)",
+              "PSViewController subclass to easily add a color picker to preferences",
+              ""
+            ],
+            [
+              "3",
+              "[@abarisain](https://github.com/abarisain)/[**Discorra**](https://github.com/abarisain/Discorra)",
+              "A markdown-powered static blog engine written in Objective-C and Cocoa",
+              ""
+            ],
+            [
+              "2",
+              "[@remirobert](https://github.com/remirobert)/[**RRSoundStatic**](https://github.com/remirobert/RRSoundStatic)",
+              "Library to manage communication with ultra sound on iOS",
+              ""
+            ],
+            [
+              "2",
+              "[@StefanLage](https://github.com/StefanLage)/[**MacLocker**](https://github.com/StefanLage/MacLocker)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@tibo](https://github.com/tibo)/[**Kiwi-Template**](https://github.com/tibo/Kiwi-Template)",
+              "Kiwi test case template",
+              ""
+            ],
+            [
+              "2",
+              "[@tibo](https://github.com/tibo)/[**DisqusThreadsWrapper**](https://github.com/tibo/DisqusThreadsWrapper)",
+              "Basic Disqus threads usage from the url of a blog post (tested as used with wordpress)",
+              ""
+            ],
+            [
+              "2",
+              "[@alikaragoz](https://github.com/alikaragoz)/[**Keolocation**](https://github.com/alikaragoz/Keolocation)",
+              "Simple iOS application which partially consumes the Keolis API",
+              ""
+            ],
+            [
+              "2",
+              "[@mattlawer](https://github.com/mattlawer)/[**GKFriendsAdder**](https://github.com/mattlawer/GKFriendsAdder)",
+              "Add all your Game-Center recommended friends in one tap.",
+              ""
+            ],
+            [
+              "2",
+              "[@remirobert](https://github.com/remirobert)/[**Wizzem-iOS**](https://github.com/remirobert/Wizzem-iOS)",
+              "Wizzem APP",
+              ""
+            ],
+            [
+              "2",
+              "[@nverinaud](https://github.com/nverinaud)/[**GridViews-Prototypes**](https://github.com/nverinaud/GridViews-Prototypes)",
+              "A bundle of multiple Grid View projects.",
+              ""
+            ],
+            [
+              "2",
+              "[@ygini](https://github.com/ygini)/[**rrmail**](https://github.com/ygini/rrmail)",
+              "E-mail rerouting system made by a for OS X System Administrator.",
               ""
             ]
           ]
