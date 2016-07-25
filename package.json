@@ -57,7 +57,8 @@
           "[Clojure](#clojure)",
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
-          "[Haskell](#haskell)"
+          "[Haskell](#haskell)",
+          "[Lua](#lua)"
         ]
       },
       {
@@ -6626,6 +6627,357 @@
               "[@phaazon](https://github.com/phaazon)/[**event**](https://github.com/phaazon/event)",
               "Monoidal, monadic and first-class events.",
               "[:arrow_upper_right:](http://hackage.haskell.org/package/event)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Lua #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "224",
+              "[@fab13n](https://github.com/fab13n)/[**metalua**](https://github.com/fab13n/metalua)",
+              "The metalua programming language",
+              "[:arrow_upper_right:](http://metalua.luaforge.net)"
+            ],
+            [
+              "127",
+              "[@ludc](https://github.com/ludc)/[**rltorch**](https://github.com/ludc/rltorch)",
+              "A RL package for Torch that can also be used with openai gym",
+              ""
+            ],
+            [
+              "85",
+              "[@bluebird75](https://github.com/bluebird75)/[**luaunit**](https://github.com/bluebird75/luaunit)",
+              "Luaunit is a unit-testing framework for Lua, in the spirit of many others unit-testing framework. Luaunit let's you write test functions, test classes with test methods and setup/teardown functionality. ",
+              ""
+            ],
+            [
+              "61",
+              "[@golgote](https://github.com/golgote)/[**neturl**](https://github.com/golgote/neturl)",
+              "URL and Query string parser, builder, normalizer for Lua",
+              ""
+            ],
+            [
+              "49",
+              "[@fstrub95](https://github.com/fstrub95)/[**Autoencoders_cf**](https://github.com/fstrub95/Autoencoders_cf)",
+              "",
+              ""
+            ],
+            [
+              "47",
+              "[@catwell](https://github.com/catwell)/[**luajit-msgpack-pure**](https://github.com/catwell/luajit-msgpack-pure)",
+              "MessagePack for LuaJIT (using FFI, no bindings)",
+              ""
+            ],
+            [
+              "25",
+              "[@adriweb](https://github.com/adriweb)/[**EEPro-for-Nspire**](https://github.com/adriweb/EEPro-for-Nspire)",
+              "FormulaPro: An open-source EEPro-like application for the TI-Nspire, written in Lua.",
+              "[:arrow_upper_right:](https://tiplanet.org/formulapro/)"
+            ],
+            [
+              "24",
+              "[@catwell](https://github.com/catwell)/[**cw-lua**](https://github.com/catwell/cw-lua)",
+              "Catwell's Lua playground",
+              ""
+            ],
+            [
+              "24",
+              "[@ildyria](https://github.com/ildyria)/[**iFilger**](https://github.com/ildyria/iFilger)",
+              "Light power aura classic with aura by defaults.",
+              ""
+            ],
+            [
+              "23",
+              "[@catwell](https://github.com/catwell)/[**lua-toolbox**](https://github.com/catwell/lua-toolbox)",
+              "Lua Toolbox website",
+              "[:arrow_upper_right:](https://lua-toolbox.com/)"
+            ],
+            [
+              "22",
+              "[@Tommy228](https://github.com/Tommy228)/[**TTTDamagelogs**](https://github.com/Tommy228/TTTDamagelogs)",
+              "Damagelogs for Trouble in Terrorist Town (a Garry's Mod gamemode)",
+              ""
+            ],
+            [
+              "21",
+              "[@fab13n](https://github.com/fab13n)/[**metalua-parser**](https://github.com/fab13n/metalua-parser)",
+              "luarock packaging of Metalua's parser",
+              ""
+            ],
+            [
+              "19",
+              "[@superzazu](https://github.com/superzazu)/[**denver.lua**](https://github.com/superzazu/denver.lua)",
+              "a simple library to help you play custom waveforms with LÖVE",
+              ""
+            ],
+            [
+              "18",
+              "[@catwell](https://github.com/catwell)/[**haricot**](https://github.com/catwell/haricot)",
+              "Beanstalk client for Lua",
+              ""
+            ],
+            [
+              "18",
+              "[@catwell](https://github.com/catwell)/[**lua-multipart-post**](https://github.com/catwell/lua-multipart-post)",
+              "HTTP Multipart Post helper that does just that.",
+              ""
+            ],
+            [
+              "18",
+              "[@ludc](https://github.com/ludc)/[**social_network_diffu…**](https://github.com/ludc/social_network_diffusion_embeddings)",
+              "Learning Social Network Embeddings for Predicting Information Diffusion - WSDM 2014",
+              ""
+            ],
+            [
+              "14",
+              "[@golgote](https://github.com/golgote)/[**lua-resty-info**](https://github.com/golgote/lua-resty-info)",
+              "HTML-rendered information about installation of Nginx with ngx_lua module and OpenResty",
+              ""
+            ],
+            [
+              "14",
+              "[@Gael-de-Sailly](https://github.com/Gael-de-Sailly)/[**valleys_mapgen**](https://github.com/Gael-de-Sailly/valleys_mapgen)",
+              "Mapgen mod for Minetest 0.4.12+. Work in progress. Has been merged in minetest: https://github.com/minetest/minetest/com…",
+              "[:arrow_upper_right:](https://forum.minetest.net/viewtopic.php?f=9&t=11430)"
+            ],
+            [
+              "11",
+              "[@catwell](https://github.com/catwell)/[**cwtest**](https://github.com/catwell/cwtest)",
+              "Tiny Lua test helper.",
+              ""
+            ],
+            [
+              "10",
+              "[@martin-damien](https://github.com/martin-damien)/[**babel**](https://github.com/martin-damien/babel)",
+              "Babel is a module to enable internationalisation in Lua applications. It is designed to work with LÖVE 2D too.",
+              ""
+            ],
+            [
+              "9",
+              "[@golgote](https://github.com/golgote)/[**frigo**](https://github.com/golgote/frigo)",
+              "Frigo is a simple database wrapper and ORM solution for Lua built on top of LuaSQL.",
+              ""
+            ],
+            [
+              "9",
+              "[@superzazu](https://github.com/superzazu)/[**zelda-ooc**](https://github.com/superzazu/zelda-ooc)",
+              "Zelda gameboy-like game made with LÖVE2D",
+              "[:arrow_upper_right:](www.nicolasallemand.com)"
+            ],
+            [
+              "9",
+              "[@Tommy228](https://github.com/Tommy228)/[**TTT_Spectator_Deathm…**](https://github.com/Tommy228/TTT_Spectator_Deathmatch)",
+              "Spectator Deathmatch for Trouble in Terrorist Town (a Garry's Mod gamemode)",
+              ""
+            ],
+            [
+              "9",
+              "[@catwell](https://github.com/catwell)/[**lua-http-digest**](https://github.com/catwell/lua-http-digest)",
+              "Client side HTTP Digest Authentication for Lua",
+              ""
+            ],
+            [
+              "8",
+              "[@catwell](https://github.com/catwell)/[**iris-lua**](https://github.com/catwell/iris-lua)",
+              "Iris client for Lua",
+              ""
+            ],
+            [
+              "8",
+              "[@catwell](https://github.com/catwell)/[**fakeredis**](https://github.com/catwell/fakeredis)",
+              "A Redis mock for Lua with the same interface as redis-lua.",
+              ""
+            ],
+            [
+              "8",
+              "[@catwell](https://github.com/catwell)/[**badakhshan**](https://github.com/catwell/badakhshan)",
+              "Lapis skeleton application",
+              ""
+            ],
+            [
+              "7",
+              "[@adriweb](https://github.com/adriweb)/[**BetterLuaAPI-for-TI-…**](https://github.com/adriweb/BetterLuaAPI-for-TI-Nspire)",
+              "Improves the existing lua api for the Ti-Nspire",
+              ""
+            ],
+            [
+              "6",
+              "[@Adirelle](https://github.com/Adirelle)/[**InlineAura**](https://github.com/Adirelle/InlineAura)",
+              "WoW addon: inlined aura feedback in action buttons",
+              ""
+            ],
+            [
+              "6",
+              "[@ExtReMLapin](https://github.com/ExtReMLapin)/[**TrackIR_GMod**](https://github.com/ExtReMLapin/TrackIR_GMod)",
+              "TrackIR for Garry's Mod",
+              ""
+            ],
+            [
+              "6",
+              "[@fstrub95](https://github.com/fstrub95)/[**nnsparse**](https://github.com/fstrub95/nnsparse)",
+              "Tools for sparse networks with the Torch Framework",
+              ""
+            ],
+            [
+              "5",
+              "[@catwell](https://github.com/catwell)/[**lua-mirrorfs**](https://github.com/catwell/lua-mirrorfs)",
+              "MirrorFS is a Lua module that implements a FUSE mirroring a directory.",
+              ""
+            ],
+            [
+              "5",
+              "[@fab13n](https://github.com/fab13n)/[**metalua-compiler**](https://github.com/fab13n/metalua-compiler)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@superzazu](https://github.com/superzazu)/[**sandwich.lua**](https://github.com/superzazu/sandwich.lua)",
+              "A LÖVE2D resource manager",
+              ""
+            ],
+            [
+              "4",
+              "[@altitude](https://github.com/altitude)/[**Cathode**](https://github.com/altitude/Cathode)",
+              "A löve2d graphic library",
+              ""
+            ],
+            [
+              "4",
+              "[@adriweb](https://github.com/adriweb)/[**LuaCAS**](https://github.com/adriweb/LuaCAS)",
+              "A start of a very simple CAS engine, in Lua.",
+              ""
+            ],
+            [
+              "4",
+              "[@ExtReMLapin](https://github.com/ExtReMLapin)/[**GTerm**](https://github.com/ExtReMLapin/GTerm)",
+              "Shell for Garry's Mod",
+              ""
+            ],
+            [
+              "4",
+              "[@golgote](https://github.com/golgote)/[**lua-resty-hawk**](https://github.com/golgote/lua-resty-hawk)",
+              "Hawk authentication on Nginx with Lua and OpenResty",
+              ""
+            ],
+            [
+              "4",
+              "[@catwell](https://github.com/catwell)/[**itc.lua**](https://github.com/catwell/itc.lua)",
+              "A Lua implementation of Interval Tree Clocks",
+              ""
+            ],
+            [
+              "3",
+              "[@LeMagnesium](https://github.com/LeMagnesium)/[**minetest-mod-metatoo…**](https://github.com/LeMagnesium/minetest-mod-metatools)",
+              "A mod for minetest adding ways to navigate through nodes' metadatas",
+              ""
+            ],
+            [
+              "3",
+              "[@fab13n](https://github.com/fab13n)/[**wshop12**](https://github.com/fab13n/wshop12)",
+              "Code from Lua Workshop '12",
+              ""
+            ],
+            [
+              "3",
+              "[@Adirelle](https://github.com/Adirelle)/[**oUF_Adirelle**](https://github.com/Adirelle/oUF_Adirelle)",
+              "WoW addon: oUF-based unit and raid frames.",
+              ""
+            ],
+            [
+              "3",
+              "[@WilliamDASILVA](https://github.com/WilliamDASILVA)/[**thesimsmta-worldgen**](https://github.com/WilliamDASILVA/thesimsmta-worldgen)",
+              "The world generator for the gamemode The Sims MTA",
+              ""
+            ],
+            [
+              "2",
+              "[@Adirelle](https://github.com/Adirelle)/[**ezFishing**](https://github.com/Adirelle/ezFishing)",
+              "WoW addon library: fishing made easy.",
+              ""
+            ],
+            [
+              "2",
+              "[@adriweb](https://github.com/adriweb)/[**Nspire-BreakOut**](https://github.com/adriweb/Nspire-BreakOut)",
+              "A BreakOut (\"Casse-Brique\") like game for the TI-Nspire, written in Lua.",
+              ""
+            ],
+            [
+              "2",
+              "[@Lockeid](https://github.com/Lockeid)/[**cargBags_Gnomed**](https://github.com/Lockeid/cargBags_Gnomed)",
+              "A filtered cargBags layout",
+              "[:arrow_upper_right:](http://www.wowinterface.com/downloads/info13120-cargBags_Gnomed.html)"
+            ],
+            [
+              "2",
+              "[@ildyria](https://github.com/ildyria)/[**Tukui_DrTracker**](https://github.com/ildyria/Tukui_DrTracker)",
+              "A little DrTracker for Tukui Arena Frames",
+              ""
+            ],
+            [
+              "2",
+              "[@Lockeid](https://github.com/Lockeid)/[**RaccoonUI**](https://github.com/Lockeid/RaccoonUI)",
+              "Adds many files to SharedMedia, custom bottom bar",
+              ""
+            ],
+            [
+              "2",
+              "[@ExtReMLapin](https://github.com/ExtReMLapin)/[**GryMod**](https://github.com/ExtReMLapin/GryMod)",
+              "Crysis for Garry's mod",
+              ""
+            ],
+            [
+              "2",
+              "[@adriweb](https://github.com/adriweb)/[**LuaTowerDefense**](https://github.com/adriweb/LuaTowerDefense)",
+              "A Tower Defense Game made in Nspire Lua.",
+              ""
+            ],
+            [
+              "2",
+              "[@Calinou](https://github.com/Calinou)/[**nyan_tools**](https://github.com/Calinou/nyan_tools)",
+              "Nyan Tools",
+              ""
+            ],
+            [
+              "2",
+              "[@Lockeid](https://github.com/Lockeid)/[**Erie**](https://github.com/Lockeid/Erie)",
+              "My fork of Haste's oChat, planning to add a GUI and some options",
+              ""
+            ],
+            [
+              "2",
+              "[@aurelien-defossez](https://github.com/aurelien-defossez)/[**Eat-em-all-tablet**](https://github.com/aurelien-defossez/Eat-em-all-tablet)",
+              "Eat'em All Tablet is a tablet game inspired from another project of mine, a web-based game done during the Game Dev Party, 2nd edition.",
+              ""
+            ],
+            [
+              "2",
+              "[@Lockeid](https://github.com/Lockeid)/[**Assign**](https://github.com/Lockeid/Assign)",
+              "Wow Addon",
+              "[:arrow_upper_right:](http://www.wowinterface.com/downloads/info13232-Assign.html)"
+            ],
+            [
+              "2",
+              "[@Lockeid](https://github.com/Lockeid)/[**oUF_Deith**](https://github.com/Lockeid/oUF_Deith)",
+              "My personnal layout for oUF",
+              ""
+            ],
+            [
+              "2",
+              "[@Adirelle](https://github.com/Adirelle)/[**AdiDebug**](https://github.com/Adirelle/AdiDebug)",
+              "Debugging helper frame",
+              ""
             ]
           ]
         }
