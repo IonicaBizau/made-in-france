@@ -56,7 +56,8 @@
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
           "[CoffeeScript](#coffeescript)",
-          "[Go](#go)"
+          "[Go](#go)",
+          "[Haskell](#haskell)"
         ]
       },
       {
@@ -6076,6 +6077,555 @@
               "[@remyoudompheng](https://github.com/remyoudompheng)/[**go-dns**](https://github.com/remyoudompheng/go-dns)",
               "Go module for DNS queries",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Haskell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "111",
+              "[@1HaskellADay](https://github.com/1HaskellADay)/[**1HAD**](https://github.com/1HaskellADay/1HAD)",
+              "1 Haskell A Day exercises",
+              ""
+            ],
+            [
+              "85",
+              "[@alpmestan](https://github.com/alpmestan)/[**hnn**](https://github.com/alpmestan/hnn)",
+              "haskell neural network library",
+              "[:arrow_upper_right:](http://hackage.haskell.org/package/hnn)"
+            ],
+            [
+              "85",
+              "[@phaazon](https://github.com/phaazon)/[**luminance**](https://github.com/phaazon/luminance)",
+              "Type-safe, type-level and stateless Haskell graphics framework",
+              "[:arrow_upper_right:](http://hackage.haskell.org/package/luminance)"
+            ],
+            [
+              "51",
+              "[@alpmestan](https://github.com/alpmestan)/[**servant**](https://github.com/alpmestan/servant)",
+              "Moved to http://github.com/haskell-servant",
+              ""
+            ],
+            [
+              "42",
+              "[@bartavelle](https://github.com/bartavelle)/[**language-puppet**](https://github.com/bartavelle/language-puppet)",
+              "A library to work with Puppet manifests, test them and eventually replace everything ruby.",
+              ""
+            ],
+            [
+              "41",
+              "[@divarvel](https://github.com/divarvel)/[**jDbT**](https://github.com/divarvel/jDbT)",
+              "jinx Database Tools",
+              ""
+            ],
+            [
+              "39",
+              "[@JPMoresmau](https://github.com/JPMoresmau)/[**BuildWrapper**](https://github.com/JPMoresmau/BuildWrapper)",
+              "Utility to manage haskell projects for an IDE",
+              ""
+            ],
+            [
+              "33",
+              "[@yogsototh](https://github.com/yogsototh)/[**learn_haskell**](https://github.com/yogsototh/learn_haskell)",
+              "An attemps to make a document to help learn Haskell",
+              ""
+            ],
+            [
+              "26",
+              "[@yogsototh](https://github.com/yogsototh)/[**yosog**](https://github.com/yogsototh/yosog)",
+              "A yesod tutorial",
+              ""
+            ],
+            [
+              "18",
+              "[@yogsototh](https://github.com/yogsototh)/[**holy-project**](https://github.com/yogsototh/holy-project)",
+              "Initializer of Haskell project (cabal, git, tests...) + good tutorial",
+              ""
+            ],
+            [
+              "18",
+              "[@JPMoresmau](https://github.com/JPMoresmau)/[**dbIDE**](https://github.com/JPMoresmau/dbIDE)",
+              "Prototype of a web based, database driven Haskell IDE",
+              ""
+            ],
+            [
+              "18",
+              "[@JPMoresmau](https://github.com/JPMoresmau)/[**HGraphStorage**](https://github.com/JPMoresmau/HGraphStorage)",
+              "Graph database in Haskell",
+              ""
+            ],
+            [
+              "17",
+              "[@alpmestan](https://github.com/alpmestan)/[**HNN-0.1**](https://github.com/alpmestan/HNN-0.1)",
+              "Deprecated in favor of...",
+              "[:arrow_upper_right:](http://github.com/alpmestan/hnn)"
+            ],
+            [
+              "17",
+              "[@JPMoresmau](https://github.com/JPMoresmau)/[**rnn**](https://github.com/JPMoresmau/rnn)",
+              "playing with recurrent neural networks",
+              ""
+            ],
+            [
+              "16",
+              "[@JPMoresmau](https://github.com/JPMoresmau)/[**scion-class-browser**](https://github.com/JPMoresmau/scion-class-browser)",
+              "Scion part for EclipseFP Class Browser",
+              ""
+            ],
+            [
+              "15",
+              "[@phaazon](https://github.com/phaazon)/[**cheddar**](https://github.com/phaazon/cheddar)",
+              "GLSL Haskell EDSL",
+              ""
+            ],
+            [
+              "14",
+              "[@bartavelle](https://github.com/bartavelle)/[**hruby**](https://github.com/bartavelle/hruby)",
+              "Embed Ruby in your Haskell program.",
+              ""
+            ],
+            [
+              "14",
+              "[@alpmestan](https://github.com/alpmestan)/[**taggy-lens**](https://github.com/alpmestan/taggy-lens)",
+              "lenses, folds, traversals, prisms for taggy",
+              "[:arrow_upper_right:](http://hackage.haskell.org/package/taggy-lens)"
+            ],
+            [
+              "14",
+              "[@JPMoresmau](https://github.com/JPMoresmau)/[**HJVM**](https://github.com/JPMoresmau/HJVM)",
+              "Invoke and manage a Java Virtual Machine from Haskell",
+              ""
+            ],
+            [
+              "13",
+              "[@alpmestan](https://github.com/alpmestan)/[**kmeans-vector**](https://github.com/alpmestan/kmeans-vector)",
+              "A Data.Vector based implementation of the kmeans clustering algorithm",
+              "[:arrow_upper_right:](http://hackage.haskell.org/package/kmeans-vector)"
+            ],
+            [
+              "12",
+              "[@YPares](https://github.com/YPares)/[**Haskell-OpenGL3.1-Tu…**](https://github.com/YPares/Haskell-OpenGL3.1-Tutos)",
+              "",
+              ""
+            ],
+            [
+              "11",
+              "[@mboes](https://github.com/mboes)/[**th-lift**](https://github.com/mboes/th-lift)",
+              "Derive Template Haskell's Lift class for datatypes.",
+              ""
+            ],
+            [
+              "11",
+              "[@mboes](https://github.com/mboes)/[**hmk**](https://github.com/mboes/hmk)",
+              "A pure Haskell implementation of Plan9's mk",
+              ""
+            ],
+            [
+              "10",
+              "[@bartavelle](https://github.com/bartavelle)/[**7startups**](https://github.com/bartavelle/7startups)",
+              "A whirlwind tour of some Haskell design decisions",
+              ""
+            ],
+            [
+              "9",
+              "[@mboes](https://github.com/mboes)/[**dedukti**](https://github.com/mboes/dedukti)",
+              "A type-checker for the λΠ-modulo calculus.",
+              "[:arrow_upper_right:](http://www.lix.polytechnique.fr/dedukti)"
+            ],
+            [
+              "9",
+              "[@phaazon](https://github.com/phaazon)/[**smoothie**](https://github.com/phaazon/smoothie)",
+              "Smooth curves via several interpolation modes",
+              "[:arrow_upper_right:](https://hackage.haskell.org/package/smoothie)"
+            ],
+            [
+              "9",
+              "[@alpmestan](https://github.com/alpmestan)/[**statistics-linreg**](https://github.com/alpmestan/statistics-linreg)",
+              "Linear Regression in Haskell",
+              "[:arrow_upper_right:](http://hackage.haskell.org/package/statistics-linreg)"
+            ],
+            [
+              "9",
+              "[@alpmestan](https://github.com/alpmestan)/[**hspec-attoparsec**](https://github.com/alpmestan/hspec-attoparsec)",
+              "utility functions for testing attoparsec parsers with hspec",
+              "[:arrow_upper_right:](http://hackage.haskell.org/package/hspec-attoparsec)"
+            ],
+            [
+              "8",
+              "[@JPMoresmau](https://github.com/JPMoresmau)/[**MazesOfMonad**](https://github.com/JPMoresmau/MazesOfMonad)",
+              "simple game",
+              ""
+            ],
+            [
+              "8",
+              "[@yogsototh](https://github.com/yogsototh)/[**mandelbrot**](https://github.com/yogsototh/mandelbrot)",
+              "A Parallel bicolor mandelbrot set generator done in haskell",
+              ""
+            ],
+            [
+              "8",
+              "[@YPares](https://github.com/YPares)/[**MonadPointer**](https://github.com/YPares/MonadPointer)",
+              "Haskell: Encoding requirements towards a monad stack and automatically lifting actions to the right place in this stack, by statically ensuring that only one transformer can be targetted.",
+              ""
+            ],
+            [
+              "7",
+              "[@phaazon](https://github.com/phaazon)/[**wavefront**](https://github.com/phaazon/wavefront)",
+              "Haskell Wavefront OBJ loader library",
+              ""
+            ],
+            [
+              "6",
+              "[@phaazon](https://github.com/phaazon)/[**quaazar**](https://github.com/phaazon/quaazar)",
+              "Realtime 3D engine",
+              ""
+            ],
+            [
+              "6",
+              "[@mboes](https://github.com/mboes)/[**zurihac15-talk-examp…**](https://github.com/mboes/zurihac15-talk-examples)",
+              "Companion code for Zurihac'15 talk on Cloud Haskell",
+              ""
+            ],
+            [
+              "6",
+              "[@phaazon](https://github.com/phaazon)/[**monad-journal**](https://github.com/phaazon/monad-journal)",
+              "Pure logger typeclass and monad transformer",
+              "[:arrow_upper_right:](https://hackage.haskell.org/package/monad-journal)"
+            ],
+            [
+              "6",
+              "[@phaazon](https://github.com/phaazon)/[**luminance-samples**](https://github.com/phaazon/luminance-samples)",
+              "Luminance samples",
+              "[:arrow_upper_right:](https://hackage.haskell.org/package/luminance-samples)"
+            ],
+            [
+              "6",
+              "[@mboes](https://github.com/mboes)/[**haskell-src-exts-qq**](https://github.com/mboes/haskell-src-exts-qq)",
+              "A quasiquoter for haskell-src-exts.",
+              ""
+            ],
+            [
+              "6",
+              "[@alpmestan](https://github.com/alpmestan)/[**probable**](https://github.com/alpmestan/probable)",
+              "Easy and reasonably efficient probabilistic programming and random generation/sampling from distributions, based on mwc-random and statistics",
+              "[:arrow_upper_right:](http://hackage.haskell.org/package/probable)"
+            ],
+            [
+              "5",
+              "[@bartavelle](https://github.com/bartavelle)/[**hslogstash**](https://github.com/bartavelle/hslogstash)",
+              "A library to write structured messages to a logstash server.",
+              ""
+            ],
+            [
+              "5",
+              "[@alpmestan](https://github.com/alpmestan)/[**servant-ede**](https://github.com/alpmestan/servant-ede)",
+              "Support for ede templates in servant",
+              "[:arrow_upper_right:](http://hackage.haskell.org/package/servant-ede)"
+            ],
+            [
+              "5",
+              "[@alpmestan](https://github.com/alpmestan)/[**gloss-juicy**](https://github.com/alpmestan/gloss-juicy)",
+              "Lets you load JuicyPixels pictures in your gloss apps",
+              "[:arrow_upper_right:](http://hackage.haskell.org/package/gloss-juicy)"
+            ],
+            [
+              "5",
+              "[@divarvel](https://github.com/divarvel)/[**scotty-short**](https://github.com/divarvel/scotty-short)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@JPMoresmau](https://github.com/JPMoresmau)/[**nxt-samples**](https://github.com/JPMoresmau/nxt-samples)",
+              "Samples of programs manipulating NXT robots",
+              ""
+            ],
+            [
+              "4",
+              "[@JPMoresmau](https://github.com/JPMoresmau)/[**TypeClass**](https://github.com/JPMoresmau/TypeClass)",
+              "Simple SDL based game in Haskell",
+              ""
+            ],
+            [
+              "4",
+              "[@bartavelle](https://github.com/bartavelle)/[**stateWriter**](https://github.com/bartavelle/stateWriter)",
+              "A RWS like monad without the slow writer stuff",
+              ""
+            ],
+            [
+              "4",
+              "[@alpmestan](https://github.com/alpmestan)/[**accelerate-blas**](https://github.com/alpmestan/accelerate-blas)",
+              "Binding to CUBLAS routines for Accelerate arrays",
+              ""
+            ],
+            [
+              "4",
+              "[@yogsototh](https://github.com/yogsototh)/[**human-readable-durat…**](https://github.com/yogsototh/human-readable-duration)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@divarvel](https://github.com/divarvel)/[**hammertime**](https://github.com/divarvel/hammertime)",
+              "Simple time tracker",
+              ""
+            ],
+            [
+              "4",
+              "[@mboes](https://github.com/mboes)/[**cassette**](https://github.com/mboes/cassette)",
+              "Define a parser. Play it in reverse to get a pretty printer.",
+              ""
+            ],
+            [
+              "4",
+              "[@alpmestan](https://github.com/alpmestan)/[**glfw-b-quick-example**](https://github.com/alpmestan/glfw-b-quick-example)",
+              "Port of the official GLFW 3.0 quick example using the GLFW-b haskell library",
+              ""
+            ],
+            [
+              "4",
+              "[@jtanguy](https://github.com/jtanguy)/[**minipaste**](https://github.com/jtanguy/minipaste)",
+              "minimal pastebin service built in haskell",
+              ""
+            ],
+            [
+              "4",
+              "[@alpmestan](https://github.com/alpmestan)/[**regress**](https://github.com/alpmestan/regress)",
+              "Linear and logistic regression through automatic differentiation",
+              ""
+            ],
+            [
+              "4",
+              "[@phaazon](https://github.com/phaazon)/[**hsFModEx**](https://github.com/phaazon/hsFModEx)",
+              "FModEx Haskell API. Discontinued.",
+              "[:arrow_upper_right:](http://hackage.haskell.org/package/FModExRaw)"
+            ],
+            [
+              "3",
+              "[@bartavelle](https://github.com/bartavelle)/[**manglingrules**](https://github.com/bartavelle/manglingrules)",
+              "A library to work with John the Ripper or Hashcat mangling rules.",
+              ""
+            ],
+            [
+              "3",
+              "[@phaazon](https://github.com/phaazon)/[**reactant**](https://github.com/phaazon/reactant)",
+              "FRP Haskell library",
+              ""
+            ],
+            [
+              "3",
+              "[@phaazon](https://github.com/phaazon)/[**tellbot**](https://github.com/phaazon/tellbot)",
+              "IRC bot with account simple tasks and tells function",
+              ""
+            ],
+            [
+              "3",
+              "[@bartavelle](https://github.com/bartavelle)/[**pcre-utils**](https://github.com/bartavelle/pcre-utils)",
+              "Perl-like utility functions using the PCRE library",
+              ""
+            ],
+            [
+              "3",
+              "[@phaazon](https://github.com/phaazon)/[**al**](https://github.com/phaazon/al)",
+              "Haskell OpenAL raw binding",
+              "[:arrow_upper_right:](https://hackage.haskell.org/package/al)"
+            ],
+            [
+              "3",
+              "[@divarvel](https://github.com/divarvel)/[**Arithmetic-Trees**](https://github.com/divarvel/Arithmetic-Trees)",
+              "A simple datastructure used to describe arithmetic expressions.",
+              ""
+            ],
+            [
+              "3",
+              "[@divarvel](https://github.com/divarvel)/[**snapshort**](https://github.com/divarvel/snapshort)",
+              "Toy url shortner written with haskell / snap",
+              ""
+            ],
+            [
+              "3",
+              "[@phaazon](https://github.com/phaazon)/[**zero**](https://github.com/phaazon/zero)",
+              "Semigroups with absorbing element",
+              ""
+            ],
+            [
+              "3",
+              "[@yogsototh](https://github.com/yogsototh)/[**wai-middleware-cachi…**](https://github.com/yogsototh/wai-middleware-caching)",
+              "WAI Middleware to cache (contains generic, LRUCache and Redis Cache backend)",
+              ""
+            ],
+            [
+              "3",
+              "[@phaazon](https://github.com/phaazon)/[**leaf**](https://github.com/phaazon/leaf)",
+              "A simple portfolio generator",
+              ""
+            ],
+            [
+              "3",
+              "[@bartavelle](https://github.com/bartavelle)/[**stm-firehose**](https://github.com/bartavelle/stm-firehose)",
+              "Conduits and STM operations for fire hoses",
+              ""
+            ],
+            [
+              "3",
+              "[@mboes](https://github.com/mboes)/[**language-arm**](https://github.com/mboes/language-arm)",
+              "Assembler and dissassembler for ARM in Haskell.",
+              ""
+            ],
+            [
+              "3",
+              "[@jtanguy](https://github.com/jtanguy)/[**hmacaroons**](https://github.com/jtanguy/hmacaroons)",
+              "Pure haskell implementation of macaroons",
+              "[:arrow_upper_right:](https://jtanguy.github.io/hmacaroons)"
+            ],
+            [
+              "3",
+              "[@JPMoresmau](https://github.com/JPMoresmau)/[**OpenAlchemistAI**](https://github.com/JPMoresmau/OpenAlchemistAI)",
+              "An AI for the game OpenAlchemist (http://www.openalchemist.com/)",
+              ""
+            ],
+            [
+              "2",
+              "[@alpmestan](https://github.com/alpmestan)/[**alpmestan.com**](https://github.com/alpmestan/alpmestan.com)",
+              "source code for my (hakyll powered) personal website",
+              "[:arrow_upper_right:](http://alpmestan.com/)"
+            ],
+            [
+              "2",
+              "[@yogsototh](https://github.com/yogsototh)/[**hl**](https://github.com/yogsototh/hl)",
+              "Haskell web site",
+              "[:arrow_upper_right:](http://haskell-lang.org/)"
+            ],
+            [
+              "2",
+              "[@yogsototh](https://github.com/yogsototh)/[**mandelbulb2**](https://github.com/yogsototh/mandelbulb2)",
+              "OpenGL Mandelbulb (3D Mandelbrot) in Haskell",
+              ""
+            ],
+            [
+              "2",
+              "[@yogsototh](https://github.com/yogsototh)/[**inmanis**](https://github.com/yogsototh/inmanis)",
+              "Greater dreams and free your mind.",
+              ""
+            ],
+            [
+              "2",
+              "[@mboes](https://github.com/mboes)/[**9ph**](https://github.com/mboes/9ph)",
+              "A pure Haskell implementation of the 9p protocol, server and client.",
+              ""
+            ],
+            [
+              "2",
+              "[@Zenol](https://github.com/Zenol)/[**hgb**](https://github.com/Zenol/hgb)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@YPares](https://github.com/YPares)/[**BinaryCommunicator**](https://github.com/YPares/BinaryCommunicator)",
+              "Flexible way to ease transmission of binary data",
+              ""
+            ],
+            [
+              "2",
+              "[@jtanguy](https://github.com/jtanguy)/[**quickwebapp**](https://github.com/jtanguy/quickwebapp)",
+              "Quick-and-dirty api for haskell function, à la interact",
+              ""
+            ],
+            [
+              "2",
+              "[@nschoe](https://github.com/nschoe)/[**hpm**](https://github.com/nschoe/hpm)",
+              "Haskell Password Manager. Simple and effective. No fancy stuff added.",
+              ""
+            ],
+            [
+              "2",
+              "[@nschoe](https://github.com/nschoe)/[**hpt**](https://github.com/nschoe/hpt)",
+              "A decentralised, security- and privacy-focused messaging application, written in Haskell.",
+              ""
+            ],
+            [
+              "2",
+              "[@Raveline](https://github.com/Raveline)/[**Rocketfuel**](https://github.com/Raveline/Rocketfuel)",
+              "Connect-3 side project in haskell",
+              ""
+            ],
+            [
+              "2",
+              "[@bartavelle](https://github.com/bartavelle)/[**withdependencies**](https://github.com/bartavelle/withdependencies)",
+              "Model computation with dependencies, and evaluate them over streams of elements.",
+              ""
+            ],
+            [
+              "2",
+              "[@phaazon](https://github.com/phaazon)/[**phaazon.net**](https://github.com/phaazon/phaazon.net)",
+              "Source code of phaazon.net.",
+              "[:arrow_upper_right:](phaazon.net)"
+            ],
+            [
+              "2",
+              "[@bartavelle](https://github.com/bartavelle)/[**compactmap**](https://github.com/bartavelle/compactmap)",
+              "Memory efficient read-only key-value stores.",
+              ""
+            ],
+            [
+              "2",
+              "[@phaazon](https://github.com/phaazon)/[**inject-function**](https://github.com/phaazon/inject-function)",
+              "Haskell package that lets you write regular functions with the extra feature to be able to inject parameters that can be shared over function composition",
+              ""
+            ],
+            [
+              "2",
+              "[@alpmestan](https://github.com/alpmestan)/[**hs-cublas**](https://github.com/alpmestan/hs-cublas)",
+              "ffi binding to cublas",
+              ""
+            ],
+            [
+              "2",
+              "[@phaazon](https://github.com/phaazon)/[**hid**](https://github.com/phaazon/hid)",
+              "Haskell interface to hidapi",
+              "[:arrow_upper_right:](http://hackage.haskell.org/package/hid)"
+            ],
+            [
+              "2",
+              "[@alpmestan](https://github.com/alpmestan)/[**core-online**](https://github.com/alpmestan/core-online)",
+              "a sort of online version of ghc-core",
+              ""
+            ],
+            [
+              "2",
+              "[@phaazon](https://github.com/phaazon)/[**phraskell**](https://github.com/phaazon/phraskell)",
+              "Fractal set viewer.",
+              ""
+            ],
+            [
+              "2",
+              "[@mboes](https://github.com/mboes)/[**mime-directory**](https://github.com/mboes/mime-directory)",
+              "A library for parsing/printing the text/directory mime type.",
+              ""
+            ],
+            [
+              "2",
+              "[@sebcrozet](https://github.com/sebcrozet)/[**falling**](https://github.com/sebcrozet/falling)",
+              "Generic constructs to build a physics engine.",
+              ""
+            ],
+            [
+              "2",
+              "[@phaazon](https://github.com/phaazon)/[**event**](https://github.com/phaazon/event)",
+              "Monoidal, monadic and first-class events.",
+              "[:arrow_upper_right:](http://hackage.haskell.org/package/event)"
             ]
           ]
         }
