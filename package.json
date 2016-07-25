@@ -68,7 +68,8 @@
           "[Ruby](#ruby)",
           "[Scala](#scala)",
           "[Shell](#shell)",
-          "[Swift](#swift)"
+          "[Swift](#swift)",
+          "[TeX](#tex)"
         ]
       },
       {
@@ -13539,6 +13540,27 @@
               "2",
               "[@phimage](https://github.com/phimage)/[**XcodePluginsAddUUID**](https://github.com/phimage/XcodePluginsAddUUID)",
               "Swift script to edit plugin plist and add current Xcode UUID if missing",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "TeX #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "5",
+              "[@exo7math](https://github.com/exo7math)/[**exo7-livre**](https://github.com/exo7math/exo7-livre)",
+              "Fchiers sources des cours Exo7",
               ""
             ]
           ]
