@@ -46,7 +46,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -2315,6 +2316,1287 @@
               "2",
               "[@padenot](https://github.com/padenot)/[**webaudio-benchmark**](https://github.com/padenot/webaudio-benchmark)",
               "Benchmarks for the WebAudio API",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "4898",
+              "[@florent37](https://github.com/florent37)/[**MaterialViewPager**](https://github.com/florent37/MaterialViewPager)",
+              "A Material Design ViewPager easy to use library",
+              ""
+            ],
+            [
+              "3459",
+              "[@traex](https://github.com/traex)/[**RippleEffect**](https://github.com/traex/RippleEffect)",
+              "Implementation of Ripple effect from Material Design for Android API 9+",
+              ""
+            ],
+            [
+              "3193",
+              "[@castorflex](https://github.com/castorflex)/[**SmoothProgressBar**](https://github.com/castorflex/SmoothProgressBar)",
+              "A small Android library allowing you to have a smooth and customizable horizontal indeterminate ProgressBar",
+              ""
+            ],
+            [
+              "2636",
+              "[@cyrilmottier](https://github.com/cyrilmottier)/[**GreenDroid**](https://github.com/cyrilmottier/GreenDroid)",
+              "GreenDroid is a development library for the Android platform. It makes UI developments easier and consistent through your applications.",
+              "[:arrow_upper_right:](http://www.cyrilmottier.com)"
+            ],
+            [
+              "1759",
+              "[@PomepuyN](https://github.com/PomepuyN)/[**BlurEffectForAndroid…**](https://github.com/PomepuyN/BlurEffectForAndroidDesign)",
+              "Sample to show how to implement blur graphical tricks",
+              ""
+            ],
+            [
+              "1624",
+              "[@flavienlaurent](https://github.com/flavienlaurent)/[**datetimepicker**](https://github.com/flavienlaurent/datetimepicker)",
+              "DateTimePicker is a library which contains the beautiful DatePicker that can be seen in the new Google Agenda app.",
+              ""
+            ],
+            [
+              "1611",
+              "[@flavienlaurent](https://github.com/flavienlaurent)/[**NotBoringActionBar**](https://github.com/flavienlaurent/NotBoringActionBar)",
+              "News Stand app makes the ActionBar not boring!",
+              ""
+            ],
+            [
+              "1135",
+              "[@flavienlaurent](https://github.com/flavienlaurent)/[**discrollview**](https://github.com/flavienlaurent/discrollview)",
+              "Scroll + discover = DiscrollView",
+              ""
+            ],
+            [
+              "982",
+              "[@traex](https://github.com/traex)/[**CalendarListview**](https://github.com/traex/CalendarListview)",
+              "Implementation of a calendar in a ListView. One month by row",
+              ""
+            ],
+            [
+              "976",
+              "[@traex](https://github.com/traex)/[**ExpandableLayout**](https://github.com/traex/ExpandableLayout)",
+              "Implementation of ExpandableListview with custom header and custom content.",
+              ""
+            ],
+            [
+              "969",
+              "[@florent37](https://github.com/florent37)/[**ViewAnimator**](https://github.com/florent37/ViewAnimator)",
+              "A fluent Android animation library",
+              ""
+            ],
+            [
+              "806",
+              "[@florent37](https://github.com/florent37)/[**HollyViewPager**](https://github.com/florent37/HollyViewPager)",
+              "A different beautiful ViewPager, with quick swipe controls",
+              ""
+            ],
+            [
+              "740",
+              "[@florent37](https://github.com/florent37)/[**GlidePalette**](https://github.com/florent37/GlidePalette)",
+              "Android Lollipop Palette is now easy to use with Glide",
+              ""
+            ],
+            [
+              "711",
+              "[@florent37](https://github.com/florent37)/[**MaterialTextField**](https://github.com/florent37/MaterialTextField)",
+              "A different beautiful Floating Edit Text",
+              ""
+            ],
+            [
+              "586",
+              "[@florent37](https://github.com/florent37)/[**MaterialLeanBack**](https://github.com/florent37/MaterialLeanBack)",
+              "A beautiful leanback port for Smartphones and Tablets",
+              ""
+            ],
+            [
+              "564",
+              "[@nicoulaj](https://github.com/nicoulaj)/[**idea-markdown**](https://github.com/nicoulaj/idea-markdown)",
+              "Markdown language support for IntelliJ IDEA.",
+              ""
+            ],
+            [
+              "522",
+              "[@BoD](https://github.com/BoD)/[**android-switch-backp…**](https://github.com/BoD/android-switch-backport)",
+              "A backport of the SwitchPreference component that was introduced on Android 4 (ICS / level 14).  This port works on Android 2.1+ (Eclair MR1 / level 7).",
+              ""
+            ],
+            [
+              "488",
+              "[@BoD](https://github.com/BoD)/[**android-contentprovi…**](https://github.com/BoD/android-contentprovider-generator)",
+              "A small tool to generate an Android ContentProvider.",
+              ""
+            ],
+            [
+              "484",
+              "[@PomepuyN](https://github.com/PomepuyN)/[**discreet-app-rate**](https://github.com/PomepuyN/discreet-app-rate)",
+              "A lightweight non intrusive app rate reminder for Android",
+              "[:arrow_upper_right:](http://nicolaspomepuy.fr/non-intrusive-app-rate)"
+            ],
+            [
+              "484",
+              "[@castorflex](https://github.com/castorflex)/[**VerticalViewPager**](https://github.com/castorflex/VerticalViewPager)",
+              "Copy pasted version of the support ViewPager, but vertical!",
+              ""
+            ],
+            [
+              "443",
+              "[@cyrilmottier](https://github.com/cyrilmottier)/[**Polaris**](https://github.com/cyrilmottier/Polaris)",
+              "A library greatly enhancing the features of the Google Maps external library: Effortless map annotating, gesture support, map callout support, built-in “user tracking” mode, etc.",
+              ""
+            ],
+            [
+              "416",
+              "[@flavienlaurent](https://github.com/flavienlaurent)/[**poppyview**](https://github.com/flavienlaurent/poppyview)",
+              "Android library implementing a poppy view on scroll, similar to the one found in the Google Plus app",
+              ""
+            ],
+            [
+              "408",
+              "[@florent37](https://github.com/florent37)/[**Carpaccio**](https://github.com/florent37/Carpaccio)",
+              "Data Mapping & Smarter Views framework for android",
+              "[:arrow_upper_right:](https://github.com/florent37/Carpaccio/wiki)"
+            ],
+            [
+              "380",
+              "[@castorflex](https://github.com/castorflex)/[**FlipImageView**](https://github.com/castorflex/FlipImageView)",
+              "DEPRECATED. Use API14+ and make your animations easier! Small android lib allowing you to make a flip imageview easily, by extending FlipImageView.",
+              ""
+            ],
+            [
+              "348",
+              "[@flavienlaurent](https://github.com/flavienlaurent)/[**activityanimation**](https://github.com/flavienlaurent/activityanimation)",
+              "Activity animation",
+              "[:arrow_upper_right:](https://www.youtube.com/watch?v=-E0sc6w_Jck)"
+            ],
+            [
+              "336",
+              "[@florent37](https://github.com/florent37)/[**BeautifulParallax**](https://github.com/florent37/BeautifulParallax)",
+              "Beautify your RecyclerViews with a great parallax effect !",
+              ""
+            ],
+            [
+              "318",
+              "[@florent37](https://github.com/florent37)/[**MaterialImageLoading**](https://github.com/florent37/MaterialImageLoading)",
+              "Material image loading implementation",
+              ""
+            ],
+            [
+              "290",
+              "[@florent37](https://github.com/florent37)/[**WearMenu**](https://github.com/florent37/WearMenu)",
+              "An Android Wear Menu implementation",
+              "[:arrow_upper_right:](http://florent37.github.io/WearMenu)"
+            ],
+            [
+              "287",
+              "[@florent37](https://github.com/florent37)/[**PicassoPalette**](https://github.com/florent37/PicassoPalette)",
+              "Android Lollipop Palette is now easy to use with Picasso !",
+              "[:arrow_upper_right:](http://florent37.github.io/PicassoPalette)"
+            ],
+            [
+              "260",
+              "[@flavienlaurent](https://github.com/flavienlaurent)/[**tickplusdrawable**](https://github.com/flavienlaurent/tickplusdrawable)",
+              "I'm not a Gif maker, I'm a developer",
+              ""
+            ],
+            [
+              "248",
+              "[@cyrilmottier](https://github.com/cyrilmottier)/[**ListViewTipsAndTrick…**](https://github.com/cyrilmottier/ListViewTipsAndTricks)",
+              "",
+              "[:arrow_upper_right:](http://android.cyrilmottier.com)"
+            ],
+            [
+              "228",
+              "[@flavienlaurent](https://github.com/flavienlaurent)/[**spans**](https://github.com/flavienlaurent/spans)",
+              "Spans, a powerful concept",
+              "[:arrow_upper_right:](http://flavienlaurent.com/blog/2014/01/31/spans/)"
+            ],
+            [
+              "224",
+              "[@florent37](https://github.com/florent37)/[**DaVinci**](https://github.com/florent37/DaVinci)",
+              "DaVinci is an image downloading and caching library for Android Wear",
+              "[:arrow_upper_right:](http://florent37.github.io/DaVinci)"
+            ],
+            [
+              "222",
+              "[@florent37](https://github.com/florent37)/[**Freezer**](https://github.com/florent37/Freezer)",
+              "A simple & fluent Android ORM, how can it be easier ?",
+              ""
+            ],
+            [
+              "212",
+              "[@flavienlaurent](https://github.com/flavienlaurent)/[**PanningView**](https://github.com/flavienlaurent/PanningView)",
+              "PanningView is a library which implements the animated background in the now playing screen of the Play Music app.",
+              ""
+            ],
+            [
+              "207",
+              "[@flavienlaurent](https://github.com/flavienlaurent)/[**singleinputform**](https://github.com/flavienlaurent/singleinputform)",
+              "A single EditText instead of a classical form.",
+              ""
+            ],
+            [
+              "189",
+              "[@dadoonet](https://github.com/dadoonet)/[**spring-elasticsearch**](https://github.com/dadoonet/spring-elasticsearch)",
+              "Spring factories for elasticsearch",
+              ""
+            ],
+            [
+              "189",
+              "[@dadoonet](https://github.com/dadoonet)/[**fscrawler**](https://github.com/dadoonet/fscrawler)",
+              "Elasticsearch File System Crawler (FS Crawler)",
+              ""
+            ],
+            [
+              "188",
+              "[@cyrilmottier](https://github.com/cyrilmottier)/[**Polaris2**](https://github.com/cyrilmottier/Polaris2)",
+              "Polaris is a framework enhancing the Google Maps Android API v2. It aims to fix some of the most frustrating bugs of the original library and provide additional features.",
+              ""
+            ],
+            [
+              "187",
+              "[@melix](https://github.com/melix)/[**deck2pdf**](https://github.com/melix/deck2pdf)",
+              "Converts various HTML5 slide decks to PDF",
+              ""
+            ],
+            [
+              "172",
+              "[@florent37](https://github.com/florent37)/[**AndroidUnitTest**](https://github.com/florent37/AndroidUnitTest)",
+              "Save time & clear your unit tests on Android ! ",
+              ""
+            ],
+            [
+              "166",
+              "[@BoD](https://github.com/BoD)/[**android-prefs**](https://github.com/BoD/android-prefs)",
+              "Android preferences for WINNERS!",
+              ""
+            ],
+            [
+              "150",
+              "[@traex](https://github.com/traex)/[**RetrofitExample**](https://github.com/traex/RetrofitExample)",
+              "Example for one of my tutorials at http://blog.robinchutaux.com/blog/a-smar…",
+              ""
+            ],
+            [
+              "146",
+              "[@flavienlaurent](https://github.com/flavienlaurent)/[**flavienlaurent.com**](https://github.com/flavienlaurent/flavienlaurent.com)",
+              "",
+              ""
+            ],
+            [
+              "139",
+              "[@tbroyer](https://github.com/tbroyer)/[**gradle-errorprone-pl…**](https://github.com/tbroyer/gradle-errorprone-plugin)",
+              "Gradle plugin to use the error-prone compiler for Java",
+              ""
+            ],
+            [
+              "128",
+              "[@flavienlaurent](https://github.com/flavienlaurent)/[**colorpicker**](https://github.com/flavienlaurent/colorpicker)",
+              "ColorPicker is a library which contains the beautiful ColorPicker that can be seen in the new Google Agenda app",
+              ""
+            ],
+            [
+              "112",
+              "[@flavienlaurent](https://github.com/flavienlaurent)/[**TiltEffect**](https://github.com/flavienlaurent/TiltEffect)",
+              "Beautiful tilt effect like on W8 but on Android",
+              ""
+            ],
+            [
+              "110",
+              "[@florent37](https://github.com/florent37)/[**AndroidParallax**](https://github.com/florent37/AndroidParallax)",
+              "Parallax on Android in the simplest way",
+              ""
+            ],
+            [
+              "100",
+              "[@tbroyer](https://github.com/tbroyer)/[**gwt-maven-archetypes**](https://github.com/tbroyer/gwt-maven-archetypes)",
+              "",
+              ""
+            ],
+            [
+              "98",
+              "[@lindenb](https://github.com/lindenb)/[**jvarkit**](https://github.com/lindenb/jvarkit)",
+              "Java utilities for Bioinformatics",
+              "[:arrow_upper_right:](https://github.com/lindenb/jvarkit)"
+            ],
+            [
+              "93",
+              "[@dadoonet](https://github.com/dadoonet)/[**rssriver**](https://github.com/dadoonet/rssriver)",
+              "Elasticsearch Rss River (PROJECT STOPPED)",
+              "[:arrow_upper_right:](http://dadoonet.github.com/rssriver/)"
+            ],
+            [
+              "92",
+              "[@florent37](https://github.com/florent37)/[**OCiney**](https://github.com/florent37/OCiney)",
+              "OCiney is a sample app implementing several UI and UX patterns. I was firstly built to test a few different implementations of a details page.",
+              "[:arrow_upper_right:](http://whaterz.com/ociney/)"
+            ],
+            [
+              "87",
+              "[@florent37](https://github.com/florent37)/[**WearViewStub**](https://github.com/florent37/WearViewStub)",
+              "Display different layout on Android Wear Square / Round / Moto 360",
+              "[:arrow_upper_right:](http://florent37.github.io/WearViewStub)"
+            ],
+            [
+              "75",
+              "[@tbroyer](https://github.com/tbroyer)/[**gwt-maven-plugin**](https://github.com/tbroyer/gwt-maven-plugin)",
+              "Starting fresh on building GWT projects with Maven",
+              "[:arrow_upper_right:](https://tbroyer.github.io/gwt-maven-plugin/)"
+            ],
+            [
+              "71",
+              "[@BoD](https://github.com/BoD)/[**android-activitylife…**](https://github.com/BoD/android-activitylifecyclecallbacks-compat)",
+              "Android ActivityLifecycleCallbacks Compatibility Library",
+              ""
+            ],
+            [
+              "69",
+              "[@flavienlaurent](https://github.com/flavienlaurent)/[**livepalette**](https://github.com/flavienlaurent/livepalette)",
+              "Playing with the Palette's API and TextureView to build a live palette.",
+              ""
+            ],
+            [
+              "64",
+              "[@tbroyer](https://github.com/tbroyer)/[**bullet**](https://github.com/tbroyer/bullet)",
+              "Provides Dagger1-like ObjectGraph API around Dagger2 Components",
+              ""
+            ],
+            [
+              "58",
+              "[@jponge](https://github.com/jponge)/[**lzma-java**](https://github.com/jponge/lzma-java)",
+              "LZMA library for Java",
+              "[:arrow_upper_right:](http://jponge.github.com/lzma-java)"
+            ],
+            [
+              "57",
+              "[@PomepuyN](https://github.com/PomepuyN)/[**AndroidWearCrashRepo…**](https://github.com/PomepuyN/AndroidWearCrashReport)",
+              "",
+              ""
+            ],
+            [
+              "56",
+              "[@jponge](https://github.com/jponge)/[**izpack**](https://github.com/jponge/izpack)",
+              "(I no longer maintain this repository, please go to 'izpack/izpack')",
+              ""
+            ],
+            [
+              "55",
+              "[@dgageot](https://github.com/dgageot)/[**dockercon16**](https://github.com/dgageot/dockercon16)",
+              "DockerCon 2016 Docker for Developers - part 1",
+              ""
+            ],
+            [
+              "54",
+              "[@cyrilmottier](https://github.com/cyrilmottier)/[**DrawablePresentation**](https://github.com/cyrilmottier/DrawablePresentation)",
+              "Code samples about Android Drawables",
+              ""
+            ],
+            [
+              "50",
+              "[@dgageot](https://github.com/dgageot)/[**simplelenium**](https://github.com/dgageot/simplelenium)",
+              "Simple layer on top of Selenium and PhantomJs",
+              ""
+            ],
+            [
+              "49",
+              "[@florent37](https://github.com/florent37)/[**TutosAndroidFrance**](https://github.com/florent37/TutosAndroidFrance)",
+              "",
+              ""
+            ],
+            [
+              "47",
+              "[@leleuj](https://github.com/leleuj)/[**cas-overlay-demo**](https://github.com/leleuj/cas-overlay-demo)",
+              "CAS server and services management webapps demo with Maven overlays",
+              ""
+            ],
+            [
+              "42",
+              "[@traex](https://github.com/traex)/[**SlidingMenuExample**](https://github.com/traex/SlidingMenuExample)",
+              "Example for one of my tutorials at http://blog.robinchutaux.com/blog/how-to…",
+              ""
+            ],
+            [
+              "41",
+              "[@flavienlaurent](https://github.com/flavienlaurent)/[**sandbox**](https://github.com/flavienlaurent/sandbox)",
+              "Here is sandbox where I'm gonna implement what I love in other applications.",
+              ""
+            ],
+            [
+              "40",
+              "[@forax](https://github.com/forax)/[**design-pattern-reloa…**](https://github.com/forax/design-pattern-reloaded)",
+              "Implementation of GoF design patterns in Java 8",
+              ""
+            ],
+            [
+              "39",
+              "[@florent37](https://github.com/florent37)/[**Wear-Emmet**](https://github.com/florent37/Wear-Emmet)",
+              "Emmet is an protocol based data-transfer for Android Wear",
+              "[:arrow_upper_right:](http://florent37.github.io/Emmet)"
+            ],
+            [
+              "36",
+              "[@leleuj](https://github.com/leleuj)/[**cas-pac4j-oauth-demo**](https://github.com/leleuj/cas-pac4j-oauth-demo)",
+              "Demo webapps to test CAS/OAuth/OpenID/SAML client support and OAuth server support in CAS version >= 4.0.0",
+              ""
+            ],
+            [
+              "35",
+              "[@jdubois](https://github.com/jdubois)/[**Tudu-Lists**](https://github.com/jdubois/Tudu-Lists)",
+              "Tudu Lists is an Open Source, on-line application for managing todo lists",
+              "[:arrow_upper_right:](http://www.julien-dubois.com/tudu-lists)"
+            ],
+            [
+              "33",
+              "[@melix](https://github.com/melix)/[**asm-bytecode-intelli…**](https://github.com/melix/asm-bytecode-intellij)",
+              "An ASM (http://asm.ow2.org/) plugin for IntelliJ IDEA",
+              ""
+            ],
+            [
+              "33",
+              "[@forax](https://github.com/forax)/[**proxy2**](https://github.com/forax/proxy2)",
+              "Better / faster proxy generator than java.lang.reflect.Proxy for Java (require 1.7)",
+              ""
+            ],
+            [
+              "32",
+              "[@KokaKiwi](https://github.com/KokaKiwi)/[**MCLauncher**](https://github.com/KokaKiwi/MCLauncher)",
+              "Custom Launcher for Minecraft",
+              ""
+            ],
+            [
+              "30",
+              "[@BoD](https://github.com/BoD)/[**jraf-android-util**](https://github.com/BoD/jraf-android-util)",
+              "A collection of general purpose utilities for Android.",
+              ""
+            ],
+            [
+              "30",
+              "[@nicoulaj](https://github.com/nicoulaj)/[**vagrant-maven-plugin**](https://github.com/nicoulaj/vagrant-maven-plugin)",
+              "Maven plugin for Vagrant.",
+              ""
+            ],
+            [
+              "29",
+              "[@PomepuyN](https://github.com/PomepuyN)/[**muzei-flickr**](https://github.com/PomepuyN/muzei-flickr)",
+              "A simple Flickr extension for Muzei",
+              ""
+            ],
+            [
+              "28",
+              "[@geowarin](https://github.com/geowarin)/[**hibernate-examples**](https://github.com/geowarin/hibernate-examples)",
+              "Hibernate examples from my blog http://geowarin.wordpress.com",
+              ""
+            ],
+            [
+              "27",
+              "[@BoD](https://github.com/BoD)/[**android-wear-color-p…**](https://github.com/BoD/android-wear-color-picker)",
+              "A color picker activity optimized for Android Wear.  Handy for watch face settings.",
+              ""
+            ],
+            [
+              "26",
+              "[@nicoulaj](https://github.com/nicoulaj)/[**compile-command-anno…**](https://github.com/nicoulaj/compile-command-annotations)",
+              "Annotation based configuration file generator for the Hotspot JVM JIT compiler.",
+              ""
+            ],
+            [
+              "24",
+              "[@lindenb](https://github.com/lindenb)/[**jsandbox**](https://github.com/lindenb/jsandbox)",
+              "My java Sandbox",
+              "[:arrow_upper_right:](http://plindenbaum.blogspot.com)"
+            ],
+            [
+              "23",
+              "[@melix](https://github.com/melix)/[**grooidshell-example**](https://github.com/melix/grooidshell-example)",
+              "An example of usage of dynamic classes at runtime using Groovy on Android",
+              ""
+            ],
+            [
+              "21",
+              "[@melix](https://github.com/melix)/[**jlangdetect**](https://github.com/melix/jlangdetect)",
+              "A language detection library for the JVM",
+              ""
+            ],
+            [
+              "20",
+              "[@BoD](https://github.com/BoD)/[**bikey**](https://github.com/BoD/bikey)",
+              "A bike computer for Android.",
+              ""
+            ],
+            [
+              "18",
+              "[@tbroyer](https://github.com/tbroyer)/[**promises**](https://github.com/tbroyer/promises)",
+              "Promises for Java – THIS PROJECT IS DEPRECATED!",
+              ""
+            ],
+            [
+              "18",
+              "[@dadoonet](https://github.com/dadoonet)/[**dropbox**](https://github.com/dadoonet/dropbox)",
+              "Dropbox River for Elasticsearch (PROJECT STOPPED)",
+              "[:arrow_upper_right:](http://www.pilato.fr/dropbox/)"
+            ],
+            [
+              "18",
+              "[@dadoonet](https://github.com/dadoonet)/[**es-hibernate-connect…**](https://github.com/dadoonet/es-hibernate-connector)",
+              "Make your Hibernate Search more Elastic ! WARNING : project suspended !",
+              ""
+            ],
+            [
+              "18",
+              "[@florent37](https://github.com/florent37)/[**Github**](https://github.com/florent37/Github)",
+              "Sample project using Dagger2, RxJAva, RetroLambda and Carpaccio",
+              ""
+            ],
+            [
+              "18",
+              "[@ndeloof](https://github.com/ndeloof)/[**jchan**](https://github.com/ndeloof/jchan)",
+              "Java implementation for libChan spec",
+              ""
+            ],
+            [
+              "17",
+              "[@cyrilmottier](https://github.com/cyrilmottier)/[**DigitbooksExamples**](https://github.com/cyrilmottier/DigitbooksExamples)",
+              "",
+              ""
+            ],
+            [
+              "16",
+              "[@dadoonet](https://github.com/dadoonet)/[**sql2nosql**](https://github.com/dadoonet/sql2nosql)",
+              "Demo project for talks about migrating from SQL to NoSQL",
+              ""
+            ],
+            [
+              "16",
+              "[@geowarin](https://github.com/geowarin)/[**springboot-jersey**](https://github.com/geowarin/springboot-jersey)",
+              "A simple spring-boot & jersey application",
+              ""
+            ],
+            [
+              "16",
+              "[@flavienlaurent](https://github.com/flavienlaurent)/[**muzeihash**](https://github.com/flavienlaurent/muzeihash)",
+              "The power of Google Plus hashtags in Muzei",
+              "[:arrow_upper_right:](https://play.google.com/store/apps/details?id=com.flavienlaurent.muzei.hash)"
+            ],
+            [
+              "15",
+              "[@geowarin](https://github.com/geowarin)/[**boot-rethinkdb**](https://github.com/geowarin/boot-rethinkdb)",
+              "Chat example with spring boot and rethinkdb",
+              ""
+            ],
+            [
+              "15",
+              "[@tbroyer](https://github.com/tbroyer)/[**sheath**](https://github.com/tbroyer/sheath)",
+              "Sheath: Dagger† Inside – THIS PROJECT IS DEPRECATED!",
+              ""
+            ],
+            [
+              "14",
+              "[@nicoulaj](https://github.com/nicoulaj)/[**checksum-maven-plugi…**](https://github.com/nicoulaj/checksum-maven-plugin)",
+              "Compute Maven project artifacts/dependencies/files checksum digests.",
+              "[:arrow_upper_right:](nicoulaj.github.com/checksum-maven-plugin)"
+            ],
+            [
+              "14",
+              "[@florent37](https://github.com/florent37)/[**Baguette**](https://github.com/florent37/Baguette)",
+              "Baguette is an Android Toast implementation adapted for Android Wear",
+              ""
+            ],
+            [
+              "13",
+              "[@leleuj](https://github.com/leleuj)/[**cas-oauth-demo-3.5.x**](https://github.com/leleuj/cas-oauth-demo-3.5.x)",
+              "Demo webapps to test OAuth support (client and server) in CAS version 3.5.x (x >= 1)",
+              ""
+            ],
+            [
+              "13",
+              "[@tgrall](https://github.com/tgrall)/[**couchbase-sql-import…**](https://github.com/tgrall/couchbase-sql-importer)",
+              "Couchbase SQL Importer",
+              ""
+            ],
+            [
+              "13",
+              "[@castorflex](https://github.com/castorflex)/[**QuickAnswer**](https://github.com/castorflex/QuickAnswer)",
+              "Small Android App which displays sms and a quickanswer",
+              ""
+            ],
+            [
+              "12",
+              "[@forax](https://github.com/forax)/[**jayspec**](https://github.com/forax/jayspec)",
+              "RSpec for Java 8",
+              ""
+            ],
+            [
+              "12",
+              "[@florent37](https://github.com/florent37)/[**WearKit**](https://github.com/florent37/WearKit)",
+              "Wearkit is an Android Wear implementation of WatchKit",
+              "[:arrow_upper_right:](http://florent37.github.io/WearKit)"
+            ],
+            [
+              "12",
+              "[@dgageot](https://github.com/dgageot)/[**maven-timeline**](https://github.com/dgageot/maven-timeline)",
+              "",
+              ""
+            ],
+            [
+              "12",
+              "[@dgageot](https://github.com/dgageot)/[**kittenmash**](https://github.com/dgageot/kittenmash)",
+              "Kitten FaceMash",
+              ""
+            ],
+            [
+              "11",
+              "[@geowarin](https://github.com/geowarin)/[**docker-junit-rule**](https://github.com/geowarin/docker-junit-rule)",
+              "A junit rule to run docker containers",
+              ""
+            ],
+            [
+              "11",
+              "[@geowarin](https://github.com/geowarin)/[**gist-templates-plugi…**](https://github.com/geowarin/gist-templates-plugin)",
+              "An intellij plugin to fetch gists from one or several github gists account and use them as templates inside IntelliJ",
+              ""
+            ],
+            [
+              "10",
+              "[@antoinesd](https://github.com/antoinesd)/[**weld-invokedynamic**](https://github.com/antoinesd/weld-invokedynamic)",
+              "This repo contains POC for using InvokeDynamic in CDI and Weld",
+              ""
+            ],
+            [
+              "10",
+              "[@florent37](https://github.com/florent37)/[**Potier**](https://github.com/florent37/Potier)",
+              "",
+              ""
+            ],
+            [
+              "10",
+              "[@tgrall](https://github.com/tgrall)/[**couchbase-mongo-impo…**](https://github.com/tgrall/couchbase-mongo-importer)",
+              "Couchbase Mongo Importer",
+              ""
+            ],
+            [
+              "10",
+              "[@tbroyer](https://github.com/tbroyer)/[**gwt-places**](https://github.com/tbroyer/gwt-places)",
+              "GWT PlaceHistoryMapper generator as an annotation processor",
+              ""
+            ],
+            [
+              "9",
+              "[@nicoulaj](https://github.com/nicoulaj)/[**commons-dbcp-jmx**](https://github.com/nicoulaj/commons-dbcp-jmx)",
+              "Mbean wrappers around Apache Commons DBCP datasources.",
+              "[:arrow_upper_right:](nicoulaj.github.com/commons-dbcp-jmx)"
+            ],
+            [
+              "9",
+              "[@kartben](https://github.com/kartben)/[**eclo-ar**](https://github.com/kartben/eclo-ar)",
+              "An augmented reality app for checking your eclo status",
+              ""
+            ],
+            [
+              "9",
+              "[@lindenb](https://github.com/lindenb)/[**jbwa**](https://github.com/lindenb/jbwa)",
+              "Java Bindings (JNI) for bwa",
+              ""
+            ],
+            [
+              "9",
+              "[@BoD](https://github.com/BoD)/[**OpenCurrentActivityI…**](https://github.com/BoD/OpenCurrentActivityIntelliJPlugin)",
+              "A little plugin for Android development (Android Studio or IntelliJ).",
+              ""
+            ],
+            [
+              "9",
+              "[@jpountz](https://github.com/jpountz)/[**tries**](https://github.com/jpountz/tries)",
+              "Comparison of trie implementations",
+              ""
+            ],
+            [
+              "8",
+              "[@jpountz](https://github.com/jpountz)/[**sorts**](https://github.com/jpountz/sorts)",
+              "Versatile sort algorithm implementations.",
+              ""
+            ],
+            [
+              "8",
+              "[@forax](https://github.com/forax)/[**vmboiler**](https://github.com/forax/vmboiler)",
+              "A small library on top of ASM that generates optimistically typed bytecodes for dynamically typed JVM based languages",
+              ""
+            ],
+            [
+              "8",
+              "[@nicoulaj](https://github.com/nicoulaj)/[**auto-instrument**](https://github.com/nicoulaj/auto-instrument)",
+              "Use java.lang.instrument without writing an agent.",
+              "[:arrow_upper_right:](nicoulaj.github.com/auto-instrument)"
+            ],
+            [
+              "8",
+              "[@florent37](https://github.com/florent37)/[**HolyFragment**](https://github.com/florent37/HolyFragment)",
+              "Fragment NewInstance generator  ",
+              ""
+            ],
+            [
+              "8",
+              "[@cyrilmottier](https://github.com/cyrilmottier)/[**GETMemo**](https://github.com/cyrilmottier/GETMemo)",
+              "",
+              ""
+            ],
+            [
+              "8",
+              "[@dadoonet](https://github.com/dadoonet)/[**spore-elasticsearch**](https://github.com/dadoonet/spore-elasticsearch)",
+              "SPORE specifications for elasticsearch",
+              ""
+            ],
+            [
+              "7",
+              "[@melix](https://github.com/melix)/[**lecharny-challenge**](https://github.com/melix/lecharny-challenge)",
+              "The Lecharny Challenge",
+              ""
+            ],
+            [
+              "7",
+              "[@dadoonet](https://github.com/dadoonet)/[**elasticsearch-beyond…**](https://github.com/dadoonet/elasticsearch-beyonder)",
+              "Elasticsearch Beyonder project gives some features beyond elasticsearch itself. ",
+              ""
+            ],
+            [
+              "7",
+              "[@antoinesd](https://github.com/antoinesd)/[**Socializer**](https://github.com/antoinesd/Socializer)",
+              "Social Network client using Seam Social",
+              ""
+            ],
+            [
+              "6",
+              "[@antoinesd](https://github.com/antoinesd)/[**seam-social**](https://github.com/antoinesd/seam-social)",
+              "##### Seam social moved to https://github.com/seam/social under Seam Master repo ######",
+              ""
+            ],
+            [
+              "6",
+              "[@antoinesd](https://github.com/antoinesd)/[**contentieux**](https://github.com/antoinesd/contentieux)",
+              "Java EE 6 with CDI in EAR example",
+              ""
+            ],
+            [
+              "6",
+              "[@jponge](https://github.com/jponge)/[**guice-aspectj-sample**](https://github.com/jponge/guice-aspectj-sample)",
+              "An example of Guice / AspectJ interaction",
+              ""
+            ],
+            [
+              "6",
+              "[@antoinesd](https://github.com/antoinesd)/[**javaee-nosql**](https://github.com/antoinesd/javaee-nosql)",
+              "Integraion of NoSQL database in Java EE thru CDI & others",
+              ""
+            ],
+            [
+              "6",
+              "[@kartben](https://github.com/kartben)/[**mqtt-tutorial-eclips…**](https://github.com/kartben/mqtt-tutorial-eclipsecon2014)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@tgrall](https://github.com/tgrall)/[**couchbase-document-a…**](https://github.com/tgrall/couchbase-document-api)",
+              "Simple Java ODM for Couchbase",
+              ""
+            ],
+            [
+              "6",
+              "[@nicoulaj](https://github.com/nicoulaj)/[**jcrfs**](https://github.com/nicoulaj/jcrfs)",
+              "A filesystem in userspace (FUSE) for Java Content Repositories (JCR).",
+              ""
+            ],
+            [
+              "6",
+              "[@nicoulaj](https://github.com/nicoulaj)/[**soot-maven-plugin**](https://github.com/nicoulaj/soot-maven-plugin)",
+              "Maven plugin for Soot, the Java bytecode optimization framework.",
+              "[:arrow_upper_right:](http://nicoulaj.github.com/soot-maven-plugin)"
+            ],
+            [
+              "6",
+              "[@KokaKiwi](https://github.com/KokaKiwi)/[**ApiCraft**](https://github.com/KokaKiwi/ApiCraft)",
+              "ApiCraft is a CraftBukkit plugin which provide an API system for server",
+              ""
+            ],
+            [
+              "5",
+              "[@antoinesd](https://github.com/antoinesd)/[**Labs-Java-EE-6**](https://github.com/antoinesd/Labs-Java-EE-6)",
+              "Labs for Java EE 6 quick start training",
+              ""
+            ],
+            [
+              "5",
+              "[@kartben](https://github.com/kartben)/[**eclipsecon-m2m-conte…**](https://github.com/kartben/eclipsecon-m2m-contest)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@leleuj](https://github.com/leleuj)/[**cas-openid-demo**](https://github.com/leleuj/cas-openid-demo)",
+              "Demo web app to test OpenId support in CAS",
+              ""
+            ],
+            [
+              "5",
+              "[@geowarin](https://github.com/geowarin)/[**spring-completable**](https://github.com/geowarin/spring-completable)",
+              "Example of completable futures with Spring boot",
+              ""
+            ],
+            [
+              "5",
+              "[@florent37](https://github.com/florent37)/[**WatchFaceSample**](https://github.com/florent37/WatchFaceSample)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@forax](https://github.com/forax)/[**jsjs**](https://github.com/forax/jsjs)",
+              "jsjs is a JavaScript engine written in JavaScript on top of the Java Virtual Machine",
+              ""
+            ],
+            [
+              "5",
+              "[@lindenb](https://github.com/lindenb)/[**gatk-ui**](https://github.com/lindenb/gatk-ui)",
+              "Graphical Interface for the Genome Analysis Toolkit (GATK)",
+              ""
+            ],
+            [
+              "5",
+              "[@nicoulaj](https://github.com/nicoulaj)/[**jmh-utils**](https://github.com/nicoulaj/jmh-utils)",
+              "Utilities/addons for JMH.",
+              ""
+            ],
+            [
+              "5",
+              "[@melix](https://github.com/melix)/[**spring-groovymarkup**](https://github.com/melix/spring-groovymarkup)",
+              "Support classes for using MarkupTemplateEngine from Spring",
+              ""
+            ],
+            [
+              "4",
+              "[@dgageot](https://github.com/dgageot)/[**TradeQueue**](https://github.com/dgageot/TradeQueue)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@dgageot](https://github.com/dgageot)/[**listmaker**](https://github.com/dgageot/listmaker)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@forax](https://github.com/forax)/[**ninal**](https://github.com/forax/ninal)",
+              "Ninal which stands for \"Ninal is not a Lisp\" is a small demo language (lisp like syntax/C like semantics) using Graal/Truffle",
+              ""
+            ],
+            [
+              "4",
+              "[@kartben](https://github.com/kartben)/[**mqtt-tutorial-javaon…**](https://github.com/kartben/mqtt-tutorial-javaone2014)",
+              "Tutorial for Powering Your Next Internet of Things App with MQTT tutorial at JavaOne 2014",
+              ""
+            ],
+            [
+              "4",
+              "[@jponge](https://github.com/jponge)/[**blobstore**](https://github.com/jponge/blobstore)",
+              "A simple blob store in Java.",
+              ""
+            ],
+            [
+              "4",
+              "[@nicoulaj](https://github.com/nicoulaj)/[**idea-byteman**](https://github.com/nicoulaj/idea-byteman)",
+              "Byteman plugin for IntelliJ IDEA.",
+              ""
+            ],
+            [
+              "4",
+              "[@lindenb](https://github.com/lindenb)/[**jsvelocity**](https://github.com/lindenb/jsvelocity)",
+              "Processing JSON with apache velocity",
+              ""
+            ],
+            [
+              "4",
+              "[@BoD](https://github.com/BoD)/[**fbshare**](https://github.com/BoD/fbshare)",
+              "Facebook 'share' action that doesn't suck! (For Android)",
+              ""
+            ],
+            [
+              "4",
+              "[@melix](https://github.com/melix)/[**codenarc-idea**](https://github.com/melix/codenarc-idea)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@melix](https://github.com/melix)/[**jmh-gradle-example**](https://github.com/melix/jmh-gradle-example)",
+              "Sample project showcasing the JMH gradle plugin",
+              ""
+            ],
+            [
+              "4",
+              "[@melix](https://github.com/melix)/[**staticbuilder**](https://github.com/melix/staticbuilder)",
+              "Statically compiled markup builder for Groovy",
+              ""
+            ],
+            [
+              "4",
+              "[@antoinesd](https://github.com/antoinesd)/[**agorava-github**](https://github.com/antoinesd/agorava-github)",
+              "Github module for the agorava project",
+              ""
+            ],
+            [
+              "4",
+              "[@lindenb](https://github.com/lindenb)/[**j4make**](https://github.com/lindenb/j4make)",
+              "java Makefile Graph parser ",
+              ""
+            ],
+            [
+              "3",
+              "[@jpountz](https://github.com/jpountz)/[**jvm-checksum-benchma…**](https://github.com/jpountz/jvm-checksum-benchmark)",
+              "Benchmark of various checksums and hash functions available on the JVM.",
+              ""
+            ],
+            [
+              "3",
+              "[@BoD](https://github.com/BoD)/[**colorsecret**](https://github.com/BoD/colorsecret)",
+              "colorsecret, a game for Android similar to the 'Mastermind' board game.",
+              ""
+            ],
+            [
+              "3",
+              "[@BoD](https://github.com/BoD)/[**DoorCodeNotifier**](https://github.com/BoD/DoorCodeNotifier)",
+              "An Android app that notifies you when you're near a friend's place and shows you their door code.",
+              ""
+            ],
+            [
+              "3",
+              "[@BoD](https://github.com/BoD)/[**SimpleWatchface**](https://github.com/BoD/SimpleWatchface)",
+              "A very simple Watchface for Android Wear",
+              ""
+            ],
+            [
+              "3",
+              "[@BoD](https://github.com/BoD)/[**irondad**](https://github.com/BoD/irondad)",
+              "A very simple IRC client library written in Java.",
+              ""
+            ],
+            [
+              "3",
+              "[@tbroyer](https://github.com/tbroyer)/[**guice-persist-neo4j**](https://github.com/tbroyer/guice-persist-neo4j)",
+              "Using Neo4j with Guice Persist – THIS PROJECT IS DEPRECATED!",
+              ""
+            ],
+            [
+              "3",
+              "[@antoinesd](https://github.com/antoinesd)/[**CDI-Sandbox**](https://github.com/antoinesd/CDI-Sandbox)",
+              "Sandbox for CDI 1.2 and 1.0 code",
+              ""
+            ],
+            [
+              "3",
+              "[@KokaKiwi](https://github.com/KokaKiwi)/[**BukkitUpdater**](https://github.com/KokaKiwi/BukkitUpdater)",
+              "CraftBukkit core and plugins updater",
+              "[:arrow_upper_right:](http://minerepo.tk)"
+            ],
+            [
+              "3",
+              "[@nicoulaj](https://github.com/nicoulaj)/[**visualvm-hide-jstatd**](https://github.com/nicoulaj/visualvm-hide-jstatd)",
+              "A simple VisualVM plugin that hides Jstatd instances.",
+              ""
+            ],
+            [
+              "3",
+              "[@nicoulaj](https://github.com/nicoulaj)/[**mock-webapp**](https://github.com/nicoulaj/mock-webapp)",
+              "Mock web application for performance or integration testing.",
+              "[:arrow_upper_right:](http://nicoulaj.github.com/mock-webapp)"
+            ],
+            [
+              "3",
+              "[@tgrall](https://github.com/tgrall)/[**couchbase-how-to-ver…**](https://github.com/tgrall/couchbase-how-to-versioning)",
+              "Sample versioning API for Couchbase",
+              ""
+            ],
+            [
+              "3",
+              "[@florent37](https://github.com/florent37)/[**MeetupWear_EmmetDavi…**](https://github.com/florent37/MeetupWear_EmmetDavinci)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@tgrall](https://github.com/tgrall)/[**exo-social-notificat…**](https://github.com/tgrall/exo-social-notifications)",
+              "",
+              "[:arrow_upper_right:](exo-social-notification)"
+            ],
+            [
+              "3",
+              "[@forax](https://github.com/forax)/[**varhandle2**](https://github.com/forax/varhandle2)",
+              "A safe yet efficient implementation of atomic operations for the JVM.",
+              ""
+            ],
+            [
+              "2",
+              "[@kartben](https://github.com/kartben)/[**org.eclipse.e4.opens…**](https://github.com/kartben/org.eclipse.e4.opensocial.container)",
+              "org.eclipse.e4.opensocial.container",
+              ""
+            ],
+            [
+              "2",
+              "[@tgrall](https://github.com/tgrall)/[**GAE-Full-Text-Search**](https://github.com/tgrall/GAE-Full-Text-Search)",
+              "GAE Full Text Search with Cloud SQL sample project",
+              "[:arrow_upper_right:](gae-fulltext-search )"
+            ],
+            [
+              "2",
+              "[@tgrall](https://github.com/tgrall)/[**eXo-Statisitics**](https://github.com/tgrall/eXo-Statisitics)",
+              "Statistics tool for eXo (starting with Social)",
+              "[:arrow_upper_right:](exo-statistics)"
+            ],
+            [
+              "2",
+              "[@melix](https://github.com/melix)/[**gradlesummit2016-jig…**](https://github.com/melix/gradlesummit2016-jigsaw-gradle)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@melix](https://github.com/melix)/[**gradle-variant-aware…**](https://github.com/melix/gradle-variant-aware-dependency-resolution)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@tgrall](https://github.com/tgrall)/[**Sample-REST-Service-…**](https://github.com/tgrall/Sample-REST-Service-using-JSON)",
+              "Sample Jersey Service with JAXBContext for JSON Array Serialization",
+              ""
+            ],
+            [
+              "2",
+              "[@jponge](https://github.com/jponge)/[**tinyinjector**](https://github.com/jponge/tinyinjector)",
+              "A tiny references injector for Java.",
+              ""
+            ],
+            [
+              "2",
+              "[@jponge](https://github.com/jponge)/[**izpack-full-svn-hist…**](https://github.com/jponge/izpack-full-svn-history-copy)",
+              "The complete set of revisions of the IzPack Subversion repository before we switched to Git. It does not contain tags and branches informations. This repository will never be updated again.",
+              "[:arrow_upper_right:](http://izpack.org/)"
+            ],
+            [
+              "2",
+              "[@tbroyer](https://github.com/tbroyer)/[**gwt-sandbox**](https://github.com/tbroyer/gwt-sandbox)",
+              "DO NOT CLONE! See README",
+              ""
+            ],
+            [
+              "2",
+              "[@KokaKiwi](https://github.com/KokaKiwi)/[**World-Generator**](https://github.com/KokaKiwi/World-Generator)",
+              "A procedural world generator in Java with Perlin Noise. Include biomes, environmental parameters.",
+              ""
+            ],
+            [
+              "2",
+              "[@KokaKiwi](https://github.com/KokaKiwi)/[**KiwiUtils**](https://github.com/KokaKiwi/KiwiUtils)",
+              "Some Java Utils Classes",
+              ""
+            ],
+            [
+              "2",
+              "[@dgageot](https://github.com/dgageot)/[**HelloWorldAngularJs**](https://github.com/dgageot/HelloWorldAngularJs)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@nicoulaj](https://github.com/nicoulaj)/[**microbenchmarks**](https://github.com/nicoulaj/microbenchmarks)",
+              "Java microbenchmarks sandbox.",
+              ""
+            ],
+            [
+              "2",
+              "[@BoD](https://github.com/BoD)/[**piclabel**](https://github.com/BoD/piclabel)",
+              "An Android app to add labels to pictures.",
+              ""
+            ],
+            [
+              "2",
+              "[@leleuj](https://github.com/leleuj)/[**java-jasig-cas-clien…**](https://github.com/leleuj/java-jasig-cas-client-demo)",
+              "Demo webapp protected by the Java Jasig CAS client",
+              ""
+            ],
+            [
+              "2",
+              "[@lindenb](https://github.com/lindenb)/[**htsjni**](https://github.com/lindenb/htsjni)",
+              "Native java bindings for htseq",
+              ""
+            ],
+            [
+              "2",
+              "[@PomepuyN](https://github.com/PomepuyN)/[**WatchviewStubIssue**](https://github.com/PomepuyN/WatchviewStubIssue)",
+              "Small demonstration project for an Android Wear issue",
+              ""
+            ],
+            [
+              "2",
+              "[@lindenb](https://github.com/lindenb)/[**vizbam**](https://github.com/lindenb/vizbam)",
+              "BAM visualization",
+              ""
+            ],
+            [
+              "2",
+              "[@ndeloof](https://github.com/ndeloof)/[**HelloCloudbees**](https://github.com/ndeloof/HelloCloudbees)",
+              "Simple Hello Cloudbees Android application",
+              ""
+            ],
+            [
+              "2",
+              "[@dgageot](https://github.com/dgageot)/[**ExcelTemplate**](https://github.com/dgageot/ExcelTemplate)",
+              "Utility class to read .xls files 'à la' JdbcTemplate",
+              "[:arrow_upper_right:](http://javabien.net)"
+            ],
+            [
+              "2",
+              "[@tbroyer](https://github.com/tbroyer)/[**jaxrs-utils**](https://github.com/tbroyer/jaxrs-utils)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@dgageot](https://github.com/dgageot)/[**jug-tests**](https://github.com/dgageot/jug-tests)",
+              "Paris JUG, soirée spéciale tests",
+              ""
+            ],
+            [
+              "2",
+              "[@LostInBrittany](https://github.com/LostInBrittany)/[**Teaching-AndroidSimp…**](https://github.com/LostInBrittany/Teaching-AndroidSimpleChatTB)",
+              "Android teaching support for TB courses",
+              ""
+            ],
+            [
+              "2",
+              "[@dgageot](https://github.com/dgageot)/[**LanguageShowdown**](https://github.com/dgageot/LanguageShowdown)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@LostInBrittany](https://github.com/LostInBrittany)/[**FinistGDG-Android-Bo…**](https://github.com/LostInBrittany/FinistGDG-Android-Bootcamp)",
+              "FinistGDG Android Bootcamp",
+              ""
+            ],
+            [
+              "2",
+              "[@kartben](https://github.com/kartben)/[**org.eclipse.koneki.l…**](https://github.com/kartben/org.eclipse.koneki.ldt.extensions)",
+              "Extensions for Koneki Lua Development Tools to provide advanced support for common Lua-based environments (Corona SDK, World of Warcraft, ...)",
+              ""
+            ],
+            [
+              "2",
+              "[@LostInBrittany](https://github.com/LostInBrittany)/[**Sparkjava-Beers**](https://github.com/LostInBrittany/Sparkjava-Beers)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@dgageot](https://github.com/dgageot)/[**puzzlers**](https://github.com/dgageot/puzzlers)",
+              "Testing Java Puzzlers with Sonar",
+              ""
+            ],
+            [
+              "2",
+              "[@bblfish](https://github.com/bblfish)/[**TLS_test**](https://github.com/bblfish/TLS_test)",
+              "Testing TLS tools",
+              "[:arrow_upper_right:](http://bblfish.net/)"
+            ],
+            [
+              "2",
+              "[@kartben](https://github.com/kartben)/[**org.eclipse.e4.opens…**](https://github.com/kartben/org.eclipse.e4.opensocial.model)",
+              "org.eclipse.e4.opensocial.model",
+              ""
+            ],
+            [
+              "2",
+              "[@bblfish](https://github.com/bblfish)/[**sommer**](https://github.com/bblfish/sommer)",
+              "Semantic Object (Metadata) MappER",
+              "[:arrow_upper_right:](https://somer.dev.java.net/)"
+            ],
+            [
+              "2",
+              "[@geowarin](https://github.com/geowarin)/[**algos-in-java**](https://github.com/geowarin/algos-in-java)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@bblfish](https://github.com/bblfish)/[**wymiwyg-wrhapi-jetty**](https://github.com/bblfish/wymiwyg-wrhapi-jetty)",
+              "Web Request Handler API for Jetty",
+              "[:arrow_upper_right:](http://svn.berlios.de/svnroot/repos/wrhapi/wrhapi-jetty/)"
+            ],
+            [
+              "2",
+              "[@forax](https://github.com/forax)/[**jsonjedi**](https://github.com/forax/jsonjedi)",
+              "parsing JSON with JDK8 lambdas",
+              ""
+            ],
+            [
+              "2",
+              "[@bblfish](https://github.com/bblfish)/[**xwiki**](https://github.com/bblfish/xwiki)",
+              "xwiki related code for WebID",
+              "[:arrow_upper_right:](http://esw.w3.org/foaf+ssl)"
+            ],
+            [
+              "2",
+              "[@forax](https://github.com/forax)/[**parisjug2013**](https://github.com/forax/parisjug2013)",
+              "The code I have shown during Paris JUG session \"In bed with ...\" in september 2013",
+              ""
+            ],
+            [
+              "2",
+              "[@forax](https://github.com/forax)/[**jigsaw-jrtfs**](https://github.com/forax/jigsaw-jrtfs)",
+              "A backport of jrtfs.jar for 1.7",
+              ""
+            ],
+            [
+              "2",
+              "[@forax](https://github.com/forax)/[**smartass**](https://github.com/forax/smartass)",
+              "A toy language used to explain how to implement a dynamic language on top of the JVM",
+              ""
+            ],
+            [
+              "2",
+              "[@florent37](https://github.com/florent37)/[**GCM-Sample-Android-P…**](https://github.com/florent37/GCM-Sample-Android-PHP)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@forax](https://github.com/forax)/[**blog**](https://github.com/forax/blog)",
+              "A blog publisher (like Jekyll) written in Java and tailored for me",
+              ""
+            ],
+            [
+              "2",
+              "[@florent37](https://github.com/florent37)/[**BubbleTab**](https://github.com/florent37/BubbleTab)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@kartben](https://github.com/kartben)/[**org.eclipse.e4.opens…**](https://github.com/kartben/org.eclipse.e4.opensocial.tests)",
+              "org.eclipse.e4.opensocial.tests",
               ""
             ]
           ]
