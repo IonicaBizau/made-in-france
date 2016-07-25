@@ -52,7 +52,8 @@
           "[CSS](#css)",
           "[HTML](#html)",
           "[C](undefined)",
-          "[C++](#c-2)"
+          "[C++](#c-2)",
+          "[ActionScript](#actionscript)"
         ]
       },
       {
@@ -5268,6 +5269,117 @@
               "[@4ian](https://github.com/4ian)/[**Widgets-Extension**](https://github.com/4ian/Widgets-Extension)",
               "Widgets Extension is an extension for Game Develop using SFGUI to provide widgets.",
               "[:arrow_upper_right:](http://widgets.levasseursoftware.net/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "ActionScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "52",
+              "[@samuelgirardin](https://github.com/samuelgirardin)/[**OpenSurf-AS3-Algorit…**](https://github.com/samuelgirardin/OpenSurf-AS3-Algorithm)",
+              "Surf Algorithm port to as3",
+              ""
+            ],
+            [
+              "31",
+              "[@warrenseine](https://github.com/warrenseine)/[**as3-psd-parser**](https://github.com/warrenseine/as3-psd-parser)",
+              "ActionScript 3 PSD Parser",
+              "[:arrow_upper_right:](http://durej.com/?p=128)"
+            ],
+            [
+              "20",
+              "[@vincent-petithory](https://github.com/vincent-petithory)/[**as3-gettext**](https://github.com/vincent-petithory/as3-gettext)",
+              "An implementation of the GNU Gettext utilities in Actionscript 3.0",
+              ""
+            ],
+            [
+              "17",
+              "[@vincent-petithory](https://github.com/vincent-petithory)/[**stdpx**](https://github.com/vincent-petithory/stdpx)",
+              "A standard library of pixel bender kernels for Flash Player 10",
+              "[:arrow_upper_right:](http://github.com/vincent-petithory/stdpx)"
+            ],
+            [
+              "6",
+              "[@warrenseine](https://github.com/warrenseine)/[**kingnare-black-theme**](https://github.com/warrenseine/kingnare-black-theme)",
+              "Flex 4 dark theme",
+              ""
+            ],
+            [
+              "6",
+              "[@vincent-petithory](https://github.com/vincent-petithory)/[**as3-mox**](https://github.com/vincent-petithory/as3-mox)",
+              "Mox Toolkit : a base library of everyday functions and classes for Actionscript 3.0",
+              "[:arrow_upper_right:](http://blog.lunar-dev.net)"
+            ],
+            [
+              "5",
+              "[@lo-th](https://github.com/lo-th)/[**loth_labs**](https://github.com/lo-th/loth_labs)",
+              "away3d experiment with AWD ",
+              ""
+            ],
+            [
+              "5",
+              "[@promethe42](https://github.com/promethe42)/[**teapot-mobile**](https://github.com/promethe42/teapot-mobile)",
+              "Cel shaded teapot mobile project built with Minko and AIR 3.2",
+              ""
+            ],
+            [
+              "4",
+              "[@lo-th](https://github.com/lo-th)/[**loth**](https://github.com/lo-th/loth)",
+              "sea3d three.js/away3d labs",
+              ""
+            ],
+            [
+              "3",
+              "[@warrenseine](https://github.com/warrenseine)/[**flashboard**](https://github.com/warrenseine/flashboard)",
+              "Orbit demo project",
+              "[:arrow_upper_right:](http://aerys.in/flashboard)"
+            ],
+            [
+              "3",
+              "[@alamboley](https://github.com/alamboley)/[**alamboley**](https://github.com/alamboley/alamboley)",
+              "Aymeric Lamboley's AS3 library",
+              ""
+            ],
+            [
+              "3",
+              "[@alamboley](https://github.com/alamboley)/[**Kinessia**](https://github.com/alamboley/Kinessia)",
+              "1st year Gobelins school project",
+              "[:arrow_upper_right:](http://www.aymericlamboley.fr/blog/kinessia-game-school-project/)"
+            ],
+            [
+              "2",
+              "[@damrem](https://github.com/damrem)/[**match3**](https://github.com/damrem/match3)",
+              "A match3 engine, made in AS3 with Starling.",
+              ""
+            ],
+            [
+              "2",
+              "[@francois-blanchard](https://github.com/francois-blanchard)/[**Memo_project_flash**](https://github.com/francois-blanchard/Memo_project_flash)",
+              "Project flash hetic h3 team 6",
+              ""
+            ],
+            [
+              "2",
+              "[@Neamar](https://github.com/Neamar)/[**DGraphe**](https://github.com/Neamar/DGraphe)",
+              "Jeu flash LightningMagnet",
+              "[:arrow_upper_right:](http://neamar.fr/Res/LightningMagnet/)"
+            ],
+            [
+              "2",
+              "[@vincent-petithory](https://github.com/vincent-petithory)/[**astre**](https://github.com/vincent-petithory/astre)",
+              "A Unit testing library that can be extended in many ways",
+              "[:arrow_upper_right:](http://astre.lunar-dev.net/)"
             ]
           ]
         }
