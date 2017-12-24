@@ -9,6 +9,7 @@
 
 ## Contents
 
+
  - [JavaScript](#javascript)
  - [Java](#java)
  - [C#](#c-1)
@@ -36,6 +37,7 @@
  - [VimL](#viml)
 
 ### JavaScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 6408 | [@jacomyal](https://github.com/jacomyal)/[**sigma.js**](https://github.com/jacomyal/sigma.js) | A JavaScript library dedicated to graph drawing | [:arrow_upper_right:](http://sigmajs.org)
@@ -414,7 +416,9 @@
 2 | [@elierotenberg](https://github.com/elierotenberg)/[**react-lambda**](https://github.com/elierotenberg/react-lambda) | Higher order and functional utilies for manipulating React components |
 2 | [@revolunet](https://github.com/revolunet)/[**sencha-phonegap-intr…**](https://github.com/revolunet/sencha-phonegap-introduction) | sencha/phonegap talk for Paris Android User Group and Phonegap Paris meetup | [:arrow_upper_right:](http://revolunet.com/static/paug2011)
 2 | [@padenot](https://github.com/padenot)/[**webaudio-benchmark**](https://github.com/padenot/webaudio-benchmark) | Benchmarks for the WebAudio API |
+
 ### Java #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 4898 | [@florent37](https://github.com/florent37)/[**MaterialViewPager**](https://github.com/florent37/MaterialViewPager) | A Material Design ViewPager easy to use library |
@@ -628,7 +632,9 @@
 2 | [@forax](https://github.com/forax)/[**blog**](https://github.com/forax/blog) | A blog publisher (like Jekyll) written in Java and tailored for me |
 2 | [@florent37](https://github.com/florent37)/[**BubbleTab**](https://github.com/florent37/BubbleTab) |  |
 2 | [@kartben](https://github.com/kartben)/[**org.eclipse.e4.opens…**](https://github.com/kartben/org.eclipse.e4.opensocial.tests) | org.eclipse.e4.opensocial.tests |
+
 ### C# #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 177 | [@MscrmTools](https://github.com/MscrmTools)/[**XrmToolBox**](https://github.com/MscrmTools/XrmToolBox) | An application that gather multiple tools to ease the customization and configuration of Microsoft Dynamics CRM | [:arrow_upper_right:](http://www.xrmtoolbox.com)
@@ -710,20 +716,26 @@
 2 | [@thomaslevesque](https://github.com/thomaslevesque)/[**HumanBytes**](https://github.com/thomaslevesque/HumanBytes) | A library to convert byte sizes to a human readable form |
 2 | [@thomaslevesque](https://github.com/thomaslevesque)/[**Quack**](https://github.com/thomaslevesque/Quack) | Duck-typing framework for .NET |
 2 | [@garuma](https://github.com/garuma)/[**moo**](https://github.com/garuma/moo) | Awesome Cowsay Generator | [:arrow_upper_right:](http://moo.neteril.org)
+
 ### CSS #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 316 | [@KOWLOR](https://github.com/KOWLOR)/[**DaftPunKonsole**](https://github.com/KOWLOR/DaftPunKonsole) | Keyboard console | [:arrow_upper_right:](http://daftpunkonsole.com)
 8 | [@KOWLOR](https://github.com/KOWLOR)/[**retina-border**](https://github.com/KOWLOR/retina-border) | A SASS mixin to easily add thin borders to your elements |
 6 | [@KOWLOR](https://github.com/KOWLOR)/[**kowlumn**](https://github.com/KOWLOR/kowlumn) | Multi nestable grid-system | [:arrow_upper_right:](http://kowlor.github.io/kowlumn/)
+
 ### HTML #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 30 | [@sylvaindurand](https://github.com/sylvaindurand)/[**sylvaindurand.org**](https://github.com/sylvaindurand/sylvaindurand.org) | Personal website, mostly about programming. | [:arrow_upper_right:](https://www.sylvaindurand.org)
 15 | [@dtschump](https://github.com/dtschump)/[**gmic-community**](https://github.com/dtschump/gmic-community) | Community contributions to the G'MIC software | [:arrow_upper_right:](http://gmic.eu)
 10 | [@guedou](https://github.com/guedou)/[**bam**](https://github.com/guedou/bam) | The BGP Atlas Monitor |
 3 | [@AGirlWhoCode](https://github.com/AGirlWhoCode)/[**LekaWebsite**](https://github.com/AGirlWhoCode/LekaWebsite) | Files to be added to leka.io-beta |
+
 ### C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 11242 | [@SamyPesse](https://github.com/SamyPesse)/[**How-to-Make-a-Comput…**](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) | How to Make a Computer Operating System in C++ | [:arrow_upper_right:](https://www.gitbook.com/book/SamyPesse/how-to-create-an-operating-system)
@@ -830,7 +842,9 @@
 2 | [@texane](https://github.com/texane)/[**rx62n_gnu**](https://github.com/texane/rx62n_gnu) | rx62n related code to compile with a GNU toolchain |
 2 | [@texane](https://github.com/texane)/[**parallel**](https://github.com/texane/parallel) | parallel related codes |
 2 | [@ubitux](https://github.com/ubitux)/[**sudansu**](https://github.com/ubitux/sudansu) | Sudoku solver using dancing links | [:arrow_upper_right:](http://blog.pkh.me/p/9-dlx-and-reduced-memory-footprint.html)
+
 ### C++ #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1145 | [@matt-42](https://github.com/matt-42)/[**silicon**](https://github.com/matt-42/silicon) | A high performance, middleware oriented C++14 http web framework | [:arrow_upper_right:](http://siliconframework.org)
@@ -908,7 +922,9 @@
 2 | [@LuaxY](https://github.com/LuaxY)/[**ARK-Launcher**](https://github.com/LuaxY/ARK-Launcher) | Game updater/uplauncher |
 2 | [@SRombauts](https://github.com/SRombauts)/[**gltext**](https://github.com/SRombauts/gltext) | Simple C++ library to render text with Freetype2 and Harfbuzz under OpenGL 3 |
 2 | [@4ian](https://github.com/4ian)/[**Widgets-Extension**](https://github.com/4ian/Widgets-Extension) | Widgets Extension is an extension for Game Develop using SFGUI to provide widgets. | [:arrow_upper_right:](http://widgets.levasseursoftware.net/)
+
 ### ActionScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 52 | [@samuelgirardin](https://github.com/samuelgirardin)/[**OpenSurf-AS3-Algorit…**](https://github.com/samuelgirardin/OpenSurf-AS3-Algorithm) | Surf Algorithm port to as3 |
@@ -927,7 +943,9 @@
 2 | [@francois-blanchard](https://github.com/francois-blanchard)/[**Memo_project_flash**](https://github.com/francois-blanchard/Memo_project_flash) | Project flash hetic h3 team 6 |
 2 | [@Neamar](https://github.com/Neamar)/[**DGraphe**](https://github.com/Neamar/DGraphe) | Jeu flash LightningMagnet | [:arrow_upper_right:](http://neamar.fr/Res/LightningMagnet/)
 2 | [@vincent-petithory](https://github.com/vincent-petithory)/[**astre**](https://github.com/vincent-petithory/astre) | A Unit testing library that can be extended in many ways | [:arrow_upper_right:](http://astre.lunar-dev.net/)
+
 ### Clojure #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1305 | [@cgrand](https://github.com/cgrand)/[**enlive**](https://github.com/cgrand/enlive) | a selector-based (à la CSS) templating and transformation system for Clojure | [:arrow_upper_right:](http://wiki.github.com/cgrand/enlive)
@@ -974,7 +992,9 @@
 2 | [@bhuron](https://github.com/bhuron)/[**paip**](https://github.com/bhuron/paip) | A port of Paradigms of AI programming to Clojure |
 2 | [@zenmodeler](https://github.com/zenmodeler)/[**spexec**](https://github.com/zenmodeler/spexec) | Clojure BDD library |
 2 | [@cgrand](https://github.com/cgrand)/[**trainings.geneva.201…**](https://github.com/cgrand/trainings.geneva.2012) | Ressources issues des formations Clojure données du 13 au 15 mai 2012 |
+
 ### CoffeeScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 181 | [@wdavidw](https://github.com/wdavidw)/[**node-csv-parse**](https://github.com/wdavidw/node-csv-parse) | CSV parsing implementing the Node.js `stream.Transform` API | [:arrow_upper_right:](http://csv.adaltas.com/parse)
@@ -1011,7 +1031,9 @@
 2 | [@jbmusso](https://github.com/jbmusso)/[**mongoose-notifiable**](https://github.com/jbmusso/mongoose-notifiable) | Mongoose plugin making a model able to send custom notifications over different transports when custom events occur |
 2 | [@jerome-quere](https://github.com/jerome-quere)/[**JStd**](https://github.com/jerome-quere/JStd) | A standard library for JavaScript. |
 2 | [@wdavidw](https://github.com/wdavidw)/[**node-shell-http-fore…**](https://github.com/wdavidw/node-shell-http-forever) | Shell plugin to start/stop an HTTP server using forever |
+
 ### Go #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 163 | [@nleof](https://github.com/nleof)/[**goyesql**](https://github.com/nleof/goyesql) | Go + Yesql |
@@ -1044,7 +1066,9 @@
 2 | [@deniswernert](https://github.com/deniswernert)/[**udev**](https://github.com/deniswernert/udev) |  |
 2 | [@vayan](https://github.com/vayan)/[**gomin**](https://github.com/vayan/gomin) | Minimize JS & CSS |
 2 | [@remyoudompheng](https://github.com/remyoudompheng)/[**go-dns**](https://github.com/remyoudompheng/go-dns) | Go module for DNS queries |
+
 ### Haskell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 111 | [@1HaskellADay](https://github.com/1HaskellADay)/[**1HAD**](https://github.com/1HaskellADay/1HAD) | 1 Haskell A Day exercises |
@@ -1136,7 +1160,9 @@
 2 | [@mboes](https://github.com/mboes)/[**mime-directory**](https://github.com/mboes/mime-directory) | A library for parsing/printing the text/directory mime type. |
 2 | [@sebcrozet](https://github.com/sebcrozet)/[**falling**](https://github.com/sebcrozet/falling) | Generic constructs to build a physics engine. |
 2 | [@phaazon](https://github.com/phaazon)/[**event**](https://github.com/phaazon/event) | Monoidal, monadic and first-class events. | [:arrow_upper_right:](http://hackage.haskell.org/package/event)
+
 ### Lua #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 224 | [@fab13n](https://github.com/fab13n)/[**metalua**](https://github.com/fab13n/metalua) | The metalua programming language | [:arrow_upper_right:](http://metalua.luaforge.net)
@@ -1195,7 +1221,9 @@
 2 | [@Lockeid](https://github.com/Lockeid)/[**Assign**](https://github.com/Lockeid/Assign) | Wow Addon | [:arrow_upper_right:](http://www.wowinterface.com/downloads/info13232-Assign.html)
 2 | [@Lockeid](https://github.com/Lockeid)/[**oUF_Deith**](https://github.com/Lockeid/oUF_Deith) | My personnal layout for oUF |
 2 | [@Adirelle](https://github.com/Adirelle)/[**AdiDebug**](https://github.com/Adirelle/AdiDebug) | Debugging helper frame |
+
 ### Matlab #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 9 | [@gcheron](https://github.com/gcheron)/[**P-CNN**](https://github.com/gcheron/P-CNN) | P-CNN: Pose-based CNN Features for Action Recognition |
@@ -1203,7 +1231,9 @@
 6 | [@christophe-gouel](https://github.com/christophe-gouel)/[**RECS**](https://github.com/christophe-gouel/RECS) | A solver for nonlinear, dynamic, stochastic, rational expectations equilibrium models | [:arrow_upper_right:](http://www.recs-solver.org)
 2 | [@RChaintreuil](https://github.com/RChaintreuil)/[**sudoku-generator**](https://github.com/RChaintreuil/sudoku-generator) | A Sudoku generator for Matlab |
 2 | [@Simon-Lacoste-Julien](https://github.com/Simon-Lacoste-Julien)/[**linearFW**](https://github.com/Simon-Lacoste-Julien/linearFW) | Frank-Wolfe optimization variants with a linear convergence rate |
+
 ### Objective-C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3543 | [@fpillet](https://github.com/fpillet)/[**NSLogger**](https://github.com/fpillet/NSLogger) | A modern, flexible logging tool |
@@ -1353,7 +1383,9 @@
 2 | [@remirobert](https://github.com/remirobert)/[**Wizzem-iOS**](https://github.com/remirobert/Wizzem-iOS) | Wizzem APP |
 2 | [@nverinaud](https://github.com/nverinaud)/[**GridViews-Prototypes**](https://github.com/nverinaud/GridViews-Prototypes) | A bundle of multiple Grid View projects. |
 2 | [@ygini](https://github.com/ygini)/[**rrmail**](https://github.com/ygini/rrmail) | E-mail rerouting system made by a for OS X System Administrator. |
+
 ### Perl #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 72 | [@book](https://github.com/book)/[**Act**](https://github.com/book/Act) | A Conference Toolkit (Git conversion of the Subversion repository) | [:arrow_upper_right:](http://act.mongueurs.net/)
@@ -1507,7 +1539,9 @@
 2 | [@CCrashBandicot](https://github.com/CCrashBandicot)/[**exploit**](https://github.com/CCrashBandicot/exploit) | 0day found by me - | [:arrow_upper_right:](https://www.exploit-db.com/author/?a=7871)
 2 | [@peczenyj](https://github.com/peczenyj)/[**Acme-Lelek**](https://github.com/peczenyj/Acme-Lelek) |  |
 2 | [@Ovid](https://github.com/Ovid)/[**Test-JSON**](https://github.com/Ovid/Test-JSON) | Perl support for testing JSON | [:arrow_upper_right:](http://search.cpan.org/dist/Test-JSON/)
+
 ### PHP #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 8941 | [@fzaninotto](https://github.com/fzaninotto)/[**Faker**](https://github.com/fzaninotto/Faker) | Faker is a PHP library that generates fake data for you |
@@ -1746,7 +1780,9 @@
 2 | [@vjousse](https://github.com/vjousse)/[**wp-vjousse**](https://github.com/vjousse/wp-vjousse) | Minimalist and responsive WordPress theme |
 2 | [@vjousse](https://github.com/vjousse)/[**sfDoctrineAssetsLibr…**](https://github.com/vjousse/sfDoctrineAssetsLibraryPlugin) | Asset library for symfony |
 2 | [@ornicar](https://github.com/ornicar)/[**dmGithubPlugin**](https://github.com/ornicar/dmGithubPlugin) | Provides php-github-api and some front widgets | [:arrow_upper_right:](http://diem-project.org/plugins/dmgithubplugin)
+
 ### Python #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2361 | [@jeanphix](https://github.com/jeanphix)/[**Ghost.py**](https://github.com/jeanphix/Ghost.py) | Webkit based scriptable web browser for python.  | [:arrow_upper_right:](http://ghost-py.readthedocs.org/en/latest/)
@@ -1927,7 +1963,9 @@
 2 | [@chmouel](https://github.com/chmouel)/[**nautilus-cloud-files…**](https://github.com/chmouel/nautilus-cloud-files-plugin) | Nautilus Plugin to upload to Rackspace Cloud Files | [:arrow_upper_right:](http://blog.chmouel.com/)
 2 | [@Fantomas42](https://github.com/Fantomas42)/[**templer.django-proje…**](https://github.com/Fantomas42/templer.django-project-app) | Templer extension for creating Django applications within projects. |
 2 | [@tshirtman](https://github.com/tshirtman)/[**remote_control**](https://github.com/tshirtman/remote_control) | a (mobile) client + server to remote control your pc using server-side configured commands. |
+
 ### R #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 152 | [@briatte](https://github.com/briatte)/[**ida**](https://github.com/briatte/ida) | An introduction to data analysis, using R. Experimental. | [:arrow_upper_right:](http://f.briatte.org/teaching/ida/)
@@ -1957,7 +1995,9 @@
 2 | [@briatte](https://github.com/briatte)/[**parlement**](https://github.com/briatte/parlement) | Bill cosponsorship networks in the French Parliament. | [:arrow_upper_right:](http://f.briatte.org/parlviz/parlement)
 2 | [@picasa](https://github.com/picasa)/[**rsunflo**](https://github.com/picasa/rsunflo) | Tools for phenotyping, simulating and modelling with the SUNFLO crop model |
 2 | [@briatte](https://github.com/briatte)/[**sociothese**](https://github.com/briatte/sociothese) | Topic models for @coulmont. |
+
 ### Ruby #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 701 | [@thbar](https://github.com/thbar)/[**kiba**](https://github.com/thbar/kiba) | Lightweight ETL for Ruby | [:arrow_upper_right:](http://www.kiba-etl.org)
@@ -2167,7 +2207,9 @@
 2 | [@julienXX](https://github.com/julienXX)/[**ChromiumUpdater**](https://github.com/julienXX/ChromiumUpdater) | Updates Chromium OS X with the latest build |
 2 | [@shingara](https://github.com/shingara)/[**oupsnow-plugins**](https://github.com/shingara/oupsnow-plugins) | All plugin to oupsnow |
 2 | [@dmathieu](https://github.com/dmathieu)/[**ember101**](https://github.com/dmathieu/ember101) | Discover EmberJS | [:arrow_upper_right:](http://ember101.heroku.com/)
+
 ### Scala #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 134 | [@sstone](https://github.com/sstone)/[**amqp-client**](https://github.com/sstone/amqp-client) | Simple fault-tolerant AMQP client written in Scala and based on Akka and the RabbitMQ java client |
@@ -2230,7 +2272,9 @@
 2 | [@fanf](https://github.com/fanf)/[**scalaio_2014**](https://github.com/fanf/scalaio_2014) | Code for my presentation on Scala.io 2014 about error management in Scala |
 2 | [@mosser](https://github.com/mosser)/[**PeanoMachine**](https://github.com/mosser/PeanoMachine) |  |
 2 | [@newca12](https://github.com/newca12)/[**TMDb-async-client**](https://github.com/newca12/TMDb-async-client) | Scala async wrapper for TMDb (The Movie Database) API |
+
 ### Shell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 72 | [@nicolargo](https://github.com/nicolargo)/[**debianpostinstall**](https://github.com/nicolargo/debianpostinstall) | Script pour automatiser l'installation de machine sous Debian |
@@ -2269,7 +2313,9 @@
 2 | [@nicolargo](https://github.com/nicolargo)/[**blogostat**](https://github.com/nicolargo/blogostat) | Quelques scripts pour obtenir des stats sur la blogosphère FR |
 2 | [@nicolargo](https://github.com/nicolargo)/[**sjitter**](https://github.com/nicolargo/sjitter) | Sjitter is a command line client/server to measure jitter (based on RFC 1889), one way UDP delay and bandwidth. | [:arrow_upper_right:](http://www.nicolargo.com/dev/sjitter/)
 2 | [@vdemeester](https://github.com/vdemeester)/[**sh-config**](https://github.com/vdemeester/sh-config) | personal shells configuration, managed using vcsh and mr |
+
 ### Swift #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 962 | [@didierbrun](https://github.com/didierbrun)/[**DBPathRecognizer**](https://github.com/didierbrun/DBPathRecognizer) | Gesture recognizer tool [Swift / iOS] |
@@ -2292,11 +2338,15 @@
 2 | [@matvdg](https://github.com/matvdg)/[**TuPreferes**](https://github.com/matvdg/TuPreferes) | Swift Project |
 2 | [@sylvaingml](https://github.com/sylvaingml)/[**Swift-SGiTKeyboardLi…**](https://github.com/sylvaingml/Swift-SGiTKeyboardListener) | A simple listener on keyboard to use with fields in scrollviews |
 2 | [@phimage](https://github.com/phimage)/[**XcodePluginsAddUUID**](https://github.com/phimage/XcodePluginsAddUUID) | Swift script to edit plugin plist and add current Xcode UUID if missing |
+
 ### TeX #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 5 | [@exo7math](https://github.com/exo7math)/[**exo7-livre**](https://github.com/exo7math/exo7-livre) | Fchiers sources des cours Exo7 |
+
 ### VimL #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 228 | [@romainl](https://github.com/romainl)/[**Apprentice**](https://github.com/romainl/Apprentice) | A dark, low-contrast, Vim colorscheme. | [:arrow_upper_right:](http://romainl.github.io/Apprentice/)
@@ -2320,6 +2370,7 @@
 2 | [@Harenome](https://github.com/Harenome)/[**vim-mipssyntax**](https://github.com/Harenome/vim-mipssyntax) | MIPS Syntax file |
 2 | [@sbadia](https://github.com/sbadia)/[**grimvim**](https://github.com/sbadia/grimvim) | My Vim files |
 2 | [@SebastienElet](https://github.com/SebastienElet)/[**dotfiles-vim**](https://github.com/SebastienElet/dotfiles-vim) | Vim configuration |
+
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
